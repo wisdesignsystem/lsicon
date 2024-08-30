@@ -1,0 +1,51 @@
+{
+  "cSpell.words": ["clipboardy", "middlewares", "outputters", "webpackbar", "wisdesign", "wisdesignsystem", "wisrc"],
+  "files.associations": {
+    "*.js": "javascript",
+    "*.jsx": "javascriptreact",
+    "*.ts": "typescript",
+    "*.tsx": "typescriptreact",
+    "*.less": "less",
+    "*.css": "css",
+    ".env": "dotenv",
+    ".env.local": "dotenv",
+    ".env.prod": "dotenv",
+    ".env.prod.local": "dotenv",
+    ".env.mock": "dotenv",
+    ".env.mock.local": "dotenv",
+    ".env.dev": "dotenv",
+    ".env.dev.local": "dotenv"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "eslint.experimental.useFlatConfig": false
+}

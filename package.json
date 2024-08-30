@@ -1,0 +1,69 @@
+{
+  "name": "@wisdesign/icons",
+  "version": "0.0.13",
+  "description": "Elegant and Open-Source Icon Library, Discover over 400 high-quality, fully customizable SVG icons for your projects.",
+  "keywords": [
+    "wisdesign",
+    "icons",
+    "react icons"
+  ],
+  "main": "dist/icons.esm.js",
+  "module": "dist/icons.esm.js",
+  "files": [
+    "dist",
+    "components"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "scripts": {
+    "prepare": "husky",
+    "beta": "pnpm changeset pre enter beta",
+    "alpha": "pnpm changeset pre enter alpha",
+    "rc": "pnpm changeset pre enter rc",
+    "exit": "pnpm changeset pre exit",
+    "changeset": "npx changeset",
+    "version": "pnpm changeset version && node ./scripts/version.js",
+    "publish": "pnpm publish -r",
+    "clean": "rm -rf node_modules",
+    "build": "node ./scripts/icons.js && NODE_ENV=production rollup -c"
+  },
+  "lint-staged": {
+    "**/*.{js,jsx}": [
+      "prettier --write",
+      "eslint"
+    ],
+    "**/*.json": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "@changesets/cli": "2.27.5",
+    "@commitlint/cli": "18.6.1",
+    "@commitlint/config-conventional": "18.6.3",
+    "@wisdesign/eslint-config": "0.0.1",
+    "@wisdesign/prettier-config": "0.0.1",
+    "husky": "9.0.11",
+    "lint-staged": "15.2.7",
+    "@figma-export/core": "6.0.0",
+    "@figma-export/output-components-as-svgr": "6.0.1",
+    "@figma-export/transform-svg-with-svgo": "6.0.1",
+    "@rollup/plugin-node-resolve": "15.2.3",
+    "chalk": "5.3.0",
+    "rollup": "4.20.0",
+    "rollup-plugin-cleaner": "1.0.0",
+    "rollup-plugin-esbuild": "6.1.1",
+    "@prettier/sync": "0.5.2",
+    "@svgr/plugin-jsx": "8.1.0",
+    "@wisdesign/utils": "0.0.2",
+    "dotenv": "16.3.1",
+    "dotenv-expand": "10.0.0",
+    "ora": "8.0.1",
+    "prettier": "3.3.1"
+  }
+}
