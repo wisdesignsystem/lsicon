@@ -1,5 +1,14 @@
 {
-  "cSpell.words": ["clipboardy", "middlewares", "outputters", "webpackbar", "wisdesign", "wisdesignsystem", "wisrc"],
+  "cSpell.words": [
+    "clipboardy",
+    "lsicon",
+    "middlewares",
+    "outputters",
+    "webpackbar",
+    "wisdesign",
+    "wisdesignsystem",
+    "wisrc"
+  ],
   "files.associations": {
     "*.js": "javascript",
     "*.jsx": "javascriptreact",
