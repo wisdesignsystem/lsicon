@@ -48,8 +48,7 @@ function () {
 
 <p align="center">
     <picture>
-      <img alt="lsicon" width="208" height="120" style="max-width: 100%" src="
-https://img.seergb.com/icon-demo.svg">
+      <img alt="lsicon" width="208" height="120" style="max-width: 100%" src="https://img.seergb.com/icon-demo.svg">
     </picture>
 </p>
 
