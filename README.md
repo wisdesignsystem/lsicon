@@ -54,38 +54,37 @@ function () {
 
 ```js
 //Javascript
-import { UrgencyIcon } from "@wisdesign/lsicon";
-import { UrgencyFilledIcon } from "@wisdesign/lsicon";
+import { UrgencyIcon, UrgencyFilledIcon } from "@wisdesign/lsicon";
  
 function () {
   return (
     <>
-    <UrgencyIcon className={styles.one} />
-    <UrgencyFilledIcon className={styles.two} />
-    <UrgencyIcon className={styles.three} />
+      <UrgencyIcon className={styles.one} />
+      <UrgencyFilledIcon className={styles.two} />
+      <UrgencyIcon className={styles.three} />
     </>
   )
 }
 ```
 ```css
 /* CSS */
-  .one {
+.one {
   font-size: 24px;
-  color: var(--wd-font-color-brand);
+  color: #4f46e5;
   padding-right: 16px;
-  }
+}
  
-  .two {
+.two {
   font-size: 32px;
   color: black;
   padding-right: 16px;
-  }
+}
  
-  .three {
+.three {
   font-size: 40px;
-  color: var(--wd-font-color-helper);
+  color: #64748b;
   padding-right: 16px;
-  }
+}
   ```
 
 ## Contribution
