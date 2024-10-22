@@ -9,6 +9,7 @@ export default [
         name: 'Navigation',
         title: 'Navigation',
         children: [
+          { type: 'component', title: 'ArrowDownRight', name: 'ArrowDownRightIcon' },
           { type: 'component', title: 'Home', name: 'HomeIcon' },
           { type: 'component', title: 'Apps', name: 'AppsIcon' },
           { type: 'component', title: 'TriangleDown', name: 'TriangleDownIcon' },
@@ -35,6 +36,7 @@ export default [
           { type: 'component', title: 'CloseSmall', name: 'CloseSmallIcon' },
           { type: 'component', title: 'OpenNew', name: 'OpenNewIcon' },
           { type: 'component', title: 'ShellWindowMinimize', name: 'ShellWindowMinimizeIcon' },
+          { type: 'component', title: 'Toggle', name: 'ToggleIcon' },
         ],
       },
       {
@@ -329,6 +331,10 @@ export default [
           { type: 'component', title: 'UserLeave', name: 'UserLeaveIcon' },
           { type: 'component', title: 'UserAll', name: 'UserAllIcon' },
           { type: 'component', title: 'UserNew', name: 'UserNewIcon' },
+          { type: 'component', title: 'Moon', name: 'MoonIcon' },
+          { type: 'component', title: 'ListTwo', name: 'ListTwoIcon' },
+          { type: 'component', title: 'ViewColumn', name: 'ViewColumnIcon' },
+          { type: 'component', title: 'Gallery', name: 'GalleryIcon' },
         ],
       },
       {
@@ -370,6 +376,7 @@ export default [
           { type: 'component', title: 'Incubator', name: 'IncubatorIcon' },
           { type: 'component', title: 'ToggleWarehouseX', name: 'ToggleWarehouseXIcon' },
           { type: 'component', title: 'ToggleWarehouseY', name: 'ToggleWarehouseYIcon' },
+          { type: 'component', title: 'Receipt', name: 'ReceiptIcon' },
         ],
       },
       {
@@ -428,6 +435,7 @@ export default [
         name: 'Navigation',
         title: 'Navigation',
         children: [
+          { type: 'component', title: 'ArrowDownRightFilled', name: 'ArrowDownRightFilledIcon' },
           { type: 'component', title: 'HomeFilled', name: 'HomeFilledIcon' },
           { type: 'component', title: 'AppsFilled', name: 'AppsFilledIcon' },
           { type: 'component', title: 'TriangleDownFilled', name: 'TriangleDownFilledIcon' },
@@ -453,6 +461,7 @@ export default [
           { type: 'component', title: 'CloseSmallFilled', name: 'CloseSmallFilledIcon' },
           { type: 'component', title: 'OpenNewFilled', name: 'OpenNewFilledIcon' },
           { type: 'component', title: 'ShellWindowMinimizeFilled', name: 'ShellWindowMinimizeFilledIcon' },
+          { type: 'component', title: 'ToggleFilled', name: 'ToggleFilledIcon' },
         ],
       },
       {
@@ -747,6 +756,10 @@ export default [
           { type: 'component', title: 'UserLeaveFilled', name: 'UserLeaveFilledIcon' },
           { type: 'component', title: 'UserAllFilled', name: 'UserAllFilledIcon' },
           { type: 'component', title: 'UserNewFilled', name: 'UserNewFilledIcon' },
+          { type: 'component', title: 'MoonFilled', name: 'MoonFilledIcon' },
+          { type: 'component', title: 'ListTwoFilled', name: 'ListTwoFilledIcon' },
+          { type: 'component', title: 'ViewColumnFilled', name: 'ViewColumnFilledIcon' },
+          { type: 'component', title: 'GalleryFilled', name: 'GalleryFilledIcon' },
         ],
       },
       {
@@ -788,6 +801,7 @@ export default [
           { type: 'component', title: 'IncubatorFilled', name: 'IncubatorFilledIcon' },
           { type: 'component', title: 'ToggleWarehouseXFilled', name: 'ToggleWarehouseXFilledIcon' },
           { type: 'component', title: 'ToggleWarehouseYFilled', name: 'ToggleWarehouseYFilledIcon' },
+          { type: 'component', title: 'ReceiptFilled', name: 'ReceiptFilledIcon' },
         ],
       },
       {
