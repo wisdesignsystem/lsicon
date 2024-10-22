@@ -1,5 +1,25 @@
 # @wisdesign/lsicon
 
+## 0.0.2
+
+### Patch Changes
+
+- [feature] add 14 icon components
+  - +ArrowDownRightIcon
+  - +ToggleIcon
+  - +MoonIcon
+  - +ListTwoIcon
+  - +ViewColumnIcon
+  - +GalleryIcon
+  - +ReceiptIcon
+  - +ArrowDownRightFilledIcon
+  - +ToggleFilledIcon
+  - +MoonFilledIcon
+  - +ListTwoFilledIcon
+  - +ViewColumnFilledIcon
+  - +GalleryFilledIcon
+  - +ReceiptFilledIcon
+
 ## 0.0.1
 
 ### Patch Changes
