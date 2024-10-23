@@ -1,5 +1,11 @@
 # @wisdesign/lsicon
 
+## 0.0.3
+
+### Patch Changes
+
+- e437af1: [doc] change the base info of repository
+
 ## 0.0.2
 
 ### Patch Changes
