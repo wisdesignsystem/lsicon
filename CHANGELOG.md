@@ -1,5 +1,62 @@
 # @wisdesign/lsicon
 
+## 0.0.4
+
+### Patch Changes
+
+- 30da4b4: [feature] add 50 icon component
+
+  - +CircleArrowUpIcon
+  - +CircleArrowDownIcon
+  - +CircleArrowLeftIcon
+  - +CircleArrowRightIcon
+  - +CliIcon
+  - +GitMergeIcon
+  - +GitPullIcon
+  - +GitDiffIcon
+  - +GitBranchIcon
+  - +GitForkIcon
+  - +GitCommitIcon
+  - +CodeIcon
+  - +PadTwoIcon
+  - +PenIcon
+  - +CubeIcon
+  - +MagicIcon
+  - +MailIcon
+  - +RocketIcon
+  - +BookIcon
+  - +NumberSignIcon
+  - +BulbIcon
+  - +EarthTwoIcon
+  - +DocumentIcon
+  - +FolderOpenIcon
+  - +FolderCloseIcon
+  - +CircleArrowUpFilledIcon
+  - +CircleArrowDownFilledIcon
+  - +CircleArrowLeftFilledIcon
+  - +CircleArrowRightFilledIcon
+  - +CliFilledIcon
+  - +GitMergeFilledIcon
+  - +GitPullFilledIcon
+  - +GitDiffFilledIcon
+  - +GitBranchFilledIcon
+  - +GitForkFilledIcon
+  - +GitCommitFilledIcon
+  - +CodeFilledIcon
+  - +PadTwoFilledIcon
+  - +PenFilledIcon
+  - +CubeFilledIcon
+  - +MagicFilledIcon
+  - +MailFilledIcon
+  - +RocketFilledIcon
+  - +BookFilledIcon
+  - +NumberSignFilledIcon
+  - +BulbFilledIcon
+  - +EarthTwoFilledIcon
+  - +DocumentFilledIcon
+  - +FolderOpenFilledIcon
+  - +FolderCloseFilledIcon
+
 ## 0.0.3
 
 ### Patch Changes
@@ -11,20 +68,20 @@
 ### Patch Changes
 
 - [feature] add 14 icon components
-  - +ArrowDownRightIcon
-  - +ToggleIcon
-  - +MoonIcon
-  - +ListTwoIcon
-  - +ViewColumnIcon
-  - +GalleryIcon
-  - +ReceiptIcon
-  - +ArrowDownRightFilledIcon
-  - +ToggleFilledIcon
-  - +MoonFilledIcon
-  - +ListTwoFilledIcon
-  - +ViewColumnFilledIcon
-  - +GalleryFilledIcon
-  - +ReceiptFilledIcon
+  - +rrowDownRightIcon
+  - +oggleIcon
+  - +oonIcon
+  - +istTwoIcon
+  - +iewColumnIcon
+  - +alleryIcon
+  - +eceiptIcon
+  - +rrowDownRightFilledIcon
+  - +oggleFilledIcon
+  - +oonFilledIcon
+  - +istTwoFilledIcon
+  - +iewColumnFilledIcon
+  - +alleryFilledIcon
+  - +eceiptFilledIcon
 
 ## 0.0.1
 
