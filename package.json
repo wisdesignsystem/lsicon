@@ -35,7 +35,7 @@
     "exit": "pnpm changeset pre exit",
     "changeset": "npx changeset",
     "version": "pnpm changeset version",
-    "publish": "pnpm publish -r",
+    "publish": "pnpm publish",
     "clean": "rm -rf node_modules",
     "build": "node ./scripts/icons.js && NODE_ENV=production rollup -c"
   },

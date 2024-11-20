@@ -1,0 +1,56 @@
+---
+'@wisdesign/lsicon': patch
+---
+
+[feature] add 50 icon component
+
+  - + CircleArrowUpIcon
+  - + CircleArrowDownIcon
+  - + CircleArrowLeftIcon
+  - + CircleArrowRightIcon
+  - + CliIcon
+  - + GitMergeIcon
+  - + GitPullIcon
+  - + GitDiffIcon
+  - + GitBranchIcon
+  - + GitForkIcon
+  - + GitCommitIcon
+  - + CodeIcon
+  - + PadTwoIcon
+  - + PenIcon
+  - + CubeIcon
+  - + MagicIcon
+  - + MailIcon
+  - + RocketIcon
+  - + BookIcon
+  - + NumberSignIcon
+  - + BulbIcon
+  - + EarthTwoIcon
+  - + DocumentIcon
+  - + FolderOpenIcon
+  - + FolderCloseIcon
+  - + CircleArrowUpFilledIcon
+  - + CircleArrowDownFilledIcon
+  - + CircleArrowLeftFilledIcon
+  - + CircleArrowRightFilledIcon
+  - + CliFilledIcon
+  - + GitMergeFilledIcon
+  - + GitPullFilledIcon
+  - + GitDiffFilledIcon
+  - + GitBranchFilledIcon
+  - + GitForkFilledIcon
+  - + GitCommitFilledIcon
+  - + CodeFilledIcon
+  - + PadTwoFilledIcon
+  - + PenFilledIcon
+  - + CubeFilledIcon
+  - + MagicFilledIcon
+  - + MailFilledIcon
+  - + RocketFilledIcon
+  - + BookFilledIcon
+  - + NumberSignFilledIcon
+  - + BulbFilledIcon
+  - + EarthTwoFilledIcon
+  - + DocumentFilledIcon
+  - + FolderOpenFilledIcon
+  - + FolderCloseFilledIcon
