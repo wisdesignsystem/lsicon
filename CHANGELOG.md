@@ -5,57 +5,56 @@
 ### Patch Changes
 
 - 30da4b4: [feature] add 50 icon component
-
-  - + CircleArrowUpIcon
-  - + CircleArrowDownIcon
-  - + CircleArrowLeftIcon
-  - + CircleArrowRightIcon
-  - + CliIcon
-  - + GitMergeIcon
-  - + GitPullIcon
-  - + GitDiffIcon
-  - + GitBranchIcon
-  - + GitForkIcon
-  - + GitCommitIcon
-  - + CodeIcon
-  - + PadTwoIcon
-  - + PenIcon
-  - + CubeIcon
-  - + MagicIcon
-  - + MailIcon
-  - + RocketIcon
-  - + BookIcon
-  - + NumberSignIcon
-  - + BulbIcon
-  - + EarthTwoIcon
-  - + DocumentIcon
-  - + FolderOpenIcon
-  - + FolderCloseIcon
-  - + CircleArrowUpFilledIcon
-  - + CircleArrowDownFilledIcon
-  - + CircleArrowLeftFilledIcon
-  - + CircleArrowRightFilledIcon
-  - + CliFilledIcon
-  - + GitMergeFilledIcon
-  - + GitPullFilledIcon
-  - + GitDiffFilledIcon
-  - + GitBranchFilledIcon
-  - + GitForkFilledIcon
-  - + GitCommitFilledIcon
-  - + CodeFilledIcon
-  - + PadTwoFilledIcon
-  - + PenFilledIcon
-  - + CubeFilledIcon
-  - + MagicFilledIcon
-  - + MailFilledIcon
-  - + RocketFilledIcon
-  - + BookFilledIcon
-  - + NumberSignFilledIcon
-  - + BulbFilledIcon
-  - + EarthTwoFilledIcon
-  - + DocumentFilledIcon
-  - + FolderOpenFilledIcon
-  - + FolderCloseFilledIcon
+  - CircleArrowUpIcon
+  - CircleArrowDownIcon
+  - CircleArrowLeftIcon
+  - CircleArrowRightIcon
+  - CliIcon
+  - GitMergeIcon
+  - GitPullIcon
+  - GitDiffIcon
+  - GitBranchIcon
+  - GitForkIcon
+  - GitCommitIcon
+  - CodeIcon
+  - PadTwoIcon
+  - PenIcon
+  - CubeIcon
+  - MagicIcon
+  - MailIcon
+  - RocketIcon
+  - BookIcon
+  - NumberSignIcon
+  - BulbIcon
+  - EarthTwoIcon
+  - DocumentIcon
+  - FolderOpenIcon
+  - FolderCloseIcon
+  - CircleArrowUpFilledIcon
+  - CircleArrowDownFilledIcon
+  - CircleArrowLeftFilledIcon
+  - CircleArrowRightFilledIcon
+  - CliFilledIcon
+  - GitMergeFilledIcon
+  - GitPullFilledIcon
+  - GitDiffFilledIcon
+  - GitBranchFilledIcon
+  - GitForkFilledIcon
+  - GitCommitFilledIcon
+  - CodeFilledIcon
+  - PadTwoFilledIcon
+  - PenFilledIcon
+  - CubeFilledIcon
+  - MagicFilledIcon
+  - MailFilledIcon
+  - RocketFilledIcon
+  - BookFilledIcon
+  - NumberSignFilledIcon
+  - BulbFilledIcon
+  - EarthTwoFilledIcon
+  - DocumentFilledIcon
+  - FolderOpenFilledIcon
+  - FolderCloseFilledIcon
 
 ## 0.0.3
 
@@ -68,20 +67,20 @@
 ### Patch Changes
 
 - [feature] add 14 icon components
-  - + ArrowDownRightIcon
-  - + ToggleIcon
-  - + MoonIcon
-  - + ListTwoIcon
-  - + ViewColumnIcon
-  - + GalleryIcon
-  - + ReceiptIcon
-  - + ArrowDownRightFilledIcon
-  - + ToggleFilledIcon
-  - + MoonFilledIcon
-  - + ListTwoFilledIcon
-  - + ViewColumnFilledIcon
-  - + GalleryFilledIcon
-  - + ReceiptFilledIcon
+  - ArrowDownRightIcon
+  - ToggleIcon
+  - MoonIcon
+  - ListTwoIcon
+  - ViewColumnIcon
+  - GalleryIcon
+  - ReceiptIcon
+  - ArrowDownRightFilledIcon
+  - ToggleFilledIcon
+  - MoonFilledIcon
+  - ListTwoFilledIcon
+  - ViewColumnFilledIcon
+  - GalleryFilledIcon
+  - ReceiptFilledIcon
 
 ## 0.0.1
 
