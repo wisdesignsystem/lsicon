@@ -30,7 +30,8 @@ jobs:
       - name: Create Release Pull Request
         uses: changesets/action@v1
         with:
-          publish: pnpm release
+          publish: pnpm run release
+          version: pnpm run version
           commit: "release: publish new version"
           title: Release new version
         env:

@@ -25,7 +25,7 @@
     "preinstall": "npx only-allow pnpm",
     "changelog": "pnpm changeset",
     "version": "pnpm changeset version",
-    "release": "pnpm publish",
+    "release": "pnpm changeset tag && git push --follow-tags && pnpm publish",
     "clean": "rm -rf node_modules",
     "build": "node ./scripts/icons.js && NODE_ENV=production rollup -c && biome check --write"
   },
