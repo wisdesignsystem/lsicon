@@ -1,5 +1,11 @@
 # @wisdesign/lsicon
 
+## 0.0.6
+
+### Patch Changes
+
+- [#3](https://github.com/wisdesignsystem/lsicon/pull/3) [`16390b8`](https://github.com/wisdesignsystem/lsicon/commit/16390b803c0f290ac45704cc5998eeca0de3d4a8) Thanks [@FaureWu](https://github.com/FaureWu)! - [chore]: test the auto changelog flow
+
 ## 0.0.5
 
 ### Patch Changes
