@@ -1,29 +1,36 @@
 #!/usr/bin/env node
-/* eslint-disable no-console */
 
-import childProcess from 'node:child_process'
+import childProcess from "node:child_process";
 
-const branchName = childProcess.execSync('git symbolic-ref --short HEAD').toString().trim()
-const whitelist = ['main', 'test']
+const branchName = childProcess
+  .execSync("git symbolic-ref --short HEAD")
+  .toString()
+  .trim();
+const whitelist = ["main", "test"];
 
 const isValid =
-  whitelist.includes(branchName) || /^(feat|fix|hotfix|doc|style|test|chore|release)\/[a-z0-9._-]+$/.test(branchName)
+  whitelist.includes(branchName) ||
+  /^(feat|fix|hotfix|doc|style|test|chore|release)\/[a-z0-9._-]+$/.test(
+    branchName,
+  );
 
 if (!isValid) {
-  console.log(`Invalid Branch Name: ${branchName}, Please name the branch according to the following rules.`)
-  console.log('example:')
-  console.log('    feat/xxx, fix/xxx, ...')
-  console.log()
-  console.log('The available prefixes are as follows:')
-  console.log()
-  console.log('    feat:      A new feature')
-  console.log('    fix:        A bug fix')
-  console.log('    hotfix:     A bug hotfix')
-  console.log('    doc:       Only change documentation')
-  console.log('    style:     Only change style')
-  console.log('    test:      Change test code')
-  console.log('    chore:     Build, development or deploy')
-  console.log('    release:   A release version')
-  console.log()
-  process.exit(1)
+  console.info(
+    `Invalid Branch Name: ${branchName}, Please name the branch according to the following rules.`,
+  );
+  console.info("example:");
+  console.info("    feat/xxx, fix/xxx, ...");
+  console.info();
+  console.info("The available prefixes are as follows:");
+  console.info();
+  console.info("    feat:      A new feature");
+  console.info("    fix:        A bug fix");
+  console.info("    hotfix:     A bug hotfix");
+  console.info("    doc:       Only change documentation");
+  console.info("    style:     Only change style");
+  console.info("    test:      Change test code");
+  console.info("    chore:     Build, development or deploy");
+  console.info("    release:   A release version");
+  console.info();
+  process.exit(1);
 }
