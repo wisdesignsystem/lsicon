@@ -1,5 +1,11 @@
 # @wisdesign/lsicon
 
+## 0.0.7
+
+### Patch Changes
+
+- [`08e6593`](https://github.com/wisdesignsystem/lsicon/commit/08e6593ee75e96e7094d3d4c669db81e808b43da) Thanks [@FaureWu](https://github.com/FaureWu)! - [Feature] support the typescript
+
 ## 0.0.6
 
 ### Patch Changes
