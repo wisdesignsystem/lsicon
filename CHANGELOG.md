@@ -1,5 +1,11 @@
 # @wisdesign/lsicon
 
+## 0.0.8
+
+### Patch Changes
+
+- [`285cedf`](https://github.com/wisdesignsystem/lsicon/commit/285cedf0ce72034146514d430b6affe1e72f3435) Thanks [@FaureWu](https://github.com/FaureWu)! - [Fix] fix the dist source missing
+
 ## 0.0.7
 
 ### Patch Changes
