@@ -189,9 +189,14 @@ async function icon(iconOption) {
 
           return exportComponentName;
         },
+        getFileExtension: () => {
+          return ".tsx";
+        },
         getSvgrConfig: () => {
           return {
             icon: true,
+            typescript: true,
+            jsxRuntime: "automatic",
             plugins: ["@svgr/plugin-jsx"],
           };
         },
