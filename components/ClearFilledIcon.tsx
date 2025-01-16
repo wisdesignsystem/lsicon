@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const ClearFilledIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

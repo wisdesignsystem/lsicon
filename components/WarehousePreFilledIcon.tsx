@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const WarehousePreFilledIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

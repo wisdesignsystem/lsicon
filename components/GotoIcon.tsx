@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const GotoIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

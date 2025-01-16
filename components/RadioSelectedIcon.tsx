@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const RadioSelectedIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

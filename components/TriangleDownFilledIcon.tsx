@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const TriangleDownFilledIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

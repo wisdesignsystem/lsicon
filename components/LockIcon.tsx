@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const LockIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

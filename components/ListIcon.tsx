@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const ListIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

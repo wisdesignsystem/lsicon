@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const RefreshDoingIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

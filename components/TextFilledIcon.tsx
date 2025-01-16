@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const TextFilledIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

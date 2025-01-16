@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const PieTwoIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

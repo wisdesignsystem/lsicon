@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const ToggleWarehouseYFilledIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

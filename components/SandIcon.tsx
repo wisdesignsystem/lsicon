@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { SVGProps } from "react";
 const SandIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg

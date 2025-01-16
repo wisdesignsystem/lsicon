@@ -196,7 +196,6 @@ async function icon(iconOption) {
           return {
             icon: true,
             typescript: true,
-            jsxRuntime: "automatic",
             plugins: ["@svgr/plugin-jsx"],
           };
         },
