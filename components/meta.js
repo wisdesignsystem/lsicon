@@ -169,6 +169,12 @@ export default [
       },
       {
         type: "category",
+        name: "Face",
+        title: "Face",
+        children: [{ type: "component", title: "Smile", name: "SmileIcon" }],
+      },
+      {
+        type: "category",
         name: "Action",
         title: "Action",
         children: [
@@ -406,6 +412,7 @@ export default [
             title: "LinejoinRound",
             name: "LinejoinRoundIcon",
           },
+          { type: "component", title: "Exit", name: "ExitIcon" },
         ],
       },
       {
@@ -1030,6 +1037,14 @@ export default [
       },
       {
         type: "category",
+        name: "Face",
+        title: "Face",
+        children: [
+          { type: "component", title: "SmileFilled", name: "SmileFilledIcon" },
+        ],
+      },
+      {
+        type: "category",
         name: "Action",
         title: "Action",
         children: [
@@ -1583,6 +1598,7 @@ export default [
             title: "LinejoinRoundFilled",
             name: "LinejoinRoundFilledIcon",
           },
+          { type: "component", title: "ExitFilled", name: "ExitFilledIcon" },
         ],
       },
       {
