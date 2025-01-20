@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.9
+
+### Patch Changes
+
+- [#7](https://github.com/wisdesignsystem/lsicon/pull/7) [`12a14f8`](https://github.com/wisdesignsystem/lsicon/commit/12a14f8d06b262e348e3d5b114904a51010e6d6a) Thanks [@FaureWu](https://github.com/FaureWu)! - [feature] add new icon
+
+  - SmileIcon
+  - ExitIcon
+  - SmileFilledIcon
+  - ExitFilledIcon
+
 ## 0.0.8
 
 ### Patch Changes
