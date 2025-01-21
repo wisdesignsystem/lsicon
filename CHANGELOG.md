@@ -1,5 +1,20 @@
 # @wisdesign/lsicon
 
+## 0.0.10
+
+### Patch Changes
+
+- [#9](https://github.com/wisdesignsystem/lsicon/pull/9) [`afda718`](https://github.com/wisdesignsystem/lsicon/commit/afda718ce39bdb029e77b406b3eab48e15f95816) Thanks [@FaureWu](https://github.com/FaureWu)! - [Feature] add 8 new icons
+
+  - SignOutIcon
+  - AtIcon
+  - ChatIcon
+  - BookTwoIcon
+  - SignOutFilledIcon
+  - AtFilledIcon
+  - ChatFilledIcon
+  - BookTwoFilledIcon
+
 ## 0.0.9
 
 ### Patch Changes
