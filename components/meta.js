@@ -413,6 +413,7 @@ export default [
             name: "LinejoinRoundIcon",
           },
           { type: "component", title: "Exit", name: "ExitIcon" },
+          { type: "component", title: "SignOut", name: "SignOutIcon" },
         ],
       },
       {
@@ -582,6 +583,9 @@ export default [
           { type: "component", title: "Book", name: "BookIcon" },
           { type: "component", title: "NumberSign", name: "NumberSignIcon" },
           { type: "component", title: "Bulb", name: "BulbIcon" },
+          { type: "component", title: "At", name: "AtIcon" },
+          { type: "component", title: "Chat", name: "ChatIcon" },
+          { type: "component", title: "BookTwo", name: "BookTwoIcon" },
           { type: "component", title: "EarthTwo", name: "EarthTwoIcon" },
         ],
       },
@@ -1599,6 +1603,11 @@ export default [
             name: "LinejoinRoundFilledIcon",
           },
           { type: "component", title: "ExitFilled", name: "ExitFilledIcon" },
+          {
+            type: "component",
+            title: "SignOutFilled",
+            name: "SignOutFilledIcon",
+          },
         ],
       },
       {
@@ -2072,6 +2081,13 @@ export default [
             name: "NumberSignFilledIcon",
           },
           { type: "component", title: "BulbFilled", name: "BulbFilledIcon" },
+          { type: "component", title: "AtFilled", name: "AtFilledIcon" },
+          { type: "component", title: "ChatFilled", name: "ChatFilledIcon" },
+          {
+            type: "component",
+            title: "BookTwoFilled",
+            name: "BookTwoFilledIcon",
+          },
           {
             type: "component",
             title: "EarthTwoFilled",
