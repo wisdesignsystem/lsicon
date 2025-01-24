@@ -7,6 +7,7 @@ const DoubleArrowDownFilledIcon = (props: SVGProps<SVGSVGElement>) => (
     height="1em"
     fill="none"
     viewBox="0 0 16 16"
+    data-role="lsicon"
     {...props}
   >
     <g id="theme=filled">

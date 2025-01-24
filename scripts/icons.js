@@ -111,6 +111,10 @@ const replaceCurrentColorPlugin = {
     return {
       element: {
         enter(node, data) {
+          if (node.name === "svg") {
+            node.attributes["data-role"] = "lsicon";
+          }
+
           if (node.attributes.fill && node.attributes.fill !== "none") {
             node.attributes.fill = "currentColor";
           }
