@@ -1,5 +1,11 @@
 # @wisdesign/lsicon
 
+## 0.0.12
+
+### Patch Changes
+
+- [#13](https://github.com/wisdesignsystem/lsicon/pull/13) [`7556317`](https://github.com/wisdesignsystem/lsicon/commit/755631733db5e0fbfa02bc51ae702fab3028c558) Thanks [@FaureWu](https://github.com/FaureWu)! - [Feature] add the data-role property
+
 ## 0.0.11
 
 ### Patch Changes
