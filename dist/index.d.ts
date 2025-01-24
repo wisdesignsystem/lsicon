@@ -255,6 +255,8 @@ export { default as SortAToZIcon } from './SortAToZIcon.tsx';
 export { default as SortAToZFilledIcon } from './SortAToZFilledIcon.tsx';
 export { default as LinkIcon } from './LinkIcon.tsx';
 export { default as LinkFilledIcon } from './LinkFilledIcon.tsx';
+export { default as IfIcon } from './IfIcon.tsx';
+export { default as IfFilledIcon } from './IfFilledIcon.tsx';
 export { default as DragIcon } from './DragIcon.tsx';
 export { default as DragFilledIcon } from './DragFilledIcon.tsx';
 export { default as UnlinkIcon } from './UnlinkIcon.tsx';

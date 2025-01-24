@@ -276,6 +276,7 @@ export default [
           { type: "component", title: "SortFilter", name: "SortFilterIcon" },
           { type: "component", title: "SortAToZ", name: "SortAToZIcon" },
           { type: "component", title: "Link", name: "LinkIcon" },
+          { type: "component", title: "If", name: "IfIcon" },
           { type: "component", title: "Drag", name: "DragIcon" },
           { type: "component", title: "Unlink", name: "UnlinkIcon" },
           { type: "component", title: "SortZToA", name: "SortZToAIcon" },
@@ -1314,6 +1315,7 @@ export default [
             name: "SortAToZFilledIcon",
           },
           { type: "component", title: "LinkFilled", name: "LinkFilledIcon" },
+          { type: "component", title: "IfFilled", name: "IfFilledIcon" },
           { type: "component", title: "DragFilled", name: "DragFilledIcon" },
           {
             type: "component",
