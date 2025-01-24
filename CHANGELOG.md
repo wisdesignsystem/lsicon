@@ -1,5 +1,14 @@
 # @wisdesign/lsicon
 
+## 0.0.11
+
+### Patch Changes
+
+- [#11](https://github.com/wisdesignsystem/lsicon/pull/11) [`45bae08`](https://github.com/wisdesignsystem/lsicon/commit/45bae08e3257679ff6f157337f50f0611f9dd45a) Thanks [@FaureWu](https://github.com/FaureWu)! - [Feature] add new 2 icons
+
+  - IfIcon
+  - IfFilledIcon
+
 ## 0.0.10
 
 ### Patch Changes
