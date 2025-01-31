@@ -1,10 +1,12 @@
----
-"@wisdesign/lsicon": patch
----
+# @wisdesign/lsicon
 
-Release new icon version
+## 0.0.13
 
-🚀 add icons(790):
+### Patch Changes
+
+- [#15](https://github.com/wisdesignsystem/lsicon/pull/15) [`e5aa3b7`](https://github.com/wisdesignsystem/lsicon/commit/e5aa3b737d80e6bbb3b1b046fdb92ce8ec6dfafb) Thanks [@FaureWu](https://github.com/FaureWu)! - Release new icon version
+
+  🚀 add icons(790):
 
   - ArrowDownRightIcon
   - ArrowDownRightFilledIcon
@@ -796,4 +798,3 @@ Release new icon version
   - FolderOpenFilledIcon
   - FolderCloseIcon
   - FolderCloseFilledIcon
-
