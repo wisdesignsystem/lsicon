@@ -23,7 +23,7 @@ export { default as DownFilledIcon } from "./DownFilledIcon.tsx";
 export { default as LeftIcon } from "./LeftIcon.tsx";
 export { default as LeftFilledIcon } from "./LeftFilledIcon.tsx";
 export { default as RightIcon } from "./RightIcon.tsx";
-export { default as RightVariant2Icon } from "./RightVariant2Icon.tsx";
+export { default as RightFilledIcon } from "./RightFilledIcon.tsx";
 export { default as DoubleArrowUpIcon } from "./DoubleArrowUpIcon.tsx";
 export { default as DoubleArrowUpFilledIcon } from "./DoubleArrowUpFilledIcon.tsx";
 export { default as DoubleArrowDownIcon } from "./DoubleArrowDownIcon.tsx";
