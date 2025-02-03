@@ -4,6 +4,20 @@
 
 ### Patch Changes
 
+- [#24](https://github.com/wisdesignsystem/lsicon/pull/24) [`e97904e`](https://github.com/wisdesignsystem/lsicon/commit/e97904e04e0867b7dcc23de70271b90ebe86d2dd) Thanks [@FaureWu](https://github.com/FaureWu)! - Release new icon version
+
+  🚀 add icons(1):
+
+  - RightFilledIcon
+
+  🗑 remove icons(1):
+
+  - ~~RightVariant2Icon~~
+
+## 0.0.14
+
+### Patch Changes
+
 - [#21](https://github.com/wisdesignsystem/lsicon/pull/21) [`9714d4d`](https://github.com/wisdesignsystem/lsicon/commit/9714d4d8a0ba6b21ae3e58a2eddc4ce05f263c45) Thanks [@FaureWu](https://github.com/FaureWu)! - Release new icon version
 
   🚀 add icons(1):
