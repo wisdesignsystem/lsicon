@@ -2,7 +2,7 @@
   "name": "@wisdesign/lsicon",
   "version": "0.0.14",
   "description": "Icon sets power by lsicon",
-  "homepage": "https://www.lsicon.com?package=@wisdesign/lsicon",
+  "homepage": "https://www.lsicon.com/@wisdesign/lsicon",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:wisdesignsystem/lsicon.git"
@@ -20,7 +20,7 @@
   "scripts": {
     "changelog": "pnpm changeset",
     "version": "pnpm changeset version",
-    "release": "pnpm changeset tag && git push --follow-tags && pnpm publish",
+    "release": "pnpm changeset tag && git push --follow-tags && pnpm publish --no-git-checks",
     "clean": "rm -rf node_modules",
     "build": "lsicon build"
   },
@@ -2612,7 +2612,7 @@
                 "category": "Common",
                 "title": "NumberSign",
                 "fileName": "NumberSignIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 13L10.5 3M5.5 13L7 3M4.5 6H12M4 9.5H11.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.25 14L11.125 2M4.875 14L6.75 2M3.625 5.6H13M3 9.8H12.375\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "bulb",
@@ -2645,6 +2645,14 @@
                 "title": "BookTwo",
                 "fileName": "BookTwoIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 3.70833C6.85003 2.67908 5.33143 2.05323 3.66667 2.05323C2.90696 2.05323 2.17769 2.18356 1.5 2.42309V12.7148C2.17769 12.4752 2.90696 12.3449 3.66667 12.3449C5.33143 12.3449 6.85003 12.9707 8 14M8 3.70833C9.14997 2.67908 10.6686 2.05323 12.3333 2.05323C13.093 2.05323 13.8223 2.18356 14.5 2.42309V12.7148C13.8223 12.4752 13.093 12.3449 12.3333 12.3449C10.6686 12.3449 9.14997 12.9707 8 14M8 3.70833V14\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+              },
+              {
+                "name": "bookmark",
+                "style": "outline",
+                "category": "Common",
+                "title": "Bookmark",
+                "fileName": "BookmarkIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5L12 8L14.5 3.5H1.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "earth-two",
@@ -5849,7 +5857,7 @@
                 "category": "Common",
                 "title": "NumberSign",
                 "fileName": "NumberSignFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.45559 9.99995L5.99447 13.0741L5.00553 12.9258L5.44441 9.99995H4V8.99995H5.59441L5.96941 6.49995H4.5V5.49995H6.11941L6.50553 2.92578L7.49447 3.07412L7.13059 5.49995H9.61941L10.0055 2.92578L10.9945 3.07412L10.6306 5.49995H12V6.49995H10.4806L10.1056 8.99995H11.5V9.99995H9.95559L9.49447 13.0741L8.50553 12.9258L8.94441 9.99995H6.45559ZM6.60559 8.99995H9.09441L9.46941 6.49995H6.98059L6.60559 8.99995Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.06949 10.2907L5.49309 13.9258L4.25691 13.7504L4.80551 10.2907H3V9.10824H4.99301L5.46176 6.15209H3.625V4.96963H5.64926L6.13191 1.92578L7.36809 2.10119L6.91324 4.96963H10.0243L10.5069 1.92578L11.7431 2.10119L11.2882 4.96963H13V6.15209H11.1007L10.632 9.10824H12.375V10.2907H10.4445L9.86809 13.9258L8.63191 13.7504L9.18051 10.2907H6.06949ZM6.25699 9.10824H9.36801L9.83676 6.15209H6.72574L6.25699 9.10824Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "bulb",
@@ -5882,6 +5890,14 @@
                 "title": "BookTwo",
                 "fileName": "BookTwoFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 3.05541C6.80827 2.11494 5.30257 1.55322 3.66667 1.55322C2.84941 1.55322 2.06384 1.69348 1.33338 1.95167L1 2.0695V13.4218L1.66662 13.1862C2.29154 12.9653 2.9645 12.8449 3.66667 12.8449C5.2037 12.8449 6.6047 13.4222 7.66654 14.3726L8 14.671L8.33346 14.3726C9.3953 13.4222 10.7963 12.8449 12.3333 12.8449C13.0355 12.8449 13.7085 12.9653 14.3334 13.1862L15 13.4218V2.0695L14.6666 1.95167C13.9362 1.69348 13.1506 1.55322 12.3333 1.55322C10.6974 1.55322 9.19173 2.11494 8 3.05541Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "bookmark",
+                "style": "filled",
+                "category": "Common",
+                "title": "Bookmark",
+                "fileName": "BookmarkFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5L12 8L14.5 3.5H1.5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "earth-two",
@@ -11541,7 +11557,7 @@
         "category": "Common",
         "title": "NumberSign",
         "fileName": "NumberSignIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 13L10.5 3M5.5 13L7 3M4.5 6H12M4 9.5H11.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.25 14L11.125 2M4.875 14L6.75 2M3.625 5.6H13M3 9.8H12.375\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "number-sign",
@@ -11549,7 +11565,7 @@
         "category": "Common",
         "title": "NumberSign",
         "fileName": "NumberSignFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.45559 9.99995L5.99447 13.0741L5.00553 12.9258L5.44441 9.99995H4V8.99995H5.59441L5.96941 6.49995H4.5V5.49995H6.11941L6.50553 2.92578L7.49447 3.07412L7.13059 5.49995H9.61941L10.0055 2.92578L10.9945 3.07412L10.6306 5.49995H12V6.49995H10.4806L10.1056 8.99995H11.5V9.99995H9.95559L9.49447 13.0741L8.50553 12.9258L8.94441 9.99995H6.45559ZM6.60559 8.99995H9.09441L9.46941 6.49995H6.98059L6.60559 8.99995Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6.06949 10.2907L5.49309 13.9258L4.25691 13.7504L4.80551 10.2907H3V9.10824H4.99301L5.46176 6.15209H3.625V4.96963H5.64926L6.13191 1.92578L7.36809 2.10119L6.91324 4.96963H10.0243L10.5069 1.92578L11.7431 2.10119L11.2882 4.96963H13V6.15209H11.1007L10.632 9.10824H12.375V10.2907H10.4445L9.86809 13.9258L8.63191 13.7504L9.18051 10.2907H6.06949ZM6.25699 9.10824H9.36801L9.83676 6.15209H6.72574L6.25699 9.10824Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "bulb",
@@ -11614,6 +11630,22 @@
         "title": "BookTwo",
         "fileName": "BookTwoFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 3.05541C6.80827 2.11494 5.30257 1.55322 3.66667 1.55322C2.84941 1.55322 2.06384 1.69348 1.33338 1.95167L1 2.0695V13.4218L1.66662 13.1862C2.29154 12.9653 2.9645 12.8449 3.66667 12.8449C5.2037 12.8449 6.6047 13.4222 7.66654 14.3726L8 14.671L8.33346 14.3726C9.3953 13.4222 10.7963 12.8449 12.3333 12.8449C13.0355 12.8449 13.7085 12.9653 14.3334 13.1862L15 13.4218V2.0695L14.6666 1.95167C13.9362 1.69348 13.1506 1.55322 12.3333 1.55322C10.6974 1.55322 9.19173 2.11494 8 3.05541Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "bookmark",
+        "style": "outline",
+        "category": "Common",
+        "title": "Bookmark",
+        "fileName": "BookmarkIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5L12 8L14.5 3.5H1.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+      },
+      {
+        "name": "bookmark",
+        "style": "filled",
+        "category": "Common",
+        "title": "Bookmark",
+        "fileName": "BookmarkFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5L12 8L14.5 3.5H1.5Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "earth-two",
