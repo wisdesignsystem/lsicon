@@ -1,5 +1,21 @@
 # @wisdesign/lsicon
 
+## 0.0.15
+
+### Patch Changes
+
+- [#28](https://github.com/wisdesignsystem/lsicon/pull/28) [`fb9eb36`](https://github.com/wisdesignsystem/lsicon/commit/fb9eb3695c2779dd443d3cfb295a1bf25443fb4a) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - BookmarkIcon
+  - BookmarkFilledIcon
+
+  🔄 update icons(2):
+
+  - NumberSignIcon
+  - NumberSignFilledIcon
+
 ## 0.0.14
 
 ### Patch Changes
