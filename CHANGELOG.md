@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.16
+
+### Patch Changes
+
+- [#30](https://github.com/wisdesignsystem/lsicon/pull/30) [`4b0126f`](https://github.com/wisdesignsystem/lsicon/commit/4b0126f3ab599e940ec75821e5233c0655612f08) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - TimeThreeIcon
+  - TimeThreeFilledIcon
+
 ## 0.0.15
 
 ### Patch Changes
