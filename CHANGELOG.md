@@ -1,5 +1,15 @@
 # @wisdesign/lsicon
 
+## 0.0.19
+
+### Patch Changes
+
+- [#37](https://github.com/wisdesignsystem/lsicon/pull/37) [`f271a42`](https://github.com/wisdesignsystem/lsicon/commit/f271a42c92818d6cde4a055ecd11449364c039bf) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🔄 update icons(1):
+
+  - NoteCardIcon
+
 ## 0.0.18
 
 ### Patch Changes
