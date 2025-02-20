@@ -17,7 +17,9 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/wisdesignsystem/lsicon?tab=MIT-1-ov-file"><img src="https://img.seergb.com/mit.svg" alt="License"></a>
+  <img alt="NPM Version" src="https://img.shields.io/npm/v/%40wisdesign%2Flsicon">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/wisdesignsystem/lsicon">
+  <img alt="NPM License" src="https://img.shields.io/npm/l/%40wisdesign%2Flsicon">
 </p>
 
 ## Installation
