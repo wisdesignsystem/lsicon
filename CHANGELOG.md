@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.18
+
+### Patch Changes
+
+- [#34](https://github.com/wisdesignsystem/lsicon/pull/34) [`0e7b7e1`](https://github.com/wisdesignsystem/lsicon/commit/0e7b7e1a33189a34963a2e774dec0cca1e98b21a) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🔄 update icons(4):
+
+  - BusinessCardIcon
+  - BusinessCardFilledIcon
+  - QuestionCardIcon
+  - QuestionCardFilledIcon
+
 ## 0.0.17
 
 ### Patch Changes
