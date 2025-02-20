@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const BusinessCardFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" fillRule="evenodd" d="M1.5 3C1.22386 3 1 3.22386 1 3.5V12.5C1 12.7761 1.22386 13 1.5 13H14.5C14.7761 13 15 12.7761 15 12.5V3.5C15 3.22386 14.7761 3 14.5 3H1.5ZM4 6.5C4 5.67157 4.67157 5 5.5 5C6.32843 5 7 5.67157 7 6.5C7 6.9778 6.7766 7.40343 6.42855 7.67812C7.34949 8.04675 8 8.94741 8 10V10.5H7V10C7 9.17157 6.32843 8.5 5.5 8.5C4.67157 8.5 4 9.17157 4 10V10.5H3V10C3 8.94741 3.65051 8.04675 4.57145 7.67812C4.2234 7.40343 4 6.9778 4 6.5ZM13 7H8V6H13V7ZM9 10H13V9H9V10Z" clipRule="evenodd" /></svg>;
+export default BusinessCardFilledIcon;

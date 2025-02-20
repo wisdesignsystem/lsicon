@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const MiniAppIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M10 7.5C10.8284 7.5 11.5 6.82843 11.5 6C11.5 5.17157 10.8284 4.5 10 4.5H9.94444C8.87056 4.5 8 5.37056 8 6.44444V9.3125C8 10.5206 7.02062 11.5 5.8125 11.5C5.08763 11.5 4.5 10.9124 4.5 10.1875V10C4.5 9.17157 5.17157 8.5 6 8.5M8 1.5C4.41015 1.5 1.5 4.41015 1.5 8C1.5 11.5899 4.41015 14.5 8 14.5C11.5899 14.5 14.5 11.5899 14.5 8C14.5 4.41015 11.5899 1.5 8 1.5Z" /></svg>;
+export default MiniAppIcon;
