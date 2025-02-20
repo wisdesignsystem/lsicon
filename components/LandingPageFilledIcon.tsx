@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const LandingPageFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" fillRule="evenodd" d="M2 2.5C2 2.22386 2.22386 2 2.5 2H13.5C13.7761 2 14 2.22386 14 2.5V6H2V2.5ZM4 5V4H5V5H4ZM6 5V4H7V5H6ZM8 4V5H9V4H8Z" clipRule="evenodd" /><path fill="currentColor" d="M2 13.5V7H14V13.5C14 13.7761 13.7761 14 13.5 14H2.5C2.22386 14 2 13.7761 2 13.5Z" /></svg>;
+export default LandingPageFilledIcon;

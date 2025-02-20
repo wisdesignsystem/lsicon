@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const ClueFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" fillRule="evenodd" d="M2 2H5V3H3.61342L6.72453 6.5H8.62858C8.23591 6.02453 8 5.41481 8 4.75C8 3.23122 9.23122 2 10.75 2C12.2688 2 13.5 3.23122 13.5 4.75C13.5 6.20417 12.3713 7.39471 10.9422 7.49339L10.5427 10.6894C11.1108 10.9786 11.5 11.5688 11.5 12.25C11.5 13.2165 10.7165 14 9.75 14C8.7835 14 8 13.2165 8 12.25C8 11.3486 8.68147 10.6064 9.5573 10.5105L9.93361 7.5H7.33159C7.43958 7.72731 7.5 7.9816 7.5 8.25C7.5 9.2165 6.7165 10 5.75 10C4.7835 10 4 9.2165 4 8.25C4 7.39806 4.60878 6.6883 5.41504 6.53202L3 3.8151V5.5H2V2Z" clipRule="evenodd" /></svg>;
+export default ClueFilledIcon;

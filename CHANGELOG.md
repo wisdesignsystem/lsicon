@@ -1,5 +1,28 @@
 # @wisdesign/lsicon
 
+## 0.0.17
+
+### Patch Changes
+
+- [#32](https://github.com/wisdesignsystem/lsicon/pull/32) [`3ee25a4`](https://github.com/wisdesignsystem/lsicon/commit/3ee25a4167d31b2661131ce4763771be657504f4) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(14):
+
+  - NoteCardIcon
+  - NoteCardFilledIcon
+  - InputCardIcon
+  - InputCardFilledIcon
+  - LandingPageIcon
+  - LandingPageFilledIcon
+  - ClueIcon
+  - ClueFilledIcon
+  - BusinessCardIcon
+  - BusinessCardFilledIcon
+  - MiniAppIcon
+  - MiniAppFilledIcon
+  - QuestionCardIcon
+  - QuestionCardFilledIcon
+
 ## 0.0.16
 
 ### Patch Changes
