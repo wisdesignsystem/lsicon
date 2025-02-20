@@ -2676,7 +2676,7 @@
                 "category": "Common",
                 "title": "NoteCard",
                 "fileName": "NoteCardIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 2.5V13.5H13.5V2.5H2.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M4.5 4.5V7.5H11.5V4.5H4.5Z\" stroke=\"black\"/>\n<path d=\"M4 10H12\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 13.5H2C2 13.7761 2.22386 14 2.5 14V13.5ZM2.5 2.5V2C2.22386 2 2 2.22386 2 2.5H2.5ZM13.5 2.5H14C14 2.22386 13.7761 2 13.5 2V2.5ZM13.5 13.5V14C13.7761 14 14 13.7761 14 13.5H13.5ZM4.5 7.5H4V8H4.5V7.5ZM4.5 4.5V4H4V4.5H4.5ZM11.5 4.5H12V4H11.5V4.5ZM11.5 7.5V8H12V7.5H11.5ZM3 13.5V2.5H2V13.5H3ZM2.5 3H13.5V2H2.5V3ZM13 2.5V13.5H14V2.5H13ZM13.5 13H2.5V14H13.5V13ZM5 7.5V4.5H4V7.5H5ZM4.5 5H11.5V4H4.5V5ZM11 4.5V7.5H12V4.5H11ZM11.5 7H4.5V8H11.5V7ZM4 10.5H12V9.5H4V10.5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "input-card",
@@ -11813,7 +11813,7 @@
         "category": "Common",
         "title": "NoteCard",
         "fileName": "NoteCardIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 2.5V13.5H13.5V2.5H2.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M4.5 4.5V7.5H11.5V4.5H4.5Z\" stroke=\"black\"/>\n<path d=\"M4 10H12\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 13.5H2C2 13.7761 2.22386 14 2.5 14V13.5ZM2.5 2.5V2C2.22386 2 2 2.22386 2 2.5H2.5ZM13.5 2.5H14C14 2.22386 13.7761 2 13.5 2V2.5ZM13.5 13.5V14C13.7761 14 14 13.7761 14 13.5H13.5ZM4.5 7.5H4V8H4.5V7.5ZM4.5 4.5V4H4V4.5H4.5ZM11.5 4.5H12V4H11.5V4.5ZM11.5 7.5V8H12V7.5H11.5ZM3 13.5V2.5H2V13.5H3ZM2.5 3H13.5V2H2.5V3ZM13 2.5V13.5H14V2.5H13ZM13.5 13H2.5V14H13.5V13ZM5 7.5V4.5H4V7.5H5ZM4.5 5H11.5V4H4.5V5ZM11 4.5V7.5H12V4.5H11ZM11.5 7H4.5V8H11.5V7ZM4 10.5H12V9.5H4V10.5Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "note-card",
