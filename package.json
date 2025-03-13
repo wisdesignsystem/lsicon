@@ -2479,6 +2479,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 14V13.5C3.5 11.2909 5.29086 9.5 7.5 9.5H8.5C10.7091 9.5 12.5 11.2909 12.5 13.5V14M10.5 5C10.5 6.38071 9.38071 7.5 8 7.5C6.61929 7.5 5.5 6.38071 5.5 5C5.5 3.61929 6.61929 2.5 8 2.5C9.38071 2.5 10.5 3.61929 10.5 5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "user-edit",
+                "style": "outline",
+                "category": "Common",
+                "title": "UserEdit",
+                "fileName": "UserEditIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 14V13.5C3.5 11.2909 5.29086 9.5 7.5 9.5H9M10.5 5C10.5 6.38071 9.38071 7.5 8 7.5C6.61929 7.5 5.5 6.38071 5.5 5C5.5 3.61929 6.61929 2.5 8 2.5C9.38071 2.5 10.5 3.61929 10.5 5ZM9 13L10.5 12.5L13.5 9.5L12.5 8.5L9.5 11.5L9 13Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "user-crowd",
                 "style": "outline",
                 "category": "Common",
@@ -5802,6 +5810,14 @@
                 "title": "User",
                 "fileName": "UserFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 5C5 3.34315 6.34315 2 8 2C9.65685 2 11 3.34315 11 5C11 6.65685 9.65685 8 8 8C6.34315 8 5 6.65685 5 5ZM3 14V13.5C3 11.0147 5.01472 9 7.5 9H8.5C10.9853 9 13 11.0147 13 13.5V14H3Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "user-edit",
+                "style": "filled",
+                "category": "Common",
+                "title": "UserEdit",
+                "fileName": "UserEditFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 5C5 3.34315 6.34315 2 8 2C9.65685 2 11 3.34315 11 5C11 6.65685 9.65685 8 8 8C6.34315 8 5 6.65685 5 5ZM12.5 7.79289L14.2071 9.5L10.7701 12.937L8.20943 13.7906L9.06298 11.2299L12.5 7.79289ZM7.5 10C5.567 10 4 11.567 4 13.5V14H3V13.5C3 11.0147 5.01472 9 7.5 9H9V10H7.5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "user-crowd",
@@ -11454,6 +11470,22 @@
         "title": "User",
         "fileName": "UserFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 5C5 3.34315 6.34315 2 8 2C9.65685 2 11 3.34315 11 5C11 6.65685 9.65685 8 8 8C6.34315 8 5 6.65685 5 5ZM3 14V13.5C3 11.0147 5.01472 9 7.5 9H8.5C10.9853 9 13 11.0147 13 13.5V14H3Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "user-edit",
+        "style": "outline",
+        "category": "Common",
+        "title": "UserEdit",
+        "fileName": "UserEditIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 14V13.5C3.5 11.2909 5.29086 9.5 7.5 9.5H9M10.5 5C10.5 6.38071 9.38071 7.5 8 7.5C6.61929 7.5 5.5 6.38071 5.5 5C5.5 3.61929 6.61929 2.5 8 2.5C9.38071 2.5 10.5 3.61929 10.5 5ZM9 13L10.5 12.5L13.5 9.5L12.5 8.5L9.5 11.5L9 13Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "user-edit",
+        "style": "filled",
+        "category": "Common",
+        "title": "UserEdit",
+        "fileName": "UserEditFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 5C5 3.34315 6.34315 2 8 2C9.65685 2 11 3.34315 11 5C11 6.65685 9.65685 8 8 8C6.34315 8 5 6.65685 5 5ZM12.5 7.79289L14.2071 9.5L10.7701 12.937L8.20943 13.7906L9.06298 11.2299L12.5 7.79289ZM7.5 10C5.567 10 4 11.567 4 13.5V14H3V13.5C3 11.0147 5.01472 9 7.5 9H9V10H7.5Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "user-crowd",
