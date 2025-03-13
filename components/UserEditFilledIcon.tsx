@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const UserEditFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" fillRule="evenodd" d="M5 5C5 3.34315 6.34315 2 8 2C9.65685 2 11 3.34315 11 5C11 6.65685 9.65685 8 8 8C6.34315 8 5 6.65685 5 5ZM12.5 7.79289L14.2071 9.5L10.7701 12.937L8.20943 13.7906L9.06298 11.2299L12.5 7.79289ZM7.5 10C5.567 10 4 11.567 4 13.5V14H3V13.5C3 11.0147 5.01472 9 7.5 9H9V10H7.5Z" clipRule="evenodd" /></svg>;
+export default UserEditFilledIcon;
