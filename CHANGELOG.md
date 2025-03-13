@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.21
+
+### Patch Changes
+
+- [#41](https://github.com/wisdesignsystem/lsicon/pull/41) [`dc67db8`](https://github.com/wisdesignsystem/lsicon/commit/dc67db8e438ffb0f37bcfd6ae2c07cb4500f7f42) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - UserEditIcon
+  - UserEditFilledIcon
+
 ## 0.0.20
 
 ### Patch Changes
