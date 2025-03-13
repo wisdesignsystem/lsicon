@@ -1,5 +1,22 @@
 # @wisdesign/lsicon
 
+## 0.0.20
+
+### Patch Changes
+
+- [#39](https://github.com/wisdesignsystem/lsicon/pull/39) [`1aea517`](https://github.com/wisdesignsystem/lsicon/commit/1aea51731d832127d90f648353b369b84d549625) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - MaleIcon
+  - MaleFilledIcon
+  - FemaleIcon
+  - FemaleFilledIcon
+
+  🔄 update icons(1):
+
+  - QuestionCardIcon
+
 ## 0.0.19
 
 ### Patch Changes
