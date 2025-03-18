@@ -1,5 +1,22 @@
 # @wisdesign/lsicon
 
+## 0.0.22
+
+### Patch Changes
+
+- [#43](https://github.com/wisdesignsystem/lsicon/pull/43) [`a4b202d`](https://github.com/wisdesignsystem/lsicon/commit/a4b202db1ab7082a5b31c0cdfed8aece6be4ed4c) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(8):
+
+  - ArchiveBoxIcon
+  - ArchiveBoxFilledIcon
+  - ArchiveArrowDownIcon
+  - ArchiveArrowDownFilledIcon
+  - ArchiveDeleteIcon
+  - ArchiveDeleteFilledIcon
+  - ArchiveArrowUpIcon
+  - ArchiveArrowUpFilledIcon
+
 ## 0.0.21
 
 ### Patch Changes
