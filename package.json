@@ -1114,6 +1114,38 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14V7.5M8 7.5L7.73395 7.16744C6.5835 5.72937 5.23993 4.45709 3.74134 3.38667L2.5 2.5M8 7.5L8.26605 7.16744C9.4165 5.72937 10.7601 4.45709 12.2587 3.38667L13.5 2.5M13.5 2.5H10.5M13.5 2.5V5.5M2.5 2.5H5.5M2.5 2.5V5.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "archive-box",
+                "style": "outline",
+                "category": "Action",
+                "title": "ArchiveBox",
+                "fileName": "ArchiveBoxIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M6 7.5H10\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "archive-arrow-down",
+                "style": "outline",
+                "category": "Action",
+                "title": "ArchiveArrowDown",
+                "fileName": "ArchiveArrowDownIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 11V7.5M8 7.5L6 9M8 7.5L10 9\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "archive-delete",
+                "style": "outline",
+                "category": "Action",
+                "title": "ArchiveDelete",
+                "fileName": "ArchiveDeleteIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M6 7.5L10 10.5M10 7.5L6 10.5\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "archive-arrow-up",
+                "style": "outline",
+                "category": "Action",
+                "title": "ArchiveArrowUp",
+                "fileName": "ArchiveArrowUpIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 10.5L6 9M8 10.5L10 9M8 10.5V7\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "drag",
                 "style": "outline",
                 "category": "Action",
@@ -4445,6 +4477,38 @@
                 "title": "If",
                 "fileName": "IfFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 2H5.5V3H4.06018C5.53126 4.05454 6.85601 5.29912 8 6.70114C9.14399 5.29912 10.4687 4.05454 11.9398 3H10.5V2H14V5.5H13V3.47159L12.5493 3.79354C11.0882 4.8372 9.77818 6.07767 8.65648 7.47979L8.5 7.67539V14H7.5V7.67539L7.34352 7.47979C6.22182 6.07767 4.91185 4.8372 3.45072 3.79354L3 3.47159V5.5H2V2Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "archive-box",
+                "style": "filled",
+                "category": "Action",
+                "title": "ArchiveBox",
+                "fileName": "ArchiveBoxFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM10 8H6V7H10V8Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "archive-arrow-down",
+                "style": "filled",
+                "category": "Action",
+                "title": "ArchiveArrowDown",
+                "fileName": "ArchiveArrowDownFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM10.3 8.6L9.69995 9.4L8.49995 8.5V11H7.49995V8.5L6.29995 9.4L5.69995 8.6L7.99995 6.875L10.3 8.6Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "archive-delete",
+                "style": "filled",
+                "category": "Action",
+                "title": "ArchiveDelete",
+                "fileName": "ArchiveDeleteFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM7.16662 8.99998L5.69995 7.89998L6.29995 7.09998L7.99995 8.37498L9.69995 7.09998L10.3 7.89998L8.83328 8.99998L10.3 10.1L9.69995 10.9L7.99995 9.62498L6.29995 10.9L5.69995 10.1L7.16662 8.99998Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "archive-arrow-up",
+                "style": "filled",
+                "category": "Action",
+                "title": "ArchiveArrowUp",
+                "fileName": "ArchiveArrowUpFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM8.49995 7V9.5L9.69995 8.6L10.3 9.4L7.99995 11.125L5.69995 9.4L6.29995 8.6L7.49995 9.5V7H8.49995Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "drag",
@@ -8782,6 +8846,70 @@
         "title": "If",
         "fileName": "IfFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2 2H5.5V3H4.06018C5.53126 4.05454 6.85601 5.29912 8 6.70114C9.14399 5.29912 10.4687 4.05454 11.9398 3H10.5V2H14V5.5H13V3.47159L12.5493 3.79354C11.0882 4.8372 9.77818 6.07767 8.65648 7.47979L8.5 7.67539V14H7.5V7.67539L7.34352 7.47979C6.22182 6.07767 4.91185 4.8372 3.45072 3.79354L3 3.47159V5.5H2V2Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-box",
+        "style": "outline",
+        "category": "Action",
+        "title": "ArchiveBox",
+        "fileName": "ArchiveBoxIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M6 7.5H10\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-box",
+        "style": "filled",
+        "category": "Action",
+        "title": "ArchiveBox",
+        "fileName": "ArchiveBoxFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM10 8H6V7H10V8Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-arrow-down",
+        "style": "outline",
+        "category": "Action",
+        "title": "ArchiveArrowDown",
+        "fileName": "ArchiveArrowDownIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 11V7.5M8 7.5L6 9M8 7.5L10 9\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-arrow-down",
+        "style": "filled",
+        "category": "Action",
+        "title": "ArchiveArrowDown",
+        "fileName": "ArchiveArrowDownFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM10.3 8.6L9.69995 9.4L8.49995 8.5V11H7.49995V8.5L6.29995 9.4L5.69995 8.6L7.99995 6.875L10.3 8.6Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-delete",
+        "style": "outline",
+        "category": "Action",
+        "title": "ArchiveDelete",
+        "fileName": "ArchiveDeleteIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M6 7.5L10 10.5M10 7.5L6 10.5\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-delete",
+        "style": "filled",
+        "category": "Action",
+        "title": "ArchiveDelete",
+        "fileName": "ArchiveDeleteFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM7.16662 8.99998L5.69995 7.89998L6.29995 7.09998L7.99995 8.37498L9.69995 7.09998L10.3 7.89998L8.83328 8.99998L10.3 10.1L9.69995 10.9L7.99995 9.62498L6.29995 10.9L5.69995 10.1L7.16662 8.99998Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-arrow-up",
+        "style": "outline",
+        "category": "Action",
+        "title": "ArchiveArrowUp",
+        "fileName": "ArchiveArrowUpIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 10.5L6 9M8 10.5L10 9M8 10.5V7\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "archive-arrow-up",
+        "style": "filled",
+        "category": "Action",
+        "title": "ArchiveArrowUp",
+        "fileName": "ArchiveArrowUpFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 3H14V5H2V3Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.03444 6L3.53444 13H12.4656L12.9656 6H3.03444ZM8.49995 7V9.5L9.69995 8.6L10.3 9.4L7.99995 11.125L5.69995 9.4L6.29995 8.6L7.49995 9.5V7H8.49995Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "drag",
