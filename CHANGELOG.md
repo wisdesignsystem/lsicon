@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.23
+
+### Patch Changes
+
+- [#45](https://github.com/wisdesignsystem/lsicon/pull/45) [`6533401`](https://github.com/wisdesignsystem/lsicon/commit/6533401fa9c3c23916f417f3f2495d50c62326ee) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - PanelRightIcon
+  - PanelRightFilledIcon
+  - PanelLeftIcon
+  - PanelLeftFilledIcon
+
 ## 0.0.22
 
 ### Patch Changes
