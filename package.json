@@ -262,6 +262,22 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8.00001H11.5M11.5 8.00001L8.5 11M11.5 8.00001L8.5 5.00001M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "panel-right",
+                "style": "outline",
+                "category": "Navigation",
+                "title": "PanelRight",
+                "fileName": "PanelRightIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5V3.5H1.5Z\" stroke=\"black\"/>\n<path d=\"M12.5 10.5H8.5V5.5H12.5V10.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "panel-left",
+                "style": "outline",
+                "category": "Navigation",
+                "title": "PanelLeft",
+                "fileName": "PanelLeftIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5V3.5H1.5Z\" stroke=\"black\"/>\n<path d=\"M7.5 10.5H3.5V5.5H7.5V10.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "menu-endways",
                 "style": "outline",
                 "category": "Navigation",
@@ -3625,6 +3641,22 @@
                 "title": "CircleArrowRight",
                 "fileName": "CircleArrowRightFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM8.14645 5.35353L10.2929 7.49998H4V8.49998H10.2929L8.14645 10.6464L8.85355 11.3535L12.2071 7.99998L8.85355 4.64642L8.14645 5.35353Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "panel-right",
+                "style": "filled",
+                "category": "Navigation",
+                "title": "PanelRight",
+                "fileName": "PanelRightFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3H15V13H1V3ZM2 4V12H14V4H2ZM8 5H13V11H8V5Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "panel-left",
+                "style": "filled",
+                "category": "Navigation",
+                "title": "PanelLeft",
+                "fileName": "PanelLeftFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3H15V13H1V3ZM2 4V12H14V4H2ZM3 5H8V11H3V5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "menu-endways",
@@ -7198,6 +7230,38 @@
         "title": "CircleArrowRight",
         "fileName": "CircleArrowRightFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM8.14645 5.35353L10.2929 7.49998H4V8.49998H10.2929L8.14645 10.6464L8.85355 11.3535L12.2071 7.99998L8.85355 4.64642L8.14645 5.35353Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "panel-right",
+        "style": "outline",
+        "category": "Navigation",
+        "title": "PanelRight",
+        "fileName": "PanelRightIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5V3.5H1.5Z\" stroke=\"black\"/>\n<path d=\"M12.5 10.5H8.5V5.5H12.5V10.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "panel-right",
+        "style": "filled",
+        "category": "Navigation",
+        "title": "PanelRight",
+        "fileName": "PanelRightFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3H15V13H1V3ZM2 4V12H14V4H2ZM8 5H13V11H8V5Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "panel-left",
+        "style": "outline",
+        "category": "Navigation",
+        "title": "PanelLeft",
+        "fileName": "PanelLeftIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5V3.5H1.5Z\" stroke=\"black\"/>\n<path d=\"M7.5 10.5H3.5V5.5H7.5V10.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "panel-left",
+        "style": "filled",
+        "category": "Navigation",
+        "title": "PanelLeft",
+        "fileName": "PanelLeftFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1 3H15V13H1V3ZM2 4V12H14V4H2ZM3 5H8V11H3V5Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "menu-endways",
