@@ -1,5 +1,20 @@
 # @wisdesign/lsicon
 
+## 0.0.24
+
+### Patch Changes
+
+- [#47](https://github.com/wisdesignsystem/lsicon/pull/47) [`91b02b0`](https://github.com/wisdesignsystem/lsicon/commit/91b02b0c7cb14683b7293c30416a6328c1196643) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(6):
+
+  - WebhookIcon
+  - WebhookFilledIcon
+  - ArchiveBoxTwoIcon
+  - ArchiveBoxTwoFilledIcon
+  - RobotIcon
+  - RobotFilledIcon
+
 ## 0.0.23
 
 ### Patch Changes
