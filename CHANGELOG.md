@@ -1,5 +1,11 @@
 # @wisdesign/lsicon
 
+## 0.0.25
+
+### Patch Changes
+
+- [#52](https://github.com/wisdesignsystem/lsicon/pull/52) [`62da9f7`](https://github.com/wisdesignsystem/lsicon/commit/62da9f7bf5dba538ee7b1fe1669aae2c6c608c86) Thanks [@FaureWu](https://github.com/FaureWu)! - Release new icon version
+
 ## 0.0.24
 
 ### Patch Changes
