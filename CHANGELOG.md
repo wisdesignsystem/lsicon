@@ -1,5 +1,20 @@
 # @wisdesign/lsicon
 
+## 0.0.26
+
+### Patch Changes
+
+- [#54](https://github.com/wisdesignsystem/lsicon/pull/54) [`7fb963b`](https://github.com/wisdesignsystem/lsicon/commit/7fb963b8d74f62877580dbbe831ae8dc26d24558) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - ChatTwoIcon
+  - ChatTwoFilledIcon
+
+  🔄 update icons(1):
+
+  - DataIcon
+
 ## 0.0.25
 
 ### Patch Changes
