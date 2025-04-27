@@ -1,5 +1,22 @@
 # @wisdesign/lsicon
 
+## 0.0.27
+
+### Patch Changes
+
+- [#56](https://github.com/wisdesignsystem/lsicon/pull/56) [`ea5423d`](https://github.com/wisdesignsystem/lsicon/commit/ea5423daf527d99d44c7a9ec0fdf190f55a48ca2) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - ListArrowLeftIcon
+  - ListArrowLeftFilledIcon
+  - ListArrowRightIcon
+  - ListArrowRightFilledIcon
+
+  🔄 update icons(1):
+
+  - ChatTwoIcon
+
 ## 0.0.26
 
 ### Patch Changes
