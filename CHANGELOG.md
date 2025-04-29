@@ -1,5 +1,28 @@
 # @wisdesign/lsicon
 
+## 0.0.28
+
+### Patch Changes
+
+- [#58](https://github.com/wisdesignsystem/lsicon/pull/58) [`9dd7ca6`](https://github.com/wisdesignsystem/lsicon/commit/9dd7ca6c100e61e67c383a83ba8458cf6256d2ba) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(14):
+
+  - AiTextIcon
+  - AiTextFilledIcon
+  - AiEditIcon
+  - AiEditFilledIcon
+  - MagicStopIcon
+  - MagicStopFilledIcon
+  - AiChatIcon
+  - AiChatFilledIcon
+  - AiImageIcon
+  - AiImageFilledIcon
+  - MagicSuspendIcon
+  - MagicSuspendFilledIcon
+  - AiWordIcon
+  - AiWordFilledIcon
+
 ## 0.0.27
 
 ### Patch Changes

@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const AiChatIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M3.5 9V11.5H7L8.5 13.5L9.5 11.5H13.5V4.5H9.5M5.1001 7.60001L5.8501 5.85001L7.6001 5.10001L5.8501 4.35001L5.1001 2.60001L4.3501 4.35001L2.6001 5.10001L4.3501 5.85001L5.1001 7.60001ZM9.3 8.79999L9.6 8.09999L10.3 7.79999L9.6 7.49999L9.3 6.79999L9 7.49999L8.3 7.79999L9 8.09999L9.3 8.79999Z" /></svg>;
+export default AiChatIcon;
