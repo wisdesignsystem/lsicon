@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const MagicStopIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M14.5001 10.5C14.5001 12.7091 12.7093 14.5 10.5001 14.5C8.29098 14.5 6.50012 12.7091 6.50012 10.5C6.50012 8.29087 8.29098 6.50001 10.5001 6.50001C12.7093 6.50001 14.5001 8.29087 14.5001 10.5Z" /><path stroke="currentColor" d="M9.26935 9.26924H11.7309V11.7308H9.26935V9.26924Z" /><path stroke="currentColor" d="M5.5001 5.50001L4.6001 7.60001L3.7001 5.50001L1.6001 4.60001L3.7001 3.70001L4.6001 1.60001L5.5001 3.70001L7.6001 4.60001L5.5001 5.50001Z" /></svg>;
+export default MagicStopIcon;

@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const AiEditIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M11.929 9.57079L8.99977 12.5L6.83311 13.2222L7.55533 11.0556L10.5501 8.06076M11.929 9.57079L13.3331 8.16668L11.8887 6.72224L10.5501 8.06076M11.929 9.57079L10.5501 8.06076M6.08317 8.72728L6.95817 6.81819L8.99984 6.00001L6.95817 5.18183L6.08317 3.27274L5.20817 5.18183L3.1665 6.00001L5.20817 6.81819L6.08317 8.72728Z" /></svg>;
+export default AiEditIcon;

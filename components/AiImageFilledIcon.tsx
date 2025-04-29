@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const AiImageFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M8 2V3H3V9.79297L5 7.79297L7.94531 10.7383L9.09961 9.2002L9.90039 9.7998L8.40039 11.7998L8.05371 12.2607L5 9.20703L3 11.207V13H13V8H14V14H2V2H8ZM12.3809 3.96875L15.0195 5.09961L12.3809 6.23047L11.25 8.86914L10.1182 6.23047L7.48047 5.09961L10.1182 3.96875L11.25 1.33105L12.3809 3.96875Z" /></svg>;
+export default AiImageFilledIcon;
