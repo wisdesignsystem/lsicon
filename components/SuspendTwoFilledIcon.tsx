@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const SuspendTwoFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M6.5 3L6.60059 3.00977C6.82855 3.05629 7 3.25829 7 3.5V12.5C7 12.7761 6.77614 13 6.5 13H4C3.72386 13 3.5 12.7761 3.5 12.5V3.5L3.50977 3.39941C3.55629 3.17145 3.75829 3 4 3H6.5ZM12 3L12.1006 3.00977C12.3286 3.05629 12.5 3.25829 12.5 3.5V12.5C12.5 12.7761 12.2761 13 12 13H9.5C9.22386 13 9 12.7761 9 12.5V3.5L9.00977 3.39941C9.05629 3.17145 9.25829 3 9.5 3H12Z" /></svg>;
+export default SuspendTwoFilledIcon;
