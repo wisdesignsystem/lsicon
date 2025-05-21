@@ -1568,6 +1568,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n<path d=\"M11 8L6.5 5L6.5 11L11 8Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "play-two",
+                "style": "outline",
+                "category": "Control",
+                "title": "PlayTwo",
+                "fileName": "PlayTwoIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 8L5 3.5V12.5L12 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+              },
+              {
                 "name": "stop",
                 "style": "outline",
                 "category": "Control",
@@ -1576,12 +1584,28 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M6 6H10V10H6V6Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
+                "name": "stop-two",
+                "style": "outline",
+                "category": "Control",
+                "title": "StopTwo",
+                "fileName": "StopTwoIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3.5H12.5V12.5H3.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+              },
+              {
                 "name": "suspend",
                 "style": "outline",
                 "category": "Control",
                 "title": "Suspend",
                 "fileName": "SuspendIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 5V11M9.5 11V5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+              },
+              {
+                "name": "suspend-two",
+                "style": "outline",
+                "category": "Control",
+                "title": "SuspendTwo",
+                "fileName": "SuspendTwoIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 3.5H6.5V12.5H4V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M9.5 3.5H12V12.5H9.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "align-txt-left",
@@ -4123,7 +4147,7 @@
                 "category": "AI",
                 "title": "MagicStop",
                 "fileName": "MagicStopFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.501 6C12.9857 6.00047 15.0008 8.01517 15.001 10.5C15.0008 12.9848 12.9857 14.9995 10.501 15C8.01583 15 6.00119 12.9851 6.00098 10.5C6.00117 8.01489 8.01582 6 10.501 6ZM9.26953 8.76855C8.99375 8.76872 8.76988 8.99281 8.76953 9.26855V11.7305C8.76958 12.0065 8.99356 12.2303 9.26953 12.2305H11.7314C12.0073 12.2302 12.2314 12.0064 12.2314 11.7305V9.26855C12.2311 8.9929 12.0071 8.76886 11.7314 8.76855H9.26953ZM4.60059 1.09961C4.80032 1.0998 4.98176 1.21879 5.06055 1.40234L5.88086 3.31836L7.79785 4.13965L7.86328 4.17383C8.00917 4.26388 8.10046 4.42473 8.10059 4.59961C8.10059 4.79938 7.98132 4.98063 7.79785 5.05957L5.88086 5.87988L5.06055 7.79688C4.98179 7.9805 4.80036 8.09942 4.60059 8.09961C4.40061 8.09961 4.21944 7.98065 4.14062 7.79688L3.31934 5.87988L1.40332 5.05957C1.21955 4.98075 1.09961 4.79958 1.09961 4.59961C1.09975 4.39978 1.21966 4.21842 1.40332 4.13965L3.31934 3.31836L4.14062 1.40234L4.1748 1.33691C4.26495 1.1911 4.42568 1.09961 4.60059 1.09961Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.501 6C12.9857 6.00046 15.0008 8.01517 15.001 10.5C15.0008 12.9848 12.9857 14.9995 10.501 15C8.01583 15 6.00119 12.9851 6.00098 10.5C6.00117 8.01489 8.01582 6 10.501 6ZM9.26953 8.76855C8.99375 8.76872 8.76988 8.99281 8.76953 9.26855V11.7305C8.76958 12.0065 8.99356 12.2303 9.26953 12.2305H11.7314C12.0073 12.2302 12.2314 12.0064 12.2314 11.7305V9.26855C12.2311 8.9929 12.0071 8.76886 11.7314 8.76855H9.26953ZM4.60059 1.09961C4.80032 1.0998 4.98176 1.21879 5.06055 1.40234L5.88086 3.31836L7.79785 4.13965L7.86328 4.17383C8.00917 4.26388 8.10046 4.42473 8.10059 4.59961C8.10059 4.79938 7.98132 4.98063 7.79785 5.05957L5.88086 5.87988L5.06055 7.79688C4.98179 7.9805 4.80036 8.09942 4.60059 8.09961C4.40061 8.09961 4.21944 7.98065 4.14062 7.79688L3.31934 5.87988L1.40332 5.05957C1.21955 4.98075 1.09961 4.79958 1.09961 4.59961C1.09975 4.39978 1.21966 4.21842 1.40332 4.13965L3.31934 3.31836L4.14062 1.40234L4.1748 1.33691C4.26495 1.1911 4.42568 1.09961 4.60059 1.09961Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "ai-chat",
@@ -5060,6 +5084,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM11.9014 7.99999L6 4.06573L6 11.9343L11.9014 7.99999Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "play-two",
+                "style": "filled",
+                "category": "Control",
+                "title": "PlayTwo",
+                "fileName": "PlayTwoFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.76074 3.06153C4.92124 2.97395 5.11669 2.98025 5.27051 3.07911L12.2705 7.57911C12.4136 7.67111 12.5 7.82988 12.5 8.00001C12.5 8.17014 12.4136 8.32891 12.2705 8.42091L5.27051 12.9209C5.11669 13.0198 4.92124 13.0261 4.76074 12.9385C4.60021 12.8508 4.5 12.6829 4.5 12.5V3.50001L4.50488 3.43263C4.5261 3.27654 4.62017 3.13828 4.76074 3.06153Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "stop",
                 "style": "filled",
                 "category": "Control",
@@ -5068,12 +5100,28 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM6 5.5C5.72386 5.5 5.5 5.72386 5.5 6V10C5.5 10.2761 5.72386 10.5 6 10.5H10C10.2761 10.5 10.5 10.2761 10.5 10V6C10.5 5.72386 10.2761 5.5 10 5.5H6Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "stop-two",
+                "style": "filled",
+                "category": "Control",
+                "title": "StopTwo",
+                "fileName": "StopTwoFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 3L12.6006 3.00977C12.8286 3.05629 13 3.25829 13 3.5V12.5C13 12.7761 12.7761 13 12.5 13H3.5C3.22386 13 3 12.7761 3 12.5V3.5L3.00977 3.39941C3.05629 3.17145 3.25829 3 3.5 3H12.5Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "suspend",
                 "style": "filled",
                 "category": "Control",
                 "title": "Suspend",
                 "fileName": "SuspendFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM6 11H7V5H6V11ZM10 5H9V11H10V5Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "suspend-two",
+                "style": "filled",
+                "category": "Control",
+                "title": "SuspendTwo",
+                "fileName": "SuspendTwoFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 3L6.60059 3.00977C6.82855 3.05629 7 3.25829 7 3.5V12.5C7 12.7761 6.77614 13 6.5 13H4C3.72386 13 3.5 12.7761 3.5 12.5V3.5L3.50977 3.39941C3.55629 3.17145 3.75829 3 4 3H6.5ZM12 3L12.1006 3.00977C12.3286 3.05629 12.5 3.25829 12.5 3.5V12.5C12.5 12.7761 12.2761 13 12 13H9.5C9.22386 13 9 12.7761 9 12.5V3.5L9.00977 3.39941C9.05629 3.17145 9.25829 3 9.5 3H12Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "align-txt-left",
@@ -8139,7 +8187,7 @@
         "category": "AI",
         "title": "MagicStop",
         "fileName": "MagicStopFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.501 6C12.9857 6.00047 15.0008 8.01517 15.001 10.5C15.0008 12.9848 12.9857 14.9995 10.501 15C8.01583 15 6.00119 12.9851 6.00098 10.5C6.00117 8.01489 8.01582 6 10.501 6ZM9.26953 8.76855C8.99375 8.76872 8.76988 8.99281 8.76953 9.26855V11.7305C8.76958 12.0065 8.99356 12.2303 9.26953 12.2305H11.7314C12.0073 12.2302 12.2314 12.0064 12.2314 11.7305V9.26855C12.2311 8.9929 12.0071 8.76886 11.7314 8.76855H9.26953ZM4.60059 1.09961C4.80032 1.0998 4.98176 1.21879 5.06055 1.40234L5.88086 3.31836L7.79785 4.13965L7.86328 4.17383C8.00917 4.26388 8.10046 4.42473 8.10059 4.59961C8.10059 4.79938 7.98132 4.98063 7.79785 5.05957L5.88086 5.87988L5.06055 7.79688C4.98179 7.9805 4.80036 8.09942 4.60059 8.09961C4.40061 8.09961 4.21944 7.98065 4.14062 7.79688L3.31934 5.87988L1.40332 5.05957C1.21955 4.98075 1.09961 4.79958 1.09961 4.59961C1.09975 4.39978 1.21966 4.21842 1.40332 4.13965L3.31934 3.31836L4.14062 1.40234L4.1748 1.33691C4.26495 1.1911 4.42568 1.09961 4.60059 1.09961Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.501 6C12.9857 6.00046 15.0008 8.01517 15.001 10.5C15.0008 12.9848 12.9857 14.9995 10.501 15C8.01583 15 6.00119 12.9851 6.00098 10.5C6.00117 8.01489 8.01582 6 10.501 6ZM9.26953 8.76855C8.99375 8.76872 8.76988 8.99281 8.76953 9.26855V11.7305C8.76958 12.0065 8.99356 12.2303 9.26953 12.2305H11.7314C12.0073 12.2302 12.2314 12.0064 12.2314 11.7305V9.26855C12.2311 8.9929 12.0071 8.76886 11.7314 8.76855H9.26953ZM4.60059 1.09961C4.80032 1.0998 4.98176 1.21879 5.06055 1.40234L5.88086 3.31836L7.79785 4.13965L7.86328 4.17383C8.00917 4.26388 8.10046 4.42473 8.10059 4.59961C8.10059 4.79938 7.98132 4.98063 7.79785 5.05957L5.88086 5.87988L5.06055 7.79688C4.98179 7.9805 4.80036 8.09942 4.60059 8.09961C4.40061 8.09961 4.21944 7.98065 4.14062 7.79688L3.31934 5.87988L1.40332 5.05957C1.21955 4.98075 1.09961 4.79958 1.09961 4.59961C1.09975 4.39978 1.21966 4.21842 1.40332 4.13965L3.31934 3.31836L4.14062 1.40234L4.1748 1.33691C4.26495 1.1911 4.42568 1.09961 4.60059 1.09961Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "ai-chat",
@@ -9982,6 +10030,22 @@
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM11.9014 7.99999L6 4.06573L6 11.9343L11.9014 7.99999Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
+        "name": "play-two",
+        "style": "outline",
+        "category": "Control",
+        "title": "PlayTwo",
+        "fileName": "PlayTwoIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 8L5 3.5V12.5L12 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+      },
+      {
+        "name": "play-two",
+        "style": "filled",
+        "category": "Control",
+        "title": "PlayTwo",
+        "fileName": "PlayTwoFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.76074 3.06153C4.92124 2.97395 5.11669 2.98025 5.27051 3.07911L12.2705 7.57911C12.4136 7.67111 12.5 7.82988 12.5 8.00001C12.5 8.17014 12.4136 8.32891 12.2705 8.42091L5.27051 12.9209C5.11669 13.0198 4.92124 13.0261 4.76074 12.9385C4.60021 12.8508 4.5 12.6829 4.5 12.5V3.50001L4.50488 3.43263C4.5261 3.27654 4.62017 3.13828 4.76074 3.06153Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
         "name": "stop",
         "style": "outline",
         "category": "Control",
@@ -9998,6 +10062,22 @@
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM6 5.5C5.72386 5.5 5.5 5.72386 5.5 6V10C5.5 10.2761 5.72386 10.5 6 10.5H10C10.2761 10.5 10.5 10.2761 10.5 10V6C10.5 5.72386 10.2761 5.5 10 5.5H6Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
+        "name": "stop-two",
+        "style": "outline",
+        "category": "Control",
+        "title": "StopTwo",
+        "fileName": "StopTwoIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3.5H12.5V12.5H3.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+      },
+      {
+        "name": "stop-two",
+        "style": "filled",
+        "category": "Control",
+        "title": "StopTwo",
+        "fileName": "StopTwoFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 3L12.6006 3.00977C12.8286 3.05629 13 3.25829 13 3.5V12.5C13 12.7761 12.7761 13 12.5 13H3.5C3.22386 13 3 12.7761 3 12.5V3.5L3.00977 3.39941C3.05629 3.17145 3.25829 3 3.5 3H12.5Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
         "name": "suspend",
         "style": "outline",
         "category": "Control",
@@ -10012,6 +10092,22 @@
         "title": "Suspend",
         "fileName": "SuspendFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 1C4.13401 1 1 4.13401 1 8C1 11.866 4.13401 15 8 15C11.866 15 15 11.866 15 8C15 4.13401 11.866 1 8 1ZM6 11H7V5H6V11ZM10 5H9V11H10V5Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "suspend-two",
+        "style": "outline",
+        "category": "Control",
+        "title": "SuspendTwo",
+        "fileName": "SuspendTwoIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 3.5H6.5V12.5H4V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M9.5 3.5H12V12.5H9.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+      },
+      {
+        "name": "suspend-two",
+        "style": "filled",
+        "category": "Control",
+        "title": "SuspendTwo",
+        "fileName": "SuspendTwoFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 3L6.60059 3.00977C6.82855 3.05629 7 3.25829 7 3.5V12.5C7 12.7761 6.77614 13 6.5 13H4C3.72386 13 3.5 12.7761 3.5 12.5V3.5L3.50977 3.39941C3.55629 3.17145 3.75829 3 4 3H6.5ZM12 3L12.1006 3.00977C12.3286 3.05629 12.5 3.25829 12.5 3.5V12.5C12.5 12.7761 12.2761 13 12 13H9.5C9.22386 13 9 12.7761 9 12.5V3.5L9.00977 3.39941C9.05629 3.17145 9.25829 3 9.5 3H12Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "align-txt-left",
