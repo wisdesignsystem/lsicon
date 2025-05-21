@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const PlayTwoFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M4.76074 3.06153C4.92124 2.97395 5.11669 2.98025 5.27051 3.07911L12.2705 7.57911C12.4136 7.67111 12.5 7.82988 12.5 8.00001C12.5 8.17014 12.4136 8.32891 12.2705 8.42091L5.27051 12.9209C5.11669 13.0198 4.92124 13.0261 4.76074 12.9385C4.60021 12.8508 4.5 12.6829 4.5 12.5V3.50001L4.50488 3.43263C4.5261 3.27654 4.62017 3.13828 4.76074 3.06153Z" /></svg>;
+export default PlayTwoFilledIcon;

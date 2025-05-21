@@ -1,5 +1,24 @@
 # @wisdesign/lsicon
 
+## 0.0.29
+
+### Patch Changes
+
+- [#60](https://github.com/wisdesignsystem/lsicon/pull/60) [`edb7d5e`](https://github.com/wisdesignsystem/lsicon/commit/edb7d5e57422f2a2e99f982694eaecc05e08eaa1) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(6):
+
+  - PlayTwoIcon
+  - PlayTwoFilledIcon
+  - StopTwoIcon
+  - StopTwoFilledIcon
+  - SuspendTwoIcon
+  - SuspendTwoFilledIcon
+
+  🔄 update icons(1):
+
+  - MagicStopFilledIcon
+
 ## 0.0.28
 
 ### Patch Changes
