@@ -1169,6 +1169,30 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 13.5H14M8 8H14M2 2.5H14M2.5 13.5V6.5L6 10L2.5 13.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "quote",
+                "style": "outline",
+                "category": "Action",
+                "title": "Quote",
+                "fileName": "QuoteIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V7.5H3.5C5.32453 7.5 3.5 11 2 11V12.5C5.5 12.5 6.5 8.5 6.5 7.5V3.5H1.5Z\" stroke=\"black\"/>\n<path d=\"M9.5 3.5V7.5H11.5C13.3245 7.5 11.5 11 10 11V12.5C13.5 12.5 14.5 8.5 14.5 7.5V3.5H9.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "quote-three",
+                "style": "outline",
+                "category": "Action",
+                "title": "QuoteThree",
+                "fileName": "QuoteThreeIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 8.5V4H7V8.5L5 12H3L5 8.5H2.5Z\" stroke=\"black\"/>\n<path d=\"M9 8.5V4H13.5V8.5L11.5 12H9.5L11.5 8.5H9Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "quote-two",
+                "style": "outline",
+                "category": "Action",
+                "title": "QuoteTwo",
+                "fileName": "QuoteTwoIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3V8.5H12.5M12.5 8.5L9 5.5M12.5 8.5L9 11.5\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "amount-down-two",
                 "style": "outline",
                 "category": "Action",
@@ -1573,7 +1597,7 @@
                 "category": "Control",
                 "title": "PlayTwo",
                 "fileName": "PlayTwoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 8L5 3.5V12.5L12 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 8L5.5 4.5V11.5L11.5 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "stop",
@@ -1589,7 +1613,7 @@
                 "category": "Control",
                 "title": "StopTwo",
                 "fileName": "StopTwoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3.5H12.5V12.5H3.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5H11.5V11.5H4.5V4.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "suspend",
@@ -1605,7 +1629,7 @@
                 "category": "Control",
                 "title": "SuspendTwo",
                 "fileName": "SuspendTwoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 3.5H6.5V12.5H4V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M9.5 3.5H12V12.5H9.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5H6.5V11.5H4.5V4.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M9.5 4.5H11.5V11.5H9.5V4.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "align-txt-left",
@@ -4685,6 +4709,30 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.70703 10L2 14.707V5.29297L6.70703 10ZM14 13V14H8V13H14ZM14 7.5V8.5H8V7.5H14ZM14 2V3H2V2H14Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "quote",
+                "style": "filled",
+                "category": "Action",
+                "title": "Quote",
+                "fileName": "QuoteFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 7.5C7 8.09612 6.72252 9.43585 5.98926 10.6357C5.24364 11.8558 3.97886 13 2 13H1.5V10.5H2C2.19027 10.5 2.46798 10.3794 2.7832 10.0869C3.08651 9.80536 3.36207 9.42016 3.54492 9.03516C3.73566 8.63346 3.78774 8.31328 3.75488 8.13965C3.74137 8.06839 3.71939 8.04984 3.71191 8.04395C3.70148 8.03575 3.64973 8 3.5 8H1V3H7V7.5ZM15 7.5C15 8.09612 14.7225 9.43585 13.9893 10.6357C13.2436 11.8558 11.9789 13 10 13H9.5V10.5H10C10.1903 10.5 10.468 10.3794 10.7832 10.0869C11.0865 9.80536 11.3621 9.42016 11.5449 9.03516C11.7357 8.63346 11.7877 8.31328 11.7549 8.13965C11.7414 8.06839 11.7194 8.04984 11.7119 8.04395C11.7015 8.03575 11.6497 8 11.5 8H9V3H15V7.5Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "quote-three",
+                "style": "filled",
+                "category": "Action",
+                "title": "QuoteThree",
+                "fileName": "QuoteThreeFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.5 3.5V8.63281L7.43457 8.74805L5.43457 12.248L5.29004 12.5H2.13867L4.1377 9H2V3.5H7.5ZM14 3.5V8.63281L13.9346 8.74805L11.9346 12.248L11.79 12.5H8.63867L10.6377 9H8.5V3.5H14Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "quote-two",
+                "style": "filled",
+                "category": "Action",
+                "title": "QuoteTwo",
+                "fileName": "QuoteTwoFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 3V8H11.1484L8.6748 5.87988L9.3252 5.12012L13.2686 8.5L9.3252 11.8799L8.6748 11.1201L11.1484 9H3V3H4Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "amount-down-two",
                 "style": "filled",
                 "category": "Action",
@@ -4754,7 +4802,7 @@
                 "category": "Action",
                 "title": "ArchiveBoxTwo",
                 "fileName": "ArchiveBoxTwoFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.23852 7L4.83852 3H11.1615L12.7615 7H10.191L9.19098 9H6.80902L5.80902 7H3.23852ZM10.809 8H13V13H3V8H5.19098L6.19098 10H9.80902L10.809 8ZM6.5 12H9.5V11H6.5V12Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.19141 8L6.05273 9.72363L6.19141 10H9.80859L9.94727 9.72363L10.8086 8H14V14H2V8H5.19141ZM6.5 12H9.5V11H6.5V12Z\" fill=\"black\"/>\n<path d=\"M11.9639 2.31445L13.8379 7H10.1914L10.0527 7.27637L9.19141 9H6.80859L5.94727 7.27637L5.80859 7H2.16211L4.03613 2.31445L4.16113 2H11.8389L11.9639 2.31445Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "archive-arrow-down",
@@ -5089,7 +5137,7 @@
                 "category": "Control",
                 "title": "PlayTwo",
                 "fileName": "PlayTwoFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.76074 3.06153C4.92124 2.97395 5.11669 2.98025 5.27051 3.07911L12.2705 7.57911C12.4136 7.67111 12.5 7.82988 12.5 8.00001C12.5 8.17014 12.4136 8.32891 12.2705 8.42091L5.27051 12.9209C5.11669 13.0198 4.92124 13.0261 4.76074 12.9385C4.60021 12.8508 4.5 12.6829 4.5 12.5V3.50001L4.50488 3.43263C4.5261 3.27654 4.62017 3.13828 4.76074 3.06153Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.25098 4.06641C5.40622 3.97725 5.59731 3.97816 5.75195 4.06837L11.752 7.56837C11.9055 7.65799 12 7.82222 12 8.00001C12 8.17779 11.9055 8.34203 11.752 8.43165L5.75195 11.9316C5.59731 12.0219 5.40622 12.0228 5.25098 11.9336C5.09573 11.8444 5 11.679 5 11.5V4.50001C5 4.32097 5.09573 4.15558 5.25098 4.06641Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "stop",
@@ -5105,7 +5153,7 @@
                 "category": "Control",
                 "title": "StopTwo",
                 "fileName": "StopTwoFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 3L12.6006 3.00977C12.8286 3.05629 13 3.25829 13 3.5V12.5C13 12.7761 12.7761 13 12.5 13H3.5C3.22386 13 3 12.7761 3 12.5V3.5L3.00977 3.39941C3.05629 3.17145 3.25829 3 3.5 3H12.5Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 4L11.6006 4.00977C11.8286 4.05629 12 4.25829 12 4.5V11.5C12 11.7761 11.7761 12 11.5 12H4.5C4.22386 12 4 11.7761 4 11.5L4 4.5L4.00977 4.39941C4.05629 4.17145 4.25829 4 4.5 4H11.5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "suspend",
@@ -5121,7 +5169,7 @@
                 "category": "Control",
                 "title": "SuspendTwo",
                 "fileName": "SuspendTwoFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 3L6.60059 3.00977C6.82855 3.05629 7 3.25829 7 3.5V12.5C7 12.7761 6.77614 13 6.5 13H4C3.72386 13 3.5 12.7761 3.5 12.5V3.5L3.50977 3.39941C3.55629 3.17145 3.75829 3 4 3H6.5ZM12 3L12.1006 3.00977C12.3286 3.05629 12.5 3.25829 12.5 3.5V12.5C12.5 12.7761 12.2761 13 12 13H9.5C9.22386 13 9 12.7761 9 12.5V3.5L9.00977 3.39941C9.05629 3.17145 9.25829 3 9.5 3H12Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 4L6.60059 4.00977C6.82855 4.05629 7 4.25829 7 4.5V11.5C7 11.7761 6.77614 12 6.5 12H4.5C4.22386 12 4 11.7761 4 11.5V4.5L4.00977 4.39941C4.05629 4.17145 4.25829 4 4.5 4H6.5ZM11.5 4L11.6006 4.00977C11.8286 4.05629 12 4.25829 12 4.5V11.5C12 11.7761 11.7761 12 11.5 12H9.5C9.22386 12 9 11.7761 9 11.5V4.5L9.00977 4.39941C9.05629 4.17145 9.25829 4 9.5 4H11.5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "align-txt-left",
@@ -9246,6 +9294,54 @@
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.70703 10L2 14.707V5.29297L6.70703 10ZM14 13V14H8V13H14ZM14 7.5V8.5H8V7.5H14ZM14 2V3H2V2H14Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
+        "name": "quote",
+        "style": "outline",
+        "category": "Action",
+        "title": "Quote",
+        "fileName": "QuoteIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V7.5H3.5C5.32453 7.5 3.5 11 2 11V12.5C5.5 12.5 6.5 8.5 6.5 7.5V3.5H1.5Z\" stroke=\"black\"/>\n<path d=\"M9.5 3.5V7.5H11.5C13.3245 7.5 11.5 11 10 11V12.5C13.5 12.5 14.5 8.5 14.5 7.5V3.5H9.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "quote",
+        "style": "filled",
+        "category": "Action",
+        "title": "Quote",
+        "fileName": "QuoteFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 7.5C7 8.09612 6.72252 9.43585 5.98926 10.6357C5.24364 11.8558 3.97886 13 2 13H1.5V10.5H2C2.19027 10.5 2.46798 10.3794 2.7832 10.0869C3.08651 9.80536 3.36207 9.42016 3.54492 9.03516C3.73566 8.63346 3.78774 8.31328 3.75488 8.13965C3.74137 8.06839 3.71939 8.04984 3.71191 8.04395C3.70148 8.03575 3.64973 8 3.5 8H1V3H7V7.5ZM15 7.5C15 8.09612 14.7225 9.43585 13.9893 10.6357C13.2436 11.8558 11.9789 13 10 13H9.5V10.5H10C10.1903 10.5 10.468 10.3794 10.7832 10.0869C11.0865 9.80536 11.3621 9.42016 11.5449 9.03516C11.7357 8.63346 11.7877 8.31328 11.7549 8.13965C11.7414 8.06839 11.7194 8.04984 11.7119 8.04395C11.7015 8.03575 11.6497 8 11.5 8H9V3H15V7.5Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "quote-three",
+        "style": "outline",
+        "category": "Action",
+        "title": "QuoteThree",
+        "fileName": "QuoteThreeIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 8.5V4H7V8.5L5 12H3L5 8.5H2.5Z\" stroke=\"black\"/>\n<path d=\"M9 8.5V4H13.5V8.5L11.5 12H9.5L11.5 8.5H9Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "quote-three",
+        "style": "filled",
+        "category": "Action",
+        "title": "QuoteThree",
+        "fileName": "QuoteThreeFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.5 3.5V8.63281L7.43457 8.74805L5.43457 12.248L5.29004 12.5H2.13867L4.1377 9H2V3.5H7.5ZM14 3.5V8.63281L13.9346 8.74805L11.9346 12.248L11.79 12.5H8.63867L10.6377 9H8.5V3.5H14Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "quote-two",
+        "style": "outline",
+        "category": "Action",
+        "title": "QuoteTwo",
+        "fileName": "QuoteTwoIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3V8.5H12.5M12.5 8.5L9 5.5M12.5 8.5L9 11.5\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "quote-two",
+        "style": "filled",
+        "category": "Action",
+        "title": "QuoteTwo",
+        "fileName": "QuoteTwoFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 3V8H11.1484L8.6748 5.87988L9.3252 5.12012L13.2686 8.5L9.3252 11.8799L8.6748 11.1201L11.1484 9H3V3H4Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
         "name": "amount-down-two",
         "style": "outline",
         "category": "Action",
@@ -9387,7 +9483,7 @@
         "category": "Action",
         "title": "ArchiveBoxTwo",
         "fileName": "ArchiveBoxTwoFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.23852 7L4.83852 3H11.1615L12.7615 7H10.191L9.19098 9H6.80902L5.80902 7H3.23852ZM10.809 8H13V13H3V8H5.19098L6.19098 10H9.80902L10.809 8ZM6.5 12H9.5V11H6.5V12Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.19141 8L6.05273 9.72363L6.19141 10H9.80859L9.94727 9.72363L10.8086 8H14V14H2V8H5.19141ZM6.5 12H9.5V11H6.5V12Z\" fill=\"black\"/>\n<path d=\"M11.9639 2.31445L13.8379 7H10.1914L10.0527 7.27637L9.19141 9H6.80859L5.94727 7.27637L5.80859 7H2.16211L4.03613 2.31445L4.16113 2H11.8389L11.9639 2.31445Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "archive-arrow-down",
@@ -10035,7 +10131,7 @@
         "category": "Control",
         "title": "PlayTwo",
         "fileName": "PlayTwoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 8L5 3.5V12.5L12 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 8L5.5 4.5V11.5L11.5 8Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "play-two",
@@ -10043,7 +10139,7 @@
         "category": "Control",
         "title": "PlayTwo",
         "fileName": "PlayTwoFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.76074 3.06153C4.92124 2.97395 5.11669 2.98025 5.27051 3.07911L12.2705 7.57911C12.4136 7.67111 12.5 7.82988 12.5 8.00001C12.5 8.17014 12.4136 8.32891 12.2705 8.42091L5.27051 12.9209C5.11669 13.0198 4.92124 13.0261 4.76074 12.9385C4.60021 12.8508 4.5 12.6829 4.5 12.5V3.50001L4.50488 3.43263C4.5261 3.27654 4.62017 3.13828 4.76074 3.06153Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.25098 4.06641C5.40622 3.97725 5.59731 3.97816 5.75195 4.06837L11.752 7.56837C11.9055 7.65799 12 7.82222 12 8.00001C12 8.17779 11.9055 8.34203 11.752 8.43165L5.75195 11.9316C5.59731 12.0219 5.40622 12.0228 5.25098 11.9336C5.09573 11.8444 5 11.679 5 11.5V4.50001C5 4.32097 5.09573 4.15558 5.25098 4.06641Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "stop",
@@ -10067,7 +10163,7 @@
         "category": "Control",
         "title": "StopTwo",
         "fileName": "StopTwoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3.5H12.5V12.5H3.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5H11.5V11.5H4.5V4.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "stop-two",
@@ -10075,7 +10171,7 @@
         "category": "Control",
         "title": "StopTwo",
         "fileName": "StopTwoFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 3L12.6006 3.00977C12.8286 3.05629 13 3.25829 13 3.5V12.5C13 12.7761 12.7761 13 12.5 13H3.5C3.22386 13 3 12.7761 3 12.5V3.5L3.00977 3.39941C3.05629 3.17145 3.25829 3 3.5 3H12.5Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 4L11.6006 4.00977C11.8286 4.05629 12 4.25829 12 4.5V11.5C12 11.7761 11.7761 12 11.5 12H4.5C4.22386 12 4 11.7761 4 11.5L4 4.5L4.00977 4.39941C4.05629 4.17145 4.25829 4 4.5 4H11.5Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "suspend",
@@ -10099,7 +10195,7 @@
         "category": "Control",
         "title": "SuspendTwo",
         "fileName": "SuspendTwoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 3.5H6.5V12.5H4V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M9.5 3.5H12V12.5H9.5V3.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5H6.5V11.5H4.5V4.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n<path d=\"M9.5 4.5H11.5V11.5H9.5V4.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "suspend-two",
@@ -10107,7 +10203,7 @@
         "category": "Control",
         "title": "SuspendTwo",
         "fileName": "SuspendTwoFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 3L6.60059 3.00977C6.82855 3.05629 7 3.25829 7 3.5V12.5C7 12.7761 6.77614 13 6.5 13H4C3.72386 13 3.5 12.7761 3.5 12.5V3.5L3.50977 3.39941C3.55629 3.17145 3.75829 3 4 3H6.5ZM12 3L12.1006 3.00977C12.3286 3.05629 12.5 3.25829 12.5 3.5V12.5C12.5 12.7761 12.2761 13 12 13H9.5C9.22386 13 9 12.7761 9 12.5V3.5L9.00977 3.39941C9.05629 3.17145 9.25829 3 9.5 3H12Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 4L6.60059 4.00977C6.82855 4.05629 7 4.25829 7 4.5V11.5C7 11.7761 6.77614 12 6.5 12H4.5C4.22386 12 4 11.7761 4 11.5V4.5L4.00977 4.39941C4.05629 4.17145 4.25829 4 4.5 4H6.5ZM11.5 4L11.6006 4.00977C11.8286 4.05629 12 4.25829 12 4.5V11.5C12 11.7761 11.7761 12 11.5 12H9.5C9.22386 12 9 11.7761 9 11.5V4.5L9.00977 4.39941C9.05629 4.17145 9.25829 4 9.5 4H11.5Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "align-txt-left",
