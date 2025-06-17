@@ -1,5 +1,30 @@
 # @wisdesign/lsicon
 
+## 0.0.30
+
+### Patch Changes
+
+- [#62](https://github.com/wisdesignsystem/lsicon/pull/62) [`037be36`](https://github.com/wisdesignsystem/lsicon/commit/037be36e1693d6bca7f625866748d93532d240a6) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(6):
+
+  - QuoteIcon
+  - QuoteFilledIcon
+  - QuoteThreeIcon
+  - QuoteThreeFilledIcon
+  - QuoteTwoIcon
+  - QuoteTwoFilledIcon
+
+  🔄 update icons(7):
+
+  - ArchiveBoxTwoFilledIcon
+  - PlayTwoIcon
+  - PlayTwoFilledIcon
+  - StopTwoIcon
+  - StopTwoFilledIcon
+  - SuspendTwoIcon
+  - SuspendTwoFilledIcon
+
 ## 0.0.29
 
 ### Patch Changes
