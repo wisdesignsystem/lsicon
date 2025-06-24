@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const PinOpenFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M7.5 10.0004H4V9.00037H5.05762L5.70508 3.65955L4.97559 2.81677C4.84753 2.66882 4.81713 2.4596 4.89844 2.28162C4.97978 2.10364 5.15783 1.98964 5.35352 1.98962H10.3535C10.5494 1.98962 10.7273 2.10441 10.8086 2.28259C10.8896 2.46068 10.8597 2.66998 10.7314 2.81775L10.0107 3.64685L10.9229 9.00037H12V10.0004H8.5V14.0004H7.5V10.0004Z" /></svg>;
+export default PinOpenFilledIcon;
