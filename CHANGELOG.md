@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.31
+
+### Patch Changes
+
+- [#64](https://github.com/wisdesignsystem/lsicon/pull/64) [`754e1eb`](https://github.com/wisdesignsystem/lsicon/commit/754e1eb41fbc67c7dfc96f9e7b9ae524c8a6abd5) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - PinOpenIcon
+  - PinOpenFilledIcon
+  - PinCloseIcon
+  - PinCloseFilledIcon
+
 ## 0.0.30
 
 ### Patch Changes
