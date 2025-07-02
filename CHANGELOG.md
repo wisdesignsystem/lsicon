@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.32
+
+### Patch Changes
+
+- [#66](https://github.com/wisdesignsystem/lsicon/pull/66) [`69a63f8`](https://github.com/wisdesignsystem/lsicon/commit/69a63f87095429e07361462b00e752e32a00bf27) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - HourglassIcon
+  - HourglassFilledIcon
+
 ## 0.0.31
 
 ### Patch Changes
