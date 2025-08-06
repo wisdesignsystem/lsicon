@@ -1,5 +1,26 @@
 # @wisdesign/lsicon
 
+## 0.0.33
+
+### Patch Changes
+
+- [#68](https://github.com/wisdesignsystem/lsicon/pull/68) [`e41d10c`](https://github.com/wisdesignsystem/lsicon/commit/e41d10c6e957727fe669fd9a360f6e0e7e8a585f) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(12):
+
+  - BranchRoundIcon
+  - BranchRoundFilledIcon
+  - BranchMiterIcon
+  - BranchMiterFilledIcon
+  - TidyUpIcon
+  - TidyUpFilledIcon
+  - CursorIcon
+  - CursorFilledIcon
+  - CursorTwoIcon
+  - CursorTwoFilledIcon
+  - HandIcon
+  - HandFilledIcon
+
 ## 0.0.32
 
 ### Patch Changes
