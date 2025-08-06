@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const HandIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M10.5 8V6M10.5 6V4C10.5 3.44772 10.0523 3 9.5 3C8.94771 3 8.5 3.44772 8.5 4M10.5 6C10.5 5.44772 10.9477 5 11.5 5C12.0523 5 12.5 5.44772 12.5 6V10C12.5 12.4853 10.4853 14.5 8 14.5C5.41109 14.5 3.2094 12.6111 2.81574 10.0523L2.53125 8.20314C2.51071 8.06964 2.52228 7.93316 2.56499 7.80502C2.76485 7.20545 3.52581 7.02581 3.9727 7.4727L4.5 8V3.5C4.5 2.94772 4.94771 2.5 5.5 2.5C6.05228 2.5 6.5 2.94772 6.5 3.5M8.5 8V4M8.5 4V2.5C8.5 1.94772 8.05228 1.5 7.5 1.5C6.94771 1.5 6.5 1.94772 6.5 2.5V3.5M6.5 3.5V8" /></svg>;
+export default HandIcon;
