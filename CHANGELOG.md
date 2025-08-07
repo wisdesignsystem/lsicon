@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.34
+
+### Patch Changes
+
+- [#70](https://github.com/wisdesignsystem/lsicon/pull/70) [`322027c`](https://github.com/wisdesignsystem/lsicon/commit/322027cb372f2565be8e8279907f01ee841a444e) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - NodeMapIcon
+  - NodeMapFilledIcon
+
 ## 0.0.33
 
 ### Patch Changes
