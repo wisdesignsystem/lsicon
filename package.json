@@ -2758,6 +2758,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 2.5H4.5M4.5 2.5H11.5M4.5 2.5V4.5C4.5 6.433 6.067 8 8 8M11.5 2.5H13M11.5 2.5V4.5C11.5 6.433 9.933 8 8 8M8 8C10.4853 8 12.5 10.0147 12.5 12.5V13.5M8 8C5.51472 8 3.5 10.0147 3.5 12.5V13.5M2 13.5H3.5M3.5 13.5H12.5M12.5 13.5H14\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "node-map",
+                "style": "outline",
+                "category": "Common",
+                "title": "NodeMap",
+                "fileName": "NodeMapIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 4H4V6.5M9.5 12H4V9.5M2.5 6.5V9.5H5.5V6.5H2.5ZM9.5 2.5V6H13.5V2.5H9.5ZM9.5 10V13.5H13.5V10H9.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "user-crowd",
                 "style": "outline",
                 "category": "Common",
@@ -6368,6 +6376,14 @@
                 "title": "Hourglass",
                 "fileName": "HourglassFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 3H12V4.5C12 5.96176 11.2155 7.23966 10.0449 7.9375C11.7865 8.71927 13 10.4673 13 12.5V13H14V14H2V13H3V12.5C3 10.4677 4.21297 8.71945 5.9541 7.9375C4.78396 7.23956 4 5.96146 4 4.5V3H3V2H13V3Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "node-map",
+                "style": "filled",
+                "category": "Common",
+                "title": "NodeMap",
+                "fileName": "NodeMapFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 2V6.5H9V4.5H4.5V6H6V10H4.5V11.5H9V9.5H14V14H9V12.5H3.5V10H2V6H3.5V3.5H9V2H14Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "user-crowd",
@@ -12572,6 +12588,22 @@
         "title": "Hourglass",
         "fileName": "HourglassFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 3H12V4.5C12 5.96176 11.2155 7.23966 10.0449 7.9375C11.7865 8.71927 13 10.4673 13 12.5V13H14V14H2V13H3V12.5C3 10.4677 4.21297 8.71945 5.9541 7.9375C4.78396 7.23956 4 5.96146 4 4.5V3H3V2H13V3Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "node-map",
+        "style": "outline",
+        "category": "Common",
+        "title": "NodeMap",
+        "fileName": "NodeMapIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 4H4V6.5M9.5 12H4V9.5M2.5 6.5V9.5H5.5V6.5H2.5ZM9.5 2.5V6H13.5V2.5H9.5ZM9.5 10V13.5H13.5V10H9.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "node-map",
+        "style": "filled",
+        "category": "Common",
+        "title": "NodeMap",
+        "fileName": "NodeMapFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 2V6.5H9V4.5H4.5V6H6V10H4.5V11.5H9V9.5H14V14H9V12.5H3.5V10H2V6H3.5V3.5H9V2H14Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "user-crowd",
