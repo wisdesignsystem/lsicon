@@ -1,5 +1,22 @@
 # @wisdesign/lsicon
 
+## 0.0.35
+
+### Patch Changes
+
+- [#72](https://github.com/wisdesignsystem/lsicon/pull/72) [`7275209`](https://github.com/wisdesignsystem/lsicon/commit/72752097242c993905586d0ffbed1cdd0ed45018) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(8):
+
+  - ZoomFitIcon
+  - ZoomFitFilledIcon
+  - FitViewIcon
+  - FitViewFilledIcon
+  - ShowGridIcon
+  - ShowGridFilledIcon
+  - HideGridIcon
+  - HideGridFilledIcon
+
 ## 0.0.34
 
 ### Patch Changes
