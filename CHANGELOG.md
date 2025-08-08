@@ -1,5 +1,64 @@
 # @wisdesign/lsicon
 
+## 0.0.36
+
+### Patch Changes
+
+- [#74](https://github.com/wisdesignsystem/lsicon/pull/74) [`08498fb`](https://github.com/wisdesignsystem/lsicon/commit/08498fbe5117382e016bfea565fc3c49fc396246) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(6):
+
+  - NodeExpandIcon
+  - NodeExpandFilledIcon
+  - NodeCollapseIcon
+  - NodeCollapseFilledIcon
+  - BroomIcon
+  - BroomFilledIcon
+
+  🔄 update icons(41):
+
+  - MinusFilledIcon
+  - CircleInformationFilledIcon
+  - CircleCloseFilledIcon
+  - CircleStarFilledIcon
+  - CircleSucceedFilledIcon
+  - CircleWarningFilledIcon
+  - CircleHelpFilledIcon
+  - GitPullFilledIcon
+  - GitDiffFilledIcon
+  - WebhookIcon
+  - MagicStopFilledIcon
+  - FrontSquareFilledIcon
+  - CopyTwoFilledIcon
+  - VolumeFilledIcon
+  - VolumeMuteFilledIcon
+  - SuspendFilledIcon
+  - AlignTxtBothFilledIcon
+  - PurseFilledIcon
+  - BasketFilledIcon
+  - SoupFilledIcon
+  - BadgePromotionFilledIcon
+  - CheckStandFilledIcon
+  - StoreFilledIcon
+  - MoonFilledIcon
+  - AtFilledIcon
+  - ChatTwoIcon
+  - NoteCardIcon
+  - InputCardIcon
+  - InputCardFilledIcon
+  - BusinessCardIcon
+  - QuestionCardIcon
+  - IntegralDistributeFilledIcon
+  - ReplenishmentFilledIcon
+  - ManagementFilledIcon
+  - OvertimeFilledIcon
+  - ScaleFilledIcon
+  - SalesReturnFilledIcon
+  - ProcessModeFilledIcon
+  - FileCsvFilledIcon
+  - FileMovFilledIcon
+  - OrderDoneFilledIcon
+
 ## 0.0.35
 
 ### Patch Changes

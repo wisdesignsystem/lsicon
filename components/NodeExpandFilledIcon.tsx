@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const NodeExpandFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><g clipPath="url(#clip0_7304_4046)"><path fill="currentColor" d="M14 8V9H8.5V12.293L9.64648 11.1465L10.3535 11.8535L8 14.207L5.64648 11.8535L6.35352 11.1465L7.5 12.293V9H2V8H14ZM14 2V6H2V2H14Z" /></g><defs><clipPath id="clip0_7304_4046"><rect width={16} height={16} fill="currentColor" /></clipPath></defs></svg>;
+export default NodeExpandFilledIcon;
