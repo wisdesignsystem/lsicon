@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const CardCollapseFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><g clipPath="url(#clip0_7308_3990)"><path fill="currentColor" d="M12 2V12.793L13.6465 11.1465L14.3535 11.8535L11.5 14.707L8.64648 11.8535L9.35352 11.1465L11 12.793V2H12ZM8 2V14H2V2H8ZM3 13H7V3H3V13Z" /></g><defs><clipPath id="clip0_7308_3990"><rect width={16} height={16} fill="currentColor" /></clipPath></defs></svg>;
+export default CardCollapseFilledIcon;
