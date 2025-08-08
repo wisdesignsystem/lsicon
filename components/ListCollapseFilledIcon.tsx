@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const ListCollapseFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><g clipPath="url(#clip0_7308_3948)"><path fill="currentColor" d="M8 13V14H2V13H8ZM8 7.5V8.5H2V7.5H8ZM14 2V3H2V2H14Z" /><path fill="currentColor" d="M14.3535 7.14648L13.6465 7.85352L12 6.20703V14H11V6.20703L9.35352 7.85352L8.64648 7.14648L11.5 4.29297L14.3535 7.14648Z" /></g><defs><clipPath id="clip0_7308_3948"><rect width={16} height={16} fill="currentColor" /></clipPath></defs></svg>;
+export default ListCollapseFilledIcon;

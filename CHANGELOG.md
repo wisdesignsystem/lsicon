@@ -1,5 +1,41 @@
 # @wisdesign/lsicon
 
+## 0.0.37
+
+### Patch Changes
+
+- [#76](https://github.com/wisdesignsystem/lsicon/pull/76) [`bda7610`](https://github.com/wisdesignsystem/lsicon/commit/bda7610016626a36c58b092d24ba6db9913b6875) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(8):
+
+  - ListExpandIcon
+  - ListExpandFilledIcon
+  - ListCollapseIcon
+  - ListCollapseFilledIcon
+  - CardExpandIcon
+  - CardExpandFilledIcon
+  - CardCollapseIcon
+  - CardCollapseFilledIcon
+
+  🔄 update icons(16):
+
+  - CircleHelpFilledIcon
+  - GitPullFilledIcon
+  - GitDiffFilledIcon
+  - WebhookIcon
+  - MagicStopFilledIcon
+  - VolumeFilledIcon
+  - VolumeMuteFilledIcon
+  - PurseFilledIcon
+  - SoupFilledIcon
+  - MoonFilledIcon
+  - AtFilledIcon
+  - ChatTwoIcon
+  - QuestionCardIcon
+  - IntegralDistributeFilledIcon
+  - FileCsvFilledIcon
+  - FileMovFilledIcon
+
 ## 0.0.36
 
 ### Patch Changes
