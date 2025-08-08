@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const BroomFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M13.3535 3.35352L10.0947 6.61133C10.618 7.93312 10.4433 9.44014 9.60742 10.6104L8.42773 12.2607L7.44727 14.2236L7.13672 14.8438L1.15625 8.86328L3.73828 7.57129L5.38965 6.39258C6.55951 5.55696 8.06618 5.3816 9.3877 5.9043L12.6465 2.64648L13.3535 3.35352ZM2.84375 9.13672L6.8623 13.1553L7.3916 12.0986L3.90137 8.6084L2.84375 9.13672Z" /></svg>;
+export default BroomFilledIcon;
