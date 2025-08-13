@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.38
+
+### Patch Changes
+
+- [#78](https://github.com/wisdesignsystem/lsicon/pull/78) [`48ce631`](https://github.com/wisdesignsystem/lsicon/commit/48ce631c17b2e4790dd6e2380eec2c1c114a9ba6) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - ChatLockIcon
+  - ChatLockFilledIcon
+
 ## 0.0.37
 
 ### Patch Changes
