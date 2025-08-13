@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.39
+
+### Patch Changes
+
+- [#80](https://github.com/wisdesignsystem/lsicon/pull/80) [`b9070df`](https://github.com/wisdesignsystem/lsicon/commit/b9070df8f3b7633aa055d348a3e6be35feba27ef) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🔄 update icons(4):
+
+  - ChatIcon
+  - ChatFilledIcon
+  - ChatTwoIcon
+  - ChatTwoFilledIcon
+
 ## 0.0.38
 
 ### Patch Changes
