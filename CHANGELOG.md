@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.41
+
+### Patch Changes
+
+- [#84](https://github.com/wisdesignsystem/lsicon/pull/84) [`5a71357`](https://github.com/wisdesignsystem/lsicon/commit/5a713575b4578c4394e5ec392839f95ac0b4db80) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - BrainIcon
+  - BrainFilledIcon
+
 ## 0.0.40
 
 ### Patch Changes
