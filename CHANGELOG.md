@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.40
+
+### Patch Changes
+
+- [#82](https://github.com/wisdesignsystem/lsicon/pull/82) [`ed69136`](https://github.com/wisdesignsystem/lsicon/commit/ed691365677c31540b83a0873cb35275b4bc351e) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - MenuThreeIcon
+  - MenuThreeFilledIcon
+
 ## 0.0.39
 
 ### Patch Changes
