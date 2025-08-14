@@ -246,6 +246,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 12.5H14M2 8H14M2 3.5H14\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "menu-three",
+                "style": "outline",
+                "category": "Navigation",
+                "title": "MenuThree",
+                "fileName": "MenuThreeIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 12.5H8M2 8H11M2 3.5H14\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "arrow-right",
                 "style": "outline",
                 "category": "Navigation",
@@ -3967,6 +3975,14 @@
                 "title": "Menu2",
                 "fileName": "Menu2FilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14 4H2V3H14V4ZM14 8.5H2V7.5H14V8.5ZM14 13H2V12H14V13Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "menu-three",
+                "style": "filled",
+                "category": "Navigation",
+                "title": "MenuThree",
+                "fileName": "MenuThreeFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14 4H2V3H14V4ZM11 8.5H2V7.5H11V8.5ZM8 13H2V12H8V13Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "arrow-right",
@@ -7882,6 +7898,22 @@
         "title": "Menu2",
         "fileName": "Menu2FilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14 4H2V3H14V4ZM14 8.5H2V7.5H14V8.5ZM14 13H2V12H14V13Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "menu-three",
+        "style": "outline",
+        "category": "Navigation",
+        "title": "MenuThree",
+        "fileName": "MenuThreeIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 12.5H8M2 8H11M2 3.5H14\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "menu-three",
+        "style": "filled",
+        "category": "Navigation",
+        "title": "MenuThree",
+        "fileName": "MenuThreeFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14 4H2V3H14V4ZM11 8.5H2V7.5H11V8.5ZM8 13H2V12H8V13Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "arrow-right",
