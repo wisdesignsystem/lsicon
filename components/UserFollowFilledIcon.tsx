@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const UserFollowFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M13.8799 10.3252L10.5283 14.2354L8.64648 12.3535L9.35352 11.6465L10.4717 12.7646L13.1201 9.6748L13.8799 10.3252ZM3 13.5C3 11.0147 5.01472 9 7.5 9H9V10H7.5C5.567 10 4 11.567 4 13.5V14H3V13.5ZM11 5C11 6.65685 9.65685 8 8 8C6.34315 8 5 6.65685 5 5C5 3.34315 6.34315 2 8 2C9.65685 2 11 3.34315 11 5Z" /></svg>;
+export default UserFollowFilledIcon;
