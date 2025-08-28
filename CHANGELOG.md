@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.42
+
+### Patch Changes
+
+- [#86](https://github.com/wisdesignsystem/lsicon/pull/86) [`016c625`](https://github.com/wisdesignsystem/lsicon/commit/016c6251f201737d287ddf91281f9009c9505bb3) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - ChatSmileIcon
+  - ChatSmileFilledIcon
+  - UserFollowIcon
+  - UserFollowFilledIcon
+
 ## 0.0.41
 
 ### Patch Changes
