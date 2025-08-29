@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.43
+
+### Patch Changes
+
+- [#88](https://github.com/wisdesignsystem/lsicon/pull/88) [`142aee5`](https://github.com/wisdesignsystem/lsicon/commit/142aee50fe25c61b22fc31f979cda9b708cd151a) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - ViewVrIcon
+  - ViewVrFilledIcon
+  - ViewVr2Icon
+  - ViewVr2FilledIcon
+
 ## 0.0.42
 
 ### Patch Changes
