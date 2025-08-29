@@ -1479,6 +1479,22 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 14V2M11.5 14L9 11.5M11.5 14L14 11.5M2.5 13.4999V2.49994H7.5V13.4999H2.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "view-vr",
+                "style": "outline",
+                "category": "Control",
+                "title": "ViewVr",
+                "fileName": "ViewVrIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5L8 11.5L14.5 12.5V8V3.5L8 4.5L1.5 3.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "view-vr2",
+                "style": "outline",
+                "category": "Control",
+                "title": "ViewVr2",
+                "fileName": "ViewVr2Icon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H5.5L7 10.5H9L10.5 12.5H14.5V3.5H8H1.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "node-collapse",
                 "style": "outline",
                 "category": "Control",
@@ -5232,6 +5248,22 @@
                 "title": "CardCollapse",
                 "fileName": "CardCollapseFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_7308_3990)\">\n<path d=\"M12 2V12.793L13.6465 11.1465L14.3535 11.8535L11.5 14.707L8.64648 11.8535L9.35352 11.1465L11 12.793V2H12ZM8 2V14H2V2H8ZM3 13H7V3H3V13Z\" fill=\"black\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_7308_3990\">\n<rect width=\"16\" height=\"16\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n"
+              },
+              {
+                "name": "view-vr",
+                "style": "filled",
+                "category": "Control",
+                "title": "ViewVr",
+                "fileName": "ViewVrFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_7326_3983)\">\n<path d=\"M15 13.083L8 12.0059L1 13.083V2.91699L8 3.99414L15 2.91699V13.083Z\" fill=\"black\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_7326_3983\">\n<rect width=\"16\" height=\"16\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n"
+              },
+              {
+                "name": "view-vr2",
+                "style": "filled",
+                "category": "Control",
+                "title": "ViewVr2",
+                "fileName": "ViewVr2FilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_7326_4028)\">\n<path d=\"M15 3V13H10.25L8.75 11H7.25L5.75 13H1V3H15Z\" fill=\"black\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_7326_4028\">\n<rect width=\"16\" height=\"16\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n"
               },
               {
                 "name": "node-collapse",
@@ -10314,6 +10346,38 @@
         "title": "CardCollapse",
         "fileName": "CardCollapseFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_7308_3990)\">\n<path d=\"M12 2V12.793L13.6465 11.1465L14.3535 11.8535L11.5 14.707L8.64648 11.8535L9.35352 11.1465L11 12.793V2H12ZM8 2V14H2V2H8ZM3 13H7V3H3V13Z\" fill=\"black\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_7308_3990\">\n<rect width=\"16\" height=\"16\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n"
+      },
+      {
+        "name": "view-vr",
+        "style": "outline",
+        "category": "Control",
+        "title": "ViewVr",
+        "fileName": "ViewVrIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5L8 11.5L14.5 12.5V8V3.5L8 4.5L1.5 3.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "view-vr",
+        "style": "filled",
+        "category": "Control",
+        "title": "ViewVr",
+        "fileName": "ViewVrFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_7326_3983)\">\n<path d=\"M15 13.083L8 12.0059L1 13.083V2.91699L8 3.99414L15 2.91699V13.083Z\" fill=\"black\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_7326_3983\">\n<rect width=\"16\" height=\"16\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n"
+      },
+      {
+        "name": "view-vr2",
+        "style": "outline",
+        "category": "Control",
+        "title": "ViewVr2",
+        "fileName": "ViewVr2Icon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H5.5L7 10.5H9L10.5 12.5H14.5V3.5H8H1.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "view-vr2",
+        "style": "filled",
+        "category": "Control",
+        "title": "ViewVr2",
+        "fileName": "ViewVr2FilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<g clip-path=\"url(#clip0_7326_4028)\">\n<path d=\"M15 3V13H10.25L8.75 11H7.25L5.75 13H1V3H15Z\" fill=\"black\"/>\n</g>\n<defs>\n<clipPath id=\"clip0_7326_4028\">\n<rect width=\"16\" height=\"16\" fill=\"white\"/>\n</clipPath>\n</defs>\n</svg>\n"
       },
       {
         "name": "node-collapse",
