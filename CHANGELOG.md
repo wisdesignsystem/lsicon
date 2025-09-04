@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.45
+
+### Patch Changes
+
+- [#92](https://github.com/wisdesignsystem/lsicon/pull/92) [`f4d2d60`](https://github.com/wisdesignsystem/lsicon/commit/f4d2d60e7b44ea0df1de2f9e7765badb557d9452) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - GoalIcon
+  - GoalFilledIcon
+
 ## 0.0.44
 
 ### Patch Changes
