@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.44
+
+### Patch Changes
+
+- [#90](https://github.com/wisdesignsystem/lsicon/pull/90) [`f1275a4`](https://github.com/wisdesignsystem/lsicon/commit/f1275a4cfaaf999db684d396efd7ba0ce00f7f7f) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - VariableIcon
+  - VariableFilledIcon
+  - RecognitionTextIcon
+  - RecognitionTextFilledIcon
+
 ## 0.0.43
 
 ### Patch Changes
