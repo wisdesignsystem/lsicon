@@ -1,5 +1,25 @@
 # @wisdesign/lsicon
 
+## 0.0.46
+
+### Patch Changes
+
+- [#94](https://github.com/wisdesignsystem/lsicon/pull/94) [`26036f6`](https://github.com/wisdesignsystem/lsicon/commit/26036f6b91132c9046406fa21acf15e2508470a9) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(6):
+
+  - View3dIcon
+  - View3dFilledIcon
+  - View3dImageIcon
+  - View3dImageFilledIcon
+  - Goal2Icon
+  - Goal2FilledIcon
+
+  🔄 update icons(2):
+
+  - Clockwise90FilledIcon
+  - Anticlockwise90FilledIcon
+
 ## 0.0.45
 
 ### Patch Changes

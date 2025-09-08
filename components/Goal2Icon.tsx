@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const Goal2Icon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M13.5 4.53431C12.3487 2.71102 10.3158 1.5 8 1.5C4.41015 1.5 1.5 4.41015 1.5 8C1.5 11.5899 4.41015 14.5 8 14.5C10.3158 14.5 12.3487 13.289 13.5 11.4657M10.8727 6C10.2402 5.09326 9.18937 4.5 8 4.5C6.067 4.5 4.5 6.067 4.5 8C4.5 9.933 6.067 11.5 8 11.5C9.22611 11.5 10.305 10.8695 10.9301 9.91509M8 8H13.5M13.5 8L15 6M13.5 8L15 10" /></svg>;
+export default Goal2Icon;

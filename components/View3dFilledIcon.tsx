@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const View3dFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M4 10.2051L7.5 12.1494V8.82422L4 7.26953V10.2051ZM8.5 8.82422V12.1494L12 10.2051V7.26953L8.5 8.82422ZM4.61914 6.4502L8 7.95215L11.3799 6.4502L8 4.57227L4.61914 6.4502Z" /><path fill="currentColor" d="M8.5 1.5V3.70508L12.7432 6.0625L13 6.20605V10.2588L15.3125 12.1094L14.6875 12.8906L12.4492 11.0996L8.24316 13.4375L8 13.5723L7.75684 13.4375L3.5498 11.0996L1.3125 12.8906L0.6875 12.1094L3 10.2588V6.20605L3.25684 6.0625L7.5 3.70508V1.5H8.5ZM4 6.79395V10.2051L8 12.4268L12 10.2051V6.79395L8 4.57227L4 6.79395Z" /></svg>;
+export default View3dFilledIcon;
