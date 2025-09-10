@@ -1,5 +1,21 @@
 # @wisdesign/lsicon
 
+## 0.0.47
+
+### Patch Changes
+
+- [#96](https://github.com/wisdesignsystem/lsicon/pull/96) [`6ca5b33`](https://github.com/wisdesignsystem/lsicon/commit/6ca5b33f417394e63770d1da825dee399f796394) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - MinusOneIcon
+  - MinusOneFilledIcon
+
+  🔄 update icons(2):
+
+  - View3dImageIcon
+  - View3dImageFilledIcon
+
 ## 0.0.46
 
 ### Patch Changes
