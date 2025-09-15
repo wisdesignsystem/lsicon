@@ -674,6 +674,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 11V13.5H13.5V8M2.5 11V2.5H8M2.5 11L5 8.5L8 11.5L9.5 9.5M11.25 7.60001L12 5.85001L13.75 5.10001L12 4.35001L11.25 2.60001L10.5 4.35001L8.75 5.10001L10.5 5.85001L11.25 7.60001Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "ai-eraser",
+                "style": "outline",
+                "category": "AI",
+                "title": "AiEraser",
+                "fileName": "AiEraserIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.25 5.25L1.5 9L4 11.5H8L9.75 9.75M5.25 5.25L9 1.5L13.5 6L9.75 9.75M5.25 5.25L9.75 9.75M3.50011 13.5H11M12.3 12.3L12.6 11.6L13.3 11.3L12.6 11L12.3 10.3L12 11L11.3 11.3L12 11.6L12.3 12.3Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "magic-suspend",
                 "style": "outline",
                 "category": "AI",
@@ -4499,6 +4507,14 @@
                 "title": "AiImage",
                 "fileName": "AiImageFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 2V3H3V9.79297L5 7.79297L7.94531 10.7383L9.09961 9.2002L9.90039 9.7998L8.40039 11.7998L8.05371 12.2607L5 9.20703L3 11.207V13H13V8H14V14H2V2H8ZM12.3809 3.96875L15.0195 5.09961L12.3809 6.23047L11.25 8.86914L10.1182 6.23047L7.48047 5.09961L10.1182 3.96875L11.25 1.33105L12.3809 3.96875Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "ai-eraser",
+                "style": "filled",
+                "category": "AI",
+                "title": "AiEraser",
+                "fileName": "AiEraserFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 13V14H3.5V13H11ZM12.9805 10.6182L13.4971 10.8408L14.5693 11.2998L13.4971 11.7598L12.9805 11.9805L12.7598 12.4971L12.2998 13.5693L11.8408 12.4971L11.6182 11.9805L10.0303 11.2998L11.1035 10.8408L11.6182 10.6182L11.8408 10.1035L12.2998 9.03027L12.9805 10.6182ZM14.207 6L8.20703 12H3.79297L0.792969 9L9 0.792969L14.207 6ZM2.20703 9L4.20703 11H7.79297L9.04297 9.75L5.25 5.95703L2.20703 9Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "magic-suspend",
@@ -8890,6 +8906,22 @@
         "title": "AiImage",
         "fileName": "AiImageFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 2V3H3V9.79297L5 7.79297L7.94531 10.7383L9.09961 9.2002L9.90039 9.7998L8.40039 11.7998L8.05371 12.2607L5 9.20703L3 11.207V13H13V8H14V14H2V2H8ZM12.3809 3.96875L15.0195 5.09961L12.3809 6.23047L11.25 8.86914L10.1182 6.23047L7.48047 5.09961L10.1182 3.96875L11.25 1.33105L12.3809 3.96875Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "ai-eraser",
+        "style": "outline",
+        "category": "AI",
+        "title": "AiEraser",
+        "fileName": "AiEraserIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.25 5.25L1.5 9L4 11.5H8L9.75 9.75M5.25 5.25L9 1.5L13.5 6L9.75 9.75M5.25 5.25L9.75 9.75M3.50011 13.5H11M12.3 12.3L12.6 11.6L13.3 11.3L12.6 11L12.3 10.3L12 11L11.3 11.3L12 11.6L12.3 12.3Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "ai-eraser",
+        "style": "filled",
+        "category": "AI",
+        "title": "AiEraser",
+        "fileName": "AiEraserFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 13V14H3.5V13H11ZM12.9805 10.6182L13.4971 10.8408L14.5693 11.2998L13.4971 11.7598L12.9805 11.9805L12.7598 12.4971L12.2998 13.5693L11.8408 12.4971L11.6182 11.9805L10.0303 11.2998L11.1035 10.8408L11.6182 10.6182L11.8408 10.1035L12.2998 9.03027L12.9805 10.6182ZM14.207 6L8.20703 12H3.79297L0.792969 9L9 0.792969L14.207 6ZM2.20703 9L4.20703 11H7.79297L9.04297 9.75L5.25 5.95703L2.20703 9Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "magic-suspend",
