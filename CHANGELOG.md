@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.48
+
+### Patch Changes
+
+- [#98](https://github.com/wisdesignsystem/lsicon/pull/98) [`77e6056`](https://github.com/wisdesignsystem/lsicon/commit/77e6056f7842fedc11a2fb249fbf46a7a241218b) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - AiEraserIcon
+  - AiEraserFilledIcon
+
 ## 0.0.47
 
 ### Patch Changes
