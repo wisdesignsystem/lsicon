@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const AiEraserFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M11 13V14H3.5V13H11ZM12.9805 10.6182L13.4971 10.8408L14.5693 11.2998L13.4971 11.7598L12.9805 11.9805L12.7598 12.4971L12.2998 13.5693L11.8408 12.4971L11.6182 11.9805L10.0303 11.2998L11.1035 10.8408L11.6182 10.6182L11.8408 10.1035L12.2998 9.03027L12.9805 10.6182ZM14.207 6L8.20703 12H3.79297L0.792969 9L9 0.792969L14.207 6ZM2.20703 9L4.20703 11H7.79297L9.04297 9.75L5.25 5.95703L2.20703 9Z" /></svg>;
+export default AiEraserFilledIcon;
