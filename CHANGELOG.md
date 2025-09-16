@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.49
+
+### Patch Changes
+
+- [#100](https://github.com/wisdesignsystem/lsicon/pull/100) [`76d8aba`](https://github.com/wisdesignsystem/lsicon/commit/76d8aba8168dc71ca7b763ebec30b181703d232f) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - ChatUnreadIcon
+  - ChatUnreadFilledIcon
+
 ## 0.0.48
 
 ### Patch Changes
