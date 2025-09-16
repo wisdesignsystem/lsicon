@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const ChatUnreadIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M14.1408 6C14.3735 6.61335 14.5 7.2723 14.5 7.95833C14.5 11.249 11.5899 13.9167 8 13.9167C7.35905 13.9167 6.58492 13.6584 6 13.5L2.89807 14.3904C2.89807 14.3904 3.15186 13.6733 3.33008 12.9688C3.48243 12.3666 3.20221 11.7838 2.77997 11.3282C1.92897 10.4098 1.5 9.36848 1.5 7.95833C1.5 4.66764 4.41015 2 8 2C8.69781 2 9.36994 2.1008 10 2.28737M13 3.5C13 3.77614 12.7761 4 12.5 4C12.2239 4 12 3.77614 12 3.5C12 3.22386 12.2239 3 12.5 3C12.7761 3 13 3.22386 13 3.5Z" /></svg>;
+export default ChatUnreadIcon;
