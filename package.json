@@ -1647,6 +1647,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5V11.5L8 14.5M1.5 4.5L8 1.5L8.5 1.73077M1.5 4.5L2.15868 4.80401M8 14.5L14.5 11.5V4.5M8 14.5V7.5M14.5 4.5L8 7.5M14.5 4.5L13.75 4.15385M8 7.5L7.625 7.32692M2.15868 4.80401L8.5 1.73077M2.15868 4.80401L3 5.19231M8.5 1.73077L9.08333 2M9.08333 2L3 5.19231M9.08333 2L9.82075 2.34035M3 5.19231L3.66667 5.5M3.66667 5.5L9.82075 2.34035M3.66667 5.5L4.25164 5.76999M9.82075 2.34035L10.5 2.65385M10.5 2.65385L4.25164 5.76999M10.5 2.65385L11.25 3M4.25164 5.76999L5 6.11538M5 6.11538L11.25 3M5 6.11538L5.83333 6.5M11.25 3L11.6828 3.19974M11.6828 3.19974L5.83333 6.5M11.6828 3.19974L12.3333 3.5M5.83333 6.5L6.5 6.80769M12.3333 3.5L6.5 6.80769M12.3333 3.5L13 3.80769M6.5 6.80769L7.25 7.15385M7.25 7.15385L13 3.80769M7.25 7.15385L7.625 7.32692M13 3.80769L13.75 4.15385M13.75 4.15385L7.625 7.32692\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "surface-top",
+                "style": "outline",
+                "category": "Control",
+                "title": "SurfaceTop",
+                "fileName": "SurfaceTopIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14.5L14.5 11.5V4.5M8 14.5L1.5 11.5V4.5M8 14.5V7M14.5 4.5L8 1.5L1.5 4.5M14.5 4.5L8 7M1.5 4.5L8 7\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "surface-left",
                 "style": "outline",
                 "category": "Control",
@@ -5496,6 +5504,14 @@
                 "title": "SurfaceTop",
                 "fileName": "SurfaceTopFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 0.94931L9.29286 1.54602L15 4.18008V11.8199L8 15.0507L1 11.8199V4.18008L8 0.94931ZM2 5.28145V11.1801L7.5 13.7185V7.81991L2 5.28145ZM8.5 7.81991V13.7185L14 11.1801V5.28145L8.5 7.81991Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "surface-top",
+                "style": "filled",
+                "category": "Control",
+                "title": "SurfaceTop",
+                "fileName": "SurfaceTopFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11.1797L7.5 13.7178V7.34277L2 5.22754V11.1797ZM8.5 7.34277V13.7178L14 11.1797V5.22754L8.5 7.34277ZM2.78418 4.45801L8 6.46387L13.2148 4.45801L8 2.05078L2.78418 4.45801ZM15 11.8203L8 15.0508L1 11.8203V4.17969L8 0.949219L15 4.17969V11.8203Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "surface-left",
@@ -10842,6 +10858,22 @@
         "title": "SurfaceTop",
         "fileName": "SurfaceTopFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 0.94931L9.29286 1.54602L15 4.18008V11.8199L8 15.0507L1 11.8199V4.18008L8 0.94931ZM2 5.28145V11.1801L7.5 13.7185V7.81991L2 5.28145ZM8.5 7.81991V13.7185L14 11.1801V5.28145L8.5 7.81991Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "surface-top",
+        "style": "outline",
+        "category": "Control",
+        "title": "SurfaceTop",
+        "fileName": "SurfaceTopIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14.5L14.5 11.5V4.5M8 14.5L1.5 11.5V4.5M8 14.5V7M14.5 4.5L8 1.5L1.5 4.5M14.5 4.5L8 7M1.5 4.5L8 7\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "surface-top",
+        "style": "filled",
+        "category": "Control",
+        "title": "SurfaceTop",
+        "fileName": "SurfaceTopFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11.1797L7.5 13.7178V7.34277L2 5.22754V11.1797ZM8.5 7.34277V13.7178L14 11.1797V5.22754L8.5 7.34277ZM2.78418 4.45801L8 6.46387L13.2148 4.45801L8 2.05078L2.78418 4.45801ZM15 11.8203L8 15.0508L1 11.8203V4.17969L8 0.949219L15 4.17969V11.8203Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "surface-left",
