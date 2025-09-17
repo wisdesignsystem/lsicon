@@ -4,8 +4,8 @@
 
 Release new icon version
 
-🔄 update icons(2):
+🚀 add icons(2):
 
-  - SurfaceTopIcon
-  - SurfaceTopFilledIcon
+  - ModelIcon
+  - ModelFilledIcon
 
