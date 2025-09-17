@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.51
+
+### Patch Changes
+
+- [#104](https://github.com/wisdesignsystem/lsicon/pull/104) [`8574ac3`](https://github.com/wisdesignsystem/lsicon/commit/8574ac30903ab97c6a4512cfbf8fd922c29f7717) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - ModelIcon
+  - ModelFilledIcon
+
 ## 0.0.50
 
 ### Patch Changes
