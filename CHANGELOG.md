@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.50
+
+### Patch Changes
+
+- [#102](https://github.com/wisdesignsystem/lsicon/pull/102) [`42c4b4b`](https://github.com/wisdesignsystem/lsicon/commit/42c4b4bd281822385171a688fc9a9a7913654c15) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - ChatQuestionIcon
+  - ChatQuestionFilledIcon
+
 ## 0.0.49
 
 ### Patch Changes
