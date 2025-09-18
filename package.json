@@ -2,7 +2,7 @@
   "name": "@wisdesign/lsicon",
   "version": "0.0.51",
   "description": "Icon sets power by lsicon",
-  "homepage": "https://www.lsicon.com/@wisdesign/lsicon",
+  "homepage": "https://www.lsicon.com",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:wisdesignsystem/lsicon.git"
