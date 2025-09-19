@@ -1,5 +1,20 @@
 # @wisdesign/lsicon
 
+## 0.0.52
+
+### Patch Changes
+
+- [#108](https://github.com/wisdesignsystem/lsicon/pull/108) [`c70deec`](https://github.com/wisdesignsystem/lsicon/commit/c70deecbbbac1d96c6138211a8549878793600f9) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(6):
+
+  - FaqIcon
+  - FaqFilledIcon
+  - ListCheckIcon
+  - ListCheckFilledIcon
+  - DocumentCheckIcon
+  - DocumentCheckFilledIcon
+
 ## 0.0.51
 
 ### Patch Changes

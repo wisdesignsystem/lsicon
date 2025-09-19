@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const FaqFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z" /><path fill="currentColor" fillRule="evenodd" d="M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z" clipRule="evenodd" /></svg>;
+export default FaqFilledIcon;

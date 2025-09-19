@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const ListCheckFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M12.5 1C12.7761 1 13 1.22386 13 1.5V9H12V2H4V14H6.5V15H3.5C3.22386 15 3 14.7761 3 14.5V1.5C3 1.22386 3.22386 1 3.5 1H12.5ZM14.3486 10.8584L10.3486 14.751C10.1527 14.9414 9.8398 14.9393 9.64648 14.7461L7.64648 12.7461L8.35352 12.0391L10.0039 13.6895L13.6514 10.1416L14.3486 10.8584ZM9 9V10H5V9H9ZM9 6.5V7.5H5V6.5H9ZM11 4V5H5V4H11Z" /></svg>;
+export default ListCheckFilledIcon;
