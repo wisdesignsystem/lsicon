@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const DocumentCheckFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M10.207 1L13 3.79297V8H12V5H9V2H4V14H7V15H3V1H10.207ZM14.3486 10.8584L10.3486 14.751C10.1527 14.9414 9.8398 14.9393 9.64648 14.7461L7.64648 12.7461L8.35352 12.0391L10.0039 13.6895L13.6514 10.1416L14.3486 10.8584ZM10.5 9.5V10.5H5.5V9.5H10.5ZM10.5 7.5V8.5H5.5V7.5H10.5ZM10 4H11.793L10 2.20703V4Z" /></svg>;
+export default DocumentCheckFilledIcon;
