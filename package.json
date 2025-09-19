@@ -2333,6 +2333,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 4.53431C12.3487 2.71102 10.3158 1.5 8 1.5C4.41015 1.5 1.5 4.41015 1.5 8C1.5 11.5899 4.41015 14.5 8 14.5C10.3158 14.5 12.3487 13.289 13.5 11.4657M10.8727 6C10.2402 5.09326 9.18937 4.5 8 4.5C6.067 4.5 4.5 6.067 4.5 8C4.5 9.933 6.067 11.5 8 11.5C9.22611 11.5 10.305 10.8695 10.9301 9.91509M8 8H13.5M13.5 8L15 6M13.5 8L15 10\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "faq",
+                "style": "outline",
+                "category": "Common",
+                "title": "Faq",
+                "fileName": "FaqIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 6H3.5V8.5M3.5 10V8.5M3.5 8.5H5.5M9 8.5L8.5 6H7.5L7 8.5M9 8.5V10M9 8.5H7M7 10V8.5M11.5 9.5H12.5V6H11V9.5H11.5ZM11.5 9.5L12.5 11M1.5 12.5V3.5H14.5V12.5H1.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "lock",
                 "style": "outline",
                 "category": "Common",
@@ -3691,6 +3699,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 14.5H3.5V1.5H12.5V7M5 4.5H11M5 6.5H9M13.5 14.5L11.5 12.5M12.5 11C12.5 12.3807 11.3807 13.5 10 13.5C8.61929 13.5 7.5 12.3807 7.5 11C7.5 9.61929 8.61929 8.5 10 8.5C11.3807 8.5 12.5 9.61929 12.5 11Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
+                "name": "list-check",
+                "style": "outline",
+                "category": "File",
+                "title": "ListCheck",
+                "fileName": "ListCheckIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 14.5H3.5V1.5H12.5V9M5 4.5H11M5 7H9M5 9.5H9M8.00005 12.3923L10.0001 14.3923L14.0001 10.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+              },
+              {
                 "name": "order",
                 "style": "outline",
                 "category": "File",
@@ -3873,6 +3889,14 @@
                 "title": "Document",
                 "fileName": "DocumentIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 1.5H3.5V14.5H12.5V4.5M9.5 1.5V4.5H12.5M9.5 1.5H10L12.5 4V4.5M5.5 10H10.5M5.5 8H10.5\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "document-check",
+                "style": "outline",
+                "category": "File",
+                "title": "DocumentCheck",
+                "fileName": "DocumentCheckIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 14.5H3V15H3.5V14.5ZM3.5 1.5V1H3V1.5H3.5ZM9.5 4.5H9V5H9.5V4.5ZM10 1.5L10.3536 1.14645L10.2071 1H10V1.5ZM12.5 4H13V3.79289L12.8536 3.64645L12.5 4ZM10.0001 14.3923L9.6465 14.7458C9.83988 14.9392 10.1527 14.9413 10.3488 14.7506L10.0001 14.3923ZM3.5 14.5H4V1.5H3.5H3V14.5H3.5ZM3.5 1.5V2H9.5V1.5V1H3.5V1.5ZM9.5 1.5H9V4.5H9.5H10V1.5H9.5ZM9.5 4.5V5H12.5V4.5V4H9.5V4.5ZM10 1.5V1H9.5V1.5V2H10V1.5ZM12.5 4.5H13V4H12.5H12V4.5H12.5ZM12.5 4L12.8536 3.64645L10.3536 1.14645L10 1.5L9.64645 1.85355L12.1464 4.35355L12.5 4ZM5.5 10V10.5H10.5V10V9.5H5.5V10ZM5.5 8V8.5H10.5V8V7.5H5.5V8ZM7 14.5V14H3.5V14.5V15H7V14.5ZM12.5 4.5H12V8H12.5H13V4.5H12.5ZM8.00005 12.3923L7.6465 12.7458L9.6465 14.7458L10.0001 14.3923L10.3536 14.0387L8.35361 12.0387L8.00005 12.3923ZM10.0001 14.3923L10.3488 14.7506L14.3488 10.8583L14.0001 10.5L13.6514 10.1416L9.65136 14.0339L10.0001 14.3923Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "folder-open",
@@ -6192,6 +6216,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1 8C1 4.13401 4.13401 1 8 1C10.4944 1 12.6838 2.30533 13.9229 4.26758L13.5 4.53418L13.0771 4.80176C12.0136 3.11742 10.1371 2 8 2C4.68629 2 2 4.68629 2 8C2 11.3137 4.68629 14 8 14C10.1371 14 12.0136 12.8826 13.0771 11.1982L13.5 11.4658L13.9229 11.7324C12.6838 13.6947 10.4944 15 8 15C4.13401 15 1 11.866 1 8ZM4 8C4 5.79086 5.79086 4 8 4C9.35971 4 10.5612 4.67881 11.2832 5.71387L10.4629 6.28613C9.91992 5.5077 9.01904 5 8 5C6.34315 5 5 6.34315 5 8C5 9.65685 6.34315 11 8 11C9.0503 11 9.97506 10.4608 10.5117 9.6416L11.3486 10.1895C10.6351 11.2789 9.4017 12 8 12C5.79086 12 4 10.2091 4 8ZM15.4004 6.2998L14.125 8L15.4004 9.7002L14.5996 10.2998L13.25 8.5H8V7.5H13.25L14.5996 5.7002L15.4004 6.2998Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "faq",
+                "style": "filled",
+                "category": "Common",
+                "title": "Faq",
+                "fileName": "FaqFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "lock",
                 "style": "filled",
                 "category": "Common",
@@ -7550,6 +7582,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3 1.5C3 1.22386 3.22386 1 3.5 1H12.5C12.7761 1 13 1.22386 13 1.5V7H12V2H4V14H6.5V15H3.5C3.22386 15 3 14.7761 3 14.5V1.5ZM11 5H5V4H11V5ZM9 7H5V6H9V7ZM10 9C8.89543 9 8 9.89543 8 11C8 12.1046 8.89543 13 10 13C11.1046 13 12 12.1046 12 11C12 9.89543 11.1046 9 10 9ZM7 11C7 9.34315 8.34315 8 10 8C11.6569 8 13 9.34315 13 11C13 11.6479 12.7946 12.2479 12.4454 12.7383L13.8536 14.1464L13.1464 14.8536L11.7383 13.4454C11.2479 13.7946 10.6479 14 10 14C8.34315 14 7 12.6569 7 11Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "list-check",
+                "style": "filled",
+                "category": "File",
+                "title": "ListCheck",
+                "fileName": "ListCheckFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 1C12.7761 1 13 1.22386 13 1.5V9H12V2H4V14H6.5V15H3.5C3.22386 15 3 14.7761 3 14.5V1.5C3 1.22386 3.22386 1 3.5 1H12.5ZM14.3486 10.8584L10.3486 14.751C10.1527 14.9414 9.8398 14.9393 9.64648 14.7461L7.64648 12.7461L8.35352 12.0391L10.0039 13.6895L13.6514 10.1416L14.3486 10.8584ZM9 9V10H5V9H9ZM9 6.5V7.5H5V6.5H9ZM11 4V5H5V4H11Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "order",
                 "style": "filled",
                 "category": "File",
@@ -7732,6 +7772,14 @@
                 "title": "Document",
                 "fileName": "DocumentFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.2071 1H3V15H13V3.79289L10.2071 1ZM10 4V2.20711L11.7929 4H10ZM5.5 8.5H10.5V7.5H5.5V8.5ZM5.5 10.5H10.5V9.5H5.5V10.5Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "document-check",
+                "style": "filled",
+                "category": "File",
+                "title": "DocumentCheck",
+                "fileName": "DocumentCheckFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.207 1L13 3.79297V8H12V5H9V2H4V14H7V15H3V1H10.207ZM14.3486 10.8584L10.3486 14.751C10.1527 14.9414 9.8398 14.9393 9.64648 14.7461L7.64648 12.7461L8.35352 12.0391L10.0039 13.6895L13.6514 10.1416L14.3486 10.8584ZM10.5 9.5V10.5H5.5V9.5H10.5ZM10.5 7.5V8.5H5.5V7.5H10.5ZM10 4H11.793L10 2.20703V4Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "folder-open",
@@ -12204,6 +12252,22 @@
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1 8C1 4.13401 4.13401 1 8 1C10.4944 1 12.6838 2.30533 13.9229 4.26758L13.5 4.53418L13.0771 4.80176C12.0136 3.11742 10.1371 2 8 2C4.68629 2 2 4.68629 2 8C2 11.3137 4.68629 14 8 14C10.1371 14 12.0136 12.8826 13.0771 11.1982L13.5 11.4658L13.9229 11.7324C12.6838 13.6947 10.4944 15 8 15C4.13401 15 1 11.866 1 8ZM4 8C4 5.79086 5.79086 4 8 4C9.35971 4 10.5612 4.67881 11.2832 5.71387L10.4629 6.28613C9.91992 5.5077 9.01904 5 8 5C6.34315 5 5 6.34315 5 8C5 9.65685 6.34315 11 8 11C9.0503 11 9.97506 10.4608 10.5117 9.6416L11.3486 10.1895C10.6351 11.2789 9.4017 12 8 12C5.79086 12 4 10.2091 4 8ZM15.4004 6.2998L14.125 8L15.4004 9.7002L14.5996 10.2998L13.25 8.5H8V7.5H13.25L14.5996 5.7002L15.4004 6.2998Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
+        "name": "faq",
+        "style": "outline",
+        "category": "Common",
+        "title": "Faq",
+        "fileName": "FaqIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 6H3.5V8.5M3.5 10V8.5M3.5 8.5H5.5M9 8.5L8.5 6H7.5L7 8.5M9 8.5V10M9 8.5H7M7 10V8.5M11.5 9.5H12.5V6H11V9.5H11.5ZM11.5 9.5L12.5 11M1.5 12.5V3.5H14.5V12.5H1.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "faq",
+        "style": "filled",
+        "category": "Common",
+        "title": "Faq",
+        "fileName": "FaqFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
         "name": "lock",
         "style": "outline",
         "category": "Common",
@@ -14892,6 +14956,22 @@
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3 1.5C3 1.22386 3.22386 1 3.5 1H12.5C12.7761 1 13 1.22386 13 1.5V7H12V2H4V14H6.5V15H3.5C3.22386 15 3 14.7761 3 14.5V1.5ZM11 5H5V4H11V5ZM9 7H5V6H9V7ZM10 9C8.89543 9 8 9.89543 8 11C8 12.1046 8.89543 13 10 13C11.1046 13 12 12.1046 12 11C12 9.89543 11.1046 9 10 9ZM7 11C7 9.34315 8.34315 8 10 8C11.6569 8 13 9.34315 13 11C13 11.6479 12.7946 12.2479 12.4454 12.7383L13.8536 14.1464L13.1464 14.8536L11.7383 13.4454C11.2479 13.7946 10.6479 14 10 14C8.34315 14 7 12.6569 7 11Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
+        "name": "list-check",
+        "style": "outline",
+        "category": "File",
+        "title": "ListCheck",
+        "fileName": "ListCheckIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 14.5H3.5V1.5H12.5V9M5 4.5H11M5 7H9M5 9.5H9M8.00005 12.3923L10.0001 14.3923L14.0001 10.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+      },
+      {
+        "name": "list-check",
+        "style": "filled",
+        "category": "File",
+        "title": "ListCheck",
+        "fileName": "ListCheckFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 1C12.7761 1 13 1.22386 13 1.5V9H12V2H4V14H6.5V15H3.5C3.22386 15 3 14.7761 3 14.5V1.5C3 1.22386 3.22386 1 3.5 1H12.5ZM14.3486 10.8584L10.3486 14.751C10.1527 14.9414 9.8398 14.9393 9.64648 14.7461L7.64648 12.7461L8.35352 12.0391L10.0039 13.6895L13.6514 10.1416L14.3486 10.8584ZM9 9V10H5V9H9ZM9 6.5V7.5H5V6.5H9ZM11 4V5H5V4H11Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
         "name": "order",
         "style": "outline",
         "category": "File",
@@ -15258,6 +15338,22 @@
         "title": "Document",
         "fileName": "DocumentFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.2071 1H3V15H13V3.79289L10.2071 1ZM10 4V2.20711L11.7929 4H10ZM5.5 8.5H10.5V7.5H5.5V8.5ZM5.5 10.5H10.5V9.5H5.5V10.5Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "document-check",
+        "style": "outline",
+        "category": "File",
+        "title": "DocumentCheck",
+        "fileName": "DocumentCheckIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 14.5H3V15H3.5V14.5ZM3.5 1.5V1H3V1.5H3.5ZM9.5 4.5H9V5H9.5V4.5ZM10 1.5L10.3536 1.14645L10.2071 1H10V1.5ZM12.5 4H13V3.79289L12.8536 3.64645L12.5 4ZM10.0001 14.3923L9.6465 14.7458C9.83988 14.9392 10.1527 14.9413 10.3488 14.7506L10.0001 14.3923ZM3.5 14.5H4V1.5H3.5H3V14.5H3.5ZM3.5 1.5V2H9.5V1.5V1H3.5V1.5ZM9.5 1.5H9V4.5H9.5H10V1.5H9.5ZM9.5 4.5V5H12.5V4.5V4H9.5V4.5ZM10 1.5V1H9.5V1.5V2H10V1.5ZM12.5 4.5H13V4H12.5H12V4.5H12.5ZM12.5 4L12.8536 3.64645L10.3536 1.14645L10 1.5L9.64645 1.85355L12.1464 4.35355L12.5 4ZM5.5 10V10.5H10.5V10V9.5H5.5V10ZM5.5 8V8.5H10.5V8V7.5H5.5V8ZM7 14.5V14H3.5V14.5V15H7V14.5ZM12.5 4.5H12V8H12.5H13V4.5H12.5ZM8.00005 12.3923L7.6465 12.7458L9.6465 14.7458L10.0001 14.3923L10.3536 14.0387L8.35361 12.0387L8.00005 12.3923ZM10.0001 14.3923L10.3488 14.7506L14.3488 10.8583L14.0001 10.5L13.6514 10.1416L9.65136 14.0339L10.0001 14.3923Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "document-check",
+        "style": "filled",
+        "category": "File",
+        "title": "DocumentCheck",
+        "fileName": "DocumentCheckFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.207 1L13 3.79297V8H12V5H9V2H4V14H7V15H3V1H10.207ZM14.3486 10.8584L10.3486 14.751C10.1527 14.9414 9.8398 14.9393 9.64648 14.7461L7.64648 12.7461L8.35352 12.0391L10.0039 13.6895L13.6514 10.1416L14.3486 10.8584ZM10.5 9.5V10.5H5.5V9.5H10.5ZM10.5 7.5V8.5H5.5V7.5H10.5ZM10 4H11.793L10 2.20703V4Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "folder-open",
