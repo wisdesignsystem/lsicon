@@ -1655,6 +1655,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14.5L14.5 11.5V4.5M8 14.5L1.5 11.5V4.5M8 14.5V7M14.5 4.5L8 1.5L1.5 4.5M14.5 4.5L8 7M1.5 4.5L8 7\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "select-matching",
+                "style": "outline",
+                "category": "Control",
+                "title": "SelectMatching",
+                "fileName": "SelectMatchingIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 4V2.5H11M13.5 4V2.5H12M12 6.5H13.5V5M9.5 5V6.5H11M9.5 11V9.5H11M13.5 11V9.5H12M12 13.5H13.5V12M9.5 12V13.5H11M2.5 11V9.5H4M6.5 11V9.5H5M5 13.5H6.5V12M2.5 12V13.5H4M2.5 2.5V6.5H6.5V2.5H2.5Z\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "surface-left",
                 "style": "outline",
                 "category": "Control",
@@ -5536,6 +5544,14 @@
                 "title": "Model",
                 "fileName": "ModelFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11.1797L7.5 13.7178V7.34277L2 5.22754V11.1797ZM8.5 7.34277V13.7178L14 11.1797V5.22754L8.5 7.34277ZM2.78418 4.45801L8 6.46387L13.2148 4.45801L8 2.05078L2.78418 4.45801ZM15 11.8203L8 15.0508L1 11.8203V4.17969L8 0.949219L15 4.17969V11.8203Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "select-matching",
+                "style": "filled",
+                "category": "Control",
+                "title": "SelectMatching",
+                "fileName": "SelectMatchingFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 12V13H4V14H2V12H3ZM7 12V14H5V13H6V12H7ZM10 12V13H11V14H9V12H10ZM14 12V14H12V13H13V12H14ZM4 9V10H3V11H2V9H4ZM7 9V11H6V10H5V9H7ZM11 9V10H10V11H9V9H11ZM14 9V11H13V10H12V9H14ZM7 2V7H2V2H7ZM10 5V6H11V7H9V5H10ZM14 5V7H12V6H13V5H14ZM11 2V3H10V4H9V2H11ZM14 2V4H13V3H12V2H14Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "surface-left",
@@ -10922,6 +10938,22 @@
         "title": "Model",
         "fileName": "ModelFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11.1797L7.5 13.7178V7.34277L2 5.22754V11.1797ZM8.5 7.34277V13.7178L14 11.1797V5.22754L8.5 7.34277ZM2.78418 4.45801L8 6.46387L13.2148 4.45801L8 2.05078L2.78418 4.45801ZM15 11.8203L8 15.0508L1 11.8203V4.17969L8 0.949219L15 4.17969V11.8203Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "select-matching",
+        "style": "outline",
+        "category": "Control",
+        "title": "SelectMatching",
+        "fileName": "SelectMatchingIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 4V2.5H11M13.5 4V2.5H12M12 6.5H13.5V5M9.5 5V6.5H11M9.5 11V9.5H11M13.5 11V9.5H12M12 13.5H13.5V12M9.5 12V13.5H11M2.5 11V9.5H4M6.5 11V9.5H5M5 13.5H6.5V12M2.5 12V13.5H4M2.5 2.5V6.5H6.5V2.5H2.5Z\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "select-matching",
+        "style": "filled",
+        "category": "Control",
+        "title": "SelectMatching",
+        "fileName": "SelectMatchingFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 12V13H4V14H2V12H3ZM7 12V14H5V13H6V12H7ZM10 12V13H11V14H9V12H10ZM14 12V14H12V13H13V12H14ZM4 9V10H3V11H2V9H4ZM7 9V11H6V10H5V9H7ZM11 9V10H10V11H9V9H11ZM14 9V11H13V10H12V9H14ZM7 2V7H2V2H7ZM10 5V6H11V7H9V5H10ZM14 5V7H12V6H13V5H14ZM11 2V3H10V4H9V2H11ZM14 2V4H13V3H12V2H14Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "surface-left",
