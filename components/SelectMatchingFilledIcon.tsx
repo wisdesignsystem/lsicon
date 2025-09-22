@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const SelectMatchingFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M3 12V13H4V14H2V12H3ZM7 12V14H5V13H6V12H7ZM10 12V13H11V14H9V12H10ZM14 12V14H12V13H13V12H14ZM4 9V10H3V11H2V9H4ZM7 9V11H6V10H5V9H7ZM11 9V10H10V11H9V9H11ZM14 9V11H13V10H12V9H14ZM7 2V7H2V2H7ZM10 5V6H11V7H9V5H10ZM14 5V7H12V6H13V5H14ZM11 2V3H10V4H9V2H11ZM14 2V4H13V3H12V2H14Z" /></svg>;
+export default SelectMatchingFilledIcon;

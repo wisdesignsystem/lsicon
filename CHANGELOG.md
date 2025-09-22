@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.53
+
+### Patch Changes
+
+- [#110](https://github.com/wisdesignsystem/lsicon/pull/110) [`d41c7d1`](https://github.com/wisdesignsystem/lsicon/commit/d41c7d16effdf524c1248ca940b009ed55eb3be2) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - SelectMatchingIcon
+  - SelectMatchingFilledIcon
+
 ## 0.0.52
 
 ### Patch Changes
