@@ -3237,6 +3237,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 13.5H2C2 13.7761 2.22386 14 2.5 14V13.5ZM2.5 2.5V2C2.22386 2 2 2.22386 2 2.5H2.5ZM13.5 13.5V14C13.7761 14 14 13.7761 14 13.5H13.5ZM13.5 2.5H14C14 2.22386 13.7761 2 13.5 2V2.5ZM6 9L5.52566 8.84189L5.20943 9.79057L6.15811 9.47434L6 9ZM7.5 8.5L7.65811 8.97434L7.77009 8.93702L7.85355 8.85355L7.5 8.5ZM10.5 5.5L10.8536 5.85355L11.2071 5.5L10.8536 5.14645L10.5 5.5ZM9.5 4.5L9.85355 4.14645L9.5 3.79289L9.14645 4.14645L9.5 4.5ZM6.5 7.5L6.14645 7.14645L6.06298 7.22991L6.02566 7.34189L6.5 7.5ZM2.5 13.5H3V2.5H2.5H2V13.5H2.5ZM2.5 2.5V3H6V2.5V2H2.5V2.5ZM2.5 13.5V14H13.5V13.5V13H2.5V13.5ZM13.5 13.5H14V2.5H13.5H13V13.5H13.5ZM13.5 2.5V2H6V2.5V3H13.5V2.5ZM5 11V11.5H11V11V10.5H5V11ZM6 9L6.15811 9.47434L7.65811 8.97434L7.5 8.5L7.34189 8.02566L5.84189 8.52566L6 9ZM7.5 8.5L7.85355 8.85355L10.8536 5.85355L10.5 5.5L10.1464 5.14645L7.14645 8.14645L7.5 8.5ZM10.5 5.5L10.8536 5.14645L9.85355 4.14645L9.5 4.5L9.14645 4.85355L10.1464 5.85355L10.5 5.5ZM9.5 4.5L9.14645 4.14645L6.14645 7.14645L6.5 7.5L6.85355 7.85355L9.85355 4.85355L9.5 4.5ZM6.5 7.5L6.02566 7.34189L5.52566 8.84189L6 9L6.47434 9.15811L6.97434 7.65811L6.5 7.5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "calendar-check",
+                "style": "outline",
+                "category": "Common",
+                "title": "CalendarCheck",
+                "fileName": "CalendarCheckIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 2.5H2.5V13.5H13.5V2.5H12M9 2.5H7M2.5 5.5H13.5M5.5 1V4M10.5 1V4M5.5 9L7.5 11L11 7.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+              },
+              {
                 "name": "landing-page",
                 "style": "outline",
                 "category": "Common",
@@ -7126,6 +7134,14 @@
                 "title": "InputCard",
                 "fileName": "InputCardFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 2C13.7761 2 14 2.22386 14 2.5V13.5C14 13.7761 13.7761 14 13.5 14H2.5C2.22386 14 2 13.7761 2 13.5V2.5C2 2.22386 2.22386 2 2.5 2H13.5ZM5 10.5V11.5H11V10.5H5ZM6.0625 7.22949L5.20898 9.79004L7.77051 8.93652L11.207 5.5L9.5 3.79297L6.0625 7.22949Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "calendar-check",
+                "style": "filled",
+                "category": "Common",
+                "title": "CalendarCheck",
+                "fileName": "CalendarCheckFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4 3H3V5H13V3H12V2H13.5L13.6006 2.00977C13.8286 2.05629 14 2.25829 14 2.5V13.5C14 13.7761 13.7761 14 13.5 14H2.5C2.22386 14 2 13.7761 2 13.5V2.5C2 2.22386 2.22386 2 2.5 2H4V3ZM7.5 10.293L5.85352 8.64648L5.14648 9.35352L7.14648 11.3535C7.34175 11.5488 7.65825 11.5488 7.85352 11.3535L11.3535 7.85352L10.6465 7.14648L7.5 10.293Z\" fill=\"black\"/>\n<path d=\"M6 4H5V1H6V4Z\" fill=\"black\"/>\n<path d=\"M11 4H10V1H11V4Z\" fill=\"black\"/>\n<path d=\"M9 3H7V2H9V3Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "landing-page",
@@ -14074,6 +14090,22 @@
         "title": "InputCard",
         "fileName": "InputCardFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 2C13.7761 2 14 2.22386 14 2.5V13.5C14 13.7761 13.7761 14 13.5 14H2.5C2.22386 14 2 13.7761 2 13.5V2.5C2 2.22386 2.22386 2 2.5 2H13.5ZM5 10.5V11.5H11V10.5H5ZM6.0625 7.22949L5.20898 9.79004L7.77051 8.93652L11.207 5.5L9.5 3.79297L6.0625 7.22949Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "calendar-check",
+        "style": "outline",
+        "category": "Common",
+        "title": "CalendarCheck",
+        "fileName": "CalendarCheckIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 2.5H2.5V13.5H13.5V2.5H12M9 2.5H7M2.5 5.5H13.5M5.5 1V4M10.5 1V4M5.5 9L7.5 11L11 7.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+      },
+      {
+        "name": "calendar-check",
+        "style": "filled",
+        "category": "Common",
+        "title": "CalendarCheck",
+        "fileName": "CalendarCheckFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4 3H3V5H13V3H12V2H13.5L13.6006 2.00977C13.8286 2.05629 14 2.25829 14 2.5V13.5C14 13.7761 13.7761 14 13.5 14H2.5C2.22386 14 2 13.7761 2 13.5V2.5C2 2.22386 2.22386 2 2.5 2H4V3ZM7.5 10.293L5.85352 8.64648L5.14648 9.35352L7.14648 11.3535C7.34175 11.5488 7.65825 11.5488 7.85352 11.3535L11.3535 7.85352L10.6465 7.14648L7.5 10.293Z\" fill=\"black\"/>\n<path d=\"M6 4H5V1H6V4Z\" fill=\"black\"/>\n<path d=\"M11 4H10V1H11V4Z\" fill=\"black\"/>\n<path d=\"M9 3H7V2H9V3Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "landing-page",
