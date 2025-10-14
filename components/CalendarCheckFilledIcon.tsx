@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const CalendarCheckFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" fillRule="evenodd" d="M4 3H3V5H13V3H12V2H13.5L13.6006 2.00977C13.8286 2.05629 14 2.25829 14 2.5V13.5C14 13.7761 13.7761 14 13.5 14H2.5C2.22386 14 2 13.7761 2 13.5V2.5C2 2.22386 2.22386 2 2.5 2H4V3ZM7.5 10.293L5.85352 8.64648L5.14648 9.35352L7.14648 11.3535C7.34175 11.5488 7.65825 11.5488 7.85352 11.3535L11.3535 7.85352L10.6465 7.14648L7.5 10.293Z" clipRule="evenodd" /><path fill="currentColor" d="M6 4H5V1H6V4Z" /><path fill="currentColor" d="M11 4H10V1H11V4Z" /><path fill="currentColor" d="M9 3H7V2H9V3Z" /></svg>;
+export default CalendarCheckFilledIcon;

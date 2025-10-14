@@ -1,5 +1,18 @@
 # @wisdesign/lsicon
 
+## 0.0.54
+
+### Patch Changes
+
+- [#112](https://github.com/wisdesignsystem/lsicon/pull/112) [`521fe4f`](https://github.com/wisdesignsystem/lsicon/commit/521fe4fa864ddcde6441b7a2cb245641380dec10) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - PhoneCardIcon
+  - PhoneCardFilledIcon
+  - CalendarCheckIcon
+  - CalendarCheckFilledIcon
+
 ## 0.0.53
 
 ### Patch Changes
