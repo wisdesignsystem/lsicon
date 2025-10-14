@@ -4,8 +4,10 @@
 
 Release new icon version
 
-🚀 add icons(2):
+🚀 add icons(4):
 
+  - PhoneCardIcon
+  - PhoneCardFilledIcon
   - CalendarCheckIcon
   - CalendarCheckFilledIcon
 
