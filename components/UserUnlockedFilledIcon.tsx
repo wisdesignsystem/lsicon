@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const UserUnlockedFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M3 13.5C3 11.0147 5.01472 9 7.5 9H8V10H7.5C5.567 10 4 11.567 4 13.5V14H3V13.5ZM9 10.5V10C9 8.89543 9.89543 8 11 8C11.5402 8 12.0312 8.21475 12.3906 8.5625L11.6953 9.28125C11.5149 9.10663 11.2704 9 11 9C10.4477 9 10 9.44772 10 10V10.5H13.5V14H8.5V10.5H9ZM11 5C11 6.65685 9.65685 8 8 8C6.34315 8 5 6.65685 5 5C5 3.34315 6.34315 2 8 2C9.65685 2 11 3.34315 11 5Z" /></svg>;
+export default UserUnlockedFilledIcon;
