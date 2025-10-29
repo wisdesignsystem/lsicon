@@ -1,5 +1,23 @@
 # @wisdesign/lsicon
 
+## 0.0.55
+
+### Patch Changes
+
+- [#115](https://github.com/wisdesignsystem/lsicon/pull/115) [`a3fa26d`](https://github.com/wisdesignsystem/lsicon/commit/a3fa26dd94f60b0462ab11c40050664dd04ef225) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - UserLockedIcon
+  - UserLockedFilledIcon
+  - UserUnlockedIcon
+  - UserUnlockedFilledIcon
+
+  🔄 update icons(2):
+
+  - PhoneCardIcon
+  - PhoneCardFilledIcon
+
 ## 0.0.54
 
 ### Patch Changes
