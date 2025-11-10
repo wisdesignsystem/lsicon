@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.56
+
+### Patch Changes
+
+- [#117](https://github.com/wisdesignsystem/lsicon/pull/117) [`abadc90`](https://github.com/wisdesignsystem/lsicon/commit/abadc907418f3fdb56e149c960da5874580b142c) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - CreditCardIcon
+  - CreditCardFilledIcon
+
 ## 0.0.55
 
 ### Patch Changes
