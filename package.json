@@ -2357,6 +2357,14 @@
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 6H3.5V8.5M3.5 10V8.5M3.5 8.5H5.5M9 8.5L8.5 6H7.5L7 8.5M9 8.5V10M9 8.5H7M7 10V8.5M11.5 9.5H12.5V6H11V9.5H11.5ZM11.5 9.5L12.5 11M1.5 12.5V3.5H14.5V12.5H1.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
+                "name": "credit-card",
+                "style": "outline",
+                "category": "Common",
+                "title": "CreditCard",
+                "fileName": "CreditCardIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 6V3.5H14.5V6M1.5 6V12.5H14.5V6M1.5 6H14.5M3 10.5H8\" stroke=\"black\"/>\n</svg>\n"
+              },
+              {
                 "name": "lock",
                 "style": "outline",
                 "category": "Common",
@@ -6278,6 +6286,14 @@
                 "title": "Faq",
                 "fileName": "FaqFilledIcon",
                 "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n</svg>\n"
+              },
+              {
+                "name": "credit-card",
+                "style": "filled",
+                "category": "Common",
+                "title": "CreditCard",
+                "fileName": "CreditCardFilledIcon",
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 12.5C15 12.7761 14.7761 13 14.5 13H1.5C1.22386 13 1 12.7761 1 12.5V6.5H15V12.5ZM3 10V11H8V10H3Z\" fill=\"black\"/>\n<path d=\"M14.5 3C14.7761 3 15 3.22386 15 3.5V5.5H1V3.5C1 3.22386 1.22386 3 1.5 3H14.5Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "lock",
@@ -12378,6 +12394,22 @@
         "title": "Faq",
         "fileName": "FaqFilledIcon",
         "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 13H1V3H15V13ZM10.5 5.5V10H11.2324L12.084 11.2773L12.916 10.7227L12.4346 10H13V5.5H10.5ZM3 5.5V10H4V9H5.5V8H4V6.5H5.5V5.5H3ZM7.08984 5.5L6.50977 8.40234L6.5 8.4502V10H7.5V9H8.5V10H9.5V8.4502L9.49023 8.40234L8.91016 5.5H7.08984Z\" fill=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "credit-card",
+        "style": "outline",
+        "category": "Common",
+        "title": "CreditCard",
+        "fileName": "CreditCardIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 6V3.5H14.5V6M1.5 6V12.5H14.5V6M1.5 6H14.5M3 10.5H8\" stroke=\"black\"/>\n</svg>\n"
+      },
+      {
+        "name": "credit-card",
+        "style": "filled",
+        "category": "Common",
+        "title": "CreditCard",
+        "fileName": "CreditCardFilledIcon",
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15 12.5C15 12.7761 14.7761 13 14.5 13H1.5C1.22386 13 1 12.7761 1 12.5V6.5H15V12.5ZM3 10V11H8V10H3Z\" fill=\"black\"/>\n<path d=\"M14.5 3C14.7761 3 15 3.22386 15 3.5V5.5H1V3.5C1 3.22386 1.22386 3 1.5 3H14.5Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "lock",
