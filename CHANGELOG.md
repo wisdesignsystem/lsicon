@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.57
+
+### Patch Changes
+
+- [#119](https://github.com/wisdesignsystem/lsicon/pull/119) [`07cac84`](https://github.com/wisdesignsystem/lsicon/commit/07cac84f41e62a4e5ff341e5d546fcf5447d2ee3) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - ColorPaletteIcon
+  - ColorPaletteFilledIcon
+
 ## 0.0.56
 
 ### Patch Changes
