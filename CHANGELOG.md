@@ -1,5 +1,26 @@
 # @wisdesign/lsicon
 
+## 0.0.58
+
+### Patch Changes
+
+- [#121](https://github.com/wisdesignsystem/lsicon/pull/121) [`0bcb7eb`](https://github.com/wisdesignsystem/lsicon/commit/0bcb7eba0312323a1547184eb777084bff9965d5) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(4):
+
+  - InputBoxIcon
+  - InputBoxFilledIcon
+  - CardTextIcon
+  - CardTextFilledIcon
+
+  🔄 update icons(5):
+
+  - WebhookIcon
+  - View3dImageIcon
+  - PhoneCardIcon
+  - ColorPaletteIcon
+  - ColorPaletteFilledIcon
+
 ## 0.0.57
 
 ### Patch Changes
