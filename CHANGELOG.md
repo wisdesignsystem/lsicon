@@ -1,5 +1,16 @@
 # @wisdesign/lsicon
 
+## 0.0.59
+
+### Patch Changes
+
+- [#124](https://github.com/wisdesignsystem/lsicon/pull/124) [`d77e981`](https://github.com/wisdesignsystem/lsicon/commit/d77e9814c235c45efc5a6590797603624a2028af) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(2):
+
+  - AiVideoIcon
+  - AiVideoFilledIcon
+
 ## 0.0.58
 
 ### Patch Changes
