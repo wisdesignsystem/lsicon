@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const HeartFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M8.64596 3.64632C9.94566 2.34661 12.0531 2.34686 13.353 3.64632C14.6528 4.94615 14.6528 7.05352 13.353 8.35335L8.35299 13.3533L7.98678 13.7205L7.63326 13.3407L2.6274 7.94905C1.59806 6.84053 1.5098 5.15436 2.41744 3.94417C3.50197 2.4982 5.58218 2.26984 6.95455 3.44612L7.9731 4.31819L8.64596 3.64632Z" /></svg>;
+export default HeartFilledIcon;
