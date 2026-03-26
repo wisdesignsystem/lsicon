@@ -1,5 +1,22 @@
 # @wisdesign/lsicon
 
+## 0.0.60
+
+### Patch Changes
+
+- [#126](https://github.com/wisdesignsystem/lsicon/pull/126) [`ad9bfec`](https://github.com/wisdesignsystem/lsicon/commit/ad9bfec4922a76cedef0454f195206840d475a2b) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(8):
+
+  - HeartIcon
+  - HeartFilledIcon
+  - CommentsTwoIcon
+  - CommentsTwoFilledIcon
+  - CardHeartIcon
+  - CardHeartFilledIcon
+  - UserAddIcon
+  - UserAddFilledIcon
+
 ## 0.0.59
 
 ### Patch Changes
