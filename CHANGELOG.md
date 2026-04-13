@@ -1,5 +1,24 @@
 # @wisdesign/lsicon
 
+## 0.0.61
+
+### Patch Changes
+
+- [#128](https://github.com/wisdesignsystem/lsicon/pull/128) [`427414d`](https://github.com/wisdesignsystem/lsicon/commit/427414d0d0aa1bb81db2f9005399a048af14169f) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(10):
+
+  - ChatHistoryIcon
+  - ChatHistoryFilledIcon
+  - ChatQuoteIcon
+  - ChatQuoteFilledIcon
+  - ChatHistoryTwoIcon
+  - ChatHistoryTwoFilledIcon
+  - Setting2Icon
+  - Setting2FilledIcon
+  - BarChartIcon
+  - BarChartFilledIcon
+
 ## 0.0.60
 
 ### Patch Changes

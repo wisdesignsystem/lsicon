@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const Setting2FilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" fillRule="evenodd" d="M8.23926 1.06152L13.7393 4.06152L14 4.20312V11.7969L13.7393 11.9385L8.23926 14.9385L8 15.0693L7.76074 14.9385L2.26074 11.9385L2 11.7969V4.20312L2.26074 4.06152L7.76074 1.06152L8 0.930664L8.23926 1.06152ZM8 6C6.89543 6 6 6.89543 6 8C6 9.10457 6.89543 10 8 10C9.10457 10 10 9.10457 10 8C10 6.89543 9.10457 6 8 6Z" clipRule="evenodd" /></svg>;
+export default Setting2FilledIcon;
