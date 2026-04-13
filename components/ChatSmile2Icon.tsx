@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const ChatSmile2Icon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path stroke="currentColor" d="M8 13.9167C11.5899 13.9167 14.5 11.249 14.5 7.95833C14.5 4.66764 11.5899 2 8 2C4.41015 2 1.5 4.66764 1.5 7.95833C1.5 9.36848 1.92897 10.4098 2.77997 11.3282C3.20221 11.7838 3.48243 12.3666 3.33008 12.9688C3.15186 13.6733 2.89807 14.3904 2.89807 14.3904L6 13.5C6.58492 13.6584 7.35905 13.9167 8 13.9167Z" /></svg>;
+export default ChatSmile2Icon;

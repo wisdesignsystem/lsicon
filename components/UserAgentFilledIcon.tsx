@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const UserAgentFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" fillRule="evenodd" d="M8 1C11.866 1 15 4.13401 15 8C15 10.1521 14.028 12.0763 12.5 13.3604V13C12.5 11.067 10.933 9.5 9 9.5H7C5.067 9.5 3.5 11.067 3.5 13V13.3604C1.97203 12.0763 1 10.1521 1 8C1 4.13401 4.13401 1 8 1ZM6.88574 4.88574L5.02832 6L6.88574 7.11426L8 8.97168L9.11426 7.11426L10.9717 6L9.11426 4.88574L8 3.02832L6.88574 4.88574Z" clipRule="evenodd" /><path fill="currentColor" d="M14 8C14 4.68629 11.3137 2 8 2C4.68629 2 2 4.68629 2 8C2 11.3137 4.68629 14 8 14C11.3137 14 14 11.3137 14 8ZM15 8C15 11.866 11.866 15 8 15C4.13401 15 1 11.866 1 8C1 4.13401 4.13401 1 8 1C11.866 1 15 4.13401 15 8Z" /></svg>;
+export default UserAgentFilledIcon;
