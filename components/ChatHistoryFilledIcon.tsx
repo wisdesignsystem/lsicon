@@ -1,0 +1,4 @@
+import * as React from "react";
+import type { SVGProps } from "react";
+const ChatHistoryFilledIcon = (props: SVGProps<SVGSVGElement>) => <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 16 16" data-role="lsicon" {...props}><path fill="currentColor" d="M8 1.5C11.824 1.5 14.9998 4.35126 15 7.95801C15 11.5649 11.8242 14.417 8 14.417C7.32911 14.417 6.53589 14.1708 6 14.0195L2.10254 15.1387L2.42676 14.2236C2.42676 14.2236 2.42787 14.2192 2.42871 14.2168C2.43044 14.2119 2.4331 14.2042 2.43652 14.1943C2.44347 14.1743 2.4539 14.1444 2.4668 14.1064C2.49261 14.0305 2.52944 13.9215 2.57129 13.791C2.65531 13.529 2.76016 13.1848 2.8457 12.8467C2.93852 12.4798 2.78109 12.0651 2.41309 11.668C1.47452 10.6551 1 9.49121 1 7.95801C1.00019 4.35126 4.17596 1.5 8 1.5ZM7.5 8.5H11V7.5H8.5V5H7.5V8.5Z" /></svg>;
+export default ChatHistoryFilledIcon;
