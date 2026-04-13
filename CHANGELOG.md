@@ -1,5 +1,20 @@
 # @wisdesign/lsicon
 
+## 0.0.62
+
+### Patch Changes
+
+- [#130](https://github.com/wisdesignsystem/lsicon/pull/130) [`78c3419`](https://github.com/wisdesignsystem/lsicon/commit/78c3419fee6bce2776acc2129ddb6cc6849d11f5) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(6):
+
+  - UserAgentIcon
+  - UserAgentFilledIcon
+  - ChatSmile2Icon
+  - ChatSmile2FilledIcon
+  - UserSettingIcon
+  - UserSettingFilledIcon
+
 ## 0.0.61
 
 ### Patch Changes
