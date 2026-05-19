@@ -1,5 +1,107 @@
 # @wisdesign/lsicon
 
+## 0.0.63
+
+### Patch Changes
+
+- [#132](https://github.com/wisdesignsystem/lsicon/pull/132) [`6423d9d`](https://github.com/wisdesignsystem/lsicon/commit/6423d9dd7e625595acafa521cd2335aa6861551b) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🔄 update icons(93):
+
+  - ArrowDownRightIcon
+  - DoubleArrowLeftFilledIcon
+  - DoubleArrowRightFilledIcon
+  - ArrowUpIcon
+  - ArrowUpFilledIcon
+  - CircleArrowUpIcon
+  - CircleArrowDownIcon
+  - ArrowDownIcon
+  - ArrowDownFilledIcon
+  - CircleArrowLeftIcon
+  - CircleArrowRightIcon
+  - OpenNewIcon
+  - StarFilledIcon
+  - GitPullIcon
+  - GitDiffIcon
+  - AiEditIcon
+  - AiWordIcon
+  - SaveAsIcon
+  - InfuseOneIcon
+  - InfuseTwoIcon
+  - InfuseTwoFilledIcon
+  - SwitchFilledIcon
+  - ToTopIcon
+  - QuoteTwoIcon
+  - IfIcon
+  - ArchiveBoxTwoIcon
+  - ArchiveArrowDownIcon
+  - ArchiveArrowUpIcon
+  - NodeExpandIcon
+  - ListExpandIcon
+  - ListCollapseIcon
+  - CardExpandIcon
+  - CardCollapseIcon
+  - View3dIcon
+  - View3dImageIcon
+  - NodeCollapseIcon
+  - MoveIcon
+  - SurfaceFrontIcon
+  - SurfaceTopIcon
+  - ModelIcon
+  - SurfaceLeftIcon
+  - SurfaceRightIcon
+  - BackSquareIcon
+  - AdjustHightIcon
+  - HightLessenIcon
+  - AdjustWidthIcon
+  - RotationLeftIcon
+  - RotationRightIcon
+  - Clockwise90Icon
+  - Anticlockwise90Icon
+  - ExitIcon
+  - SignOutIcon
+  - MeasureIcon
+  - MeasureFilledIcon
+  - RadarChartIcon
+  - RadarChartFilledIcon
+  - DatabaseIcon
+  - FaqIcon
+  - PackingBoxIcon
+  - BbqIcon
+  - BbqFilledIcon
+  - PenIcon
+  - CubeIcon
+  - GiftIcon
+  - GatherIcon
+  - UserLeaveIcon
+  - MailIcon
+  - BookTwoIcon
+  - ClueIcon
+  - MaleIcon
+  - VipConsumeIcon
+  - IntegralIcon
+  - IntegralDistributeIcon
+  - DistributionIcon
+  - ReplenishmentIcon
+  - SalesReturnIcon
+  - ManagementStockoutIcon
+  - ShelfUpIcon
+  - ShelfDownIcon
+  - TimingShelfDownIcon
+  - ProcessModeIcon
+  - GoodsSearchIcon
+  - WarehouseIntoIcon
+  - OutOfWarehouseIcon
+  - IncubatorIcon
+  - ToggleWarehouseXIcon
+  - ToggleWarehouseXFilledIcon
+  - ToggleWarehouseYIcon
+  - OrderIntegralIcon
+  - ReportIcon
+  - FileImportIcon
+  - FileExportIcon
+  - FolderOpenIcon
+
 ## 0.0.62
 
 ### Patch Changes
