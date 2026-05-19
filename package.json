@@ -51,7 +51,7 @@
                 "category": "Navigation",
                 "title": "ArrowDownRight",
                 "fileName": "ArrowDownRightIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5L11.5 11.5M11.5 11.5H6.5M11.5 11.5V6.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5L11.5 11.5M11.5 6.5V11.5H6.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "home",
@@ -187,7 +187,7 @@
                 "category": "Navigation",
                 "title": "ArrowUp",
                 "fileName": "ArrowUpIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12.9786L7.97852 2.97858M11.4785 6.22858L7.97851 2.72858L4.47852 6.22858\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12.9785L7.97852 2.97855M11.4785 6.22855L7.97851 2.72855L4.47852 6.22855\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "circle-arrow-up",
@@ -195,7 +195,7 @@
                 "category": "Navigation",
                 "title": "CircleArrowUp",
                 "fileName": "CircleArrowUpIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12L7.97852 4.5M7.97852 4.5L11 7.5M7.97852 4.5L5.00001 7.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12L7.97852 4.5M5.00001 7.5L7.97852 4.5L11 7.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "circle-arrow-down",
@@ -203,7 +203,7 @@
                 "category": "Navigation",
                 "title": "CircleArrowDown",
                 "fileName": "CircleArrowDownIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00001 4L8.00001 11.5M8.00001 11.5L11 8.5M8.00001 11.5L5.00001 8.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00001 4L8.00001 11.5M5.00001 8.5L8.00001 11.5L11 8.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "arrow-down",
@@ -211,7 +211,7 @@
                 "category": "Navigation",
                 "title": "ArrowDown",
                 "fileName": "ArrowDownIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 3.02148L7.97852 13.0215M11.4785 9.77148L7.97851 13.2715L4.47852 9.77148\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 3.02145L7.97852 13.0215M11.4785 9.77145L7.97851 13.2715L4.47852 9.77145\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "arrow-left",
@@ -227,7 +227,7 @@
                 "category": "Navigation",
                 "title": "CircleArrowLeft",
                 "fileName": "CircleArrowLeftIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0001 8.00001L4.50006 8.00001M4.50006 8.00001L7.50006 11M4.50006 8.00001L7.50006 5.00001M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0001 8.00001L4.50006 8.00001M7.50006 5.00001L4.50006 8.00001L7.50006 11M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "menu-thwartwise",
@@ -267,7 +267,7 @@
                 "category": "Navigation",
                 "title": "CircleArrowRight",
                 "fileName": "CircleArrowRightIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8.00001H11.5M11.5 8.00001L8.5 11M11.5 8.00001L8.5 5.00001M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8.00001H11.5M8.5 5.00001L11.5 8.00001L8.5 11M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "panel-right",
@@ -307,7 +307,7 @@
                 "category": "Navigation",
                 "title": "OpenNew",
                 "fileName": "OpenNewIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 10.5V4.5M11.5 4.5H5.5M11.5 4.5L4.5 11.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 4.5H11.5V10.5M11.5 4.5L4.5 11.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "shell-window-minimize",
@@ -545,7 +545,7 @@
                 "category": "Develop",
                 "title": "GitPull",
                 "fileName": "GitPullIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 10.5V5M4 10.5C3.17157 10.5 2.5 11.1716 2.5 12C2.5 12.8284 3.17157 13.5 4 13.5C4.82843 13.5 5.5 12.8284 5.5 12C5.5 11.1716 4.82843 10.5 4 10.5ZM4 5C4.82843 5 5.5 4.32843 5.5 3.5C5.5 2.67157 4.82843 2 4 2C3.17157 2 2.5 2.67157 2.5 3.5C2.5 4.32843 3.17157 5 4 5ZM12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM8.5 2.5V5.5M8.5 2.5H11.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 10.5V5M4 10.5C3.17157 10.5 2.5 11.1716 2.5 12C2.5 12.8284 3.17157 13.5 4 13.5C4.82843 13.5 5.5 12.8284 5.5 12C5.5 11.1716 4.82843 10.5 4 10.5ZM4 5C4.82843 5 5.5 4.32843 5.5 3.5C5.5 2.67157 4.82843 2 4 2C3.17157 2 2.5 2.67157 2.5 3.5C2.5 4.32843 3.17157 5 4 5ZM12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM11.5 2.5H8.5V5.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "git-diff",
@@ -553,7 +553,7 @@
                 "category": "Develop",
                 "title": "GitDiff",
                 "fileName": "GitDiffIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM8.5 2.5V5.5M8.5 2.5H11.5M4 5.5V7.43934C4 8.77694 4.43384 10.0785 5.2364 11.1485C5.41191 11.3825 5.60381 11.6038 5.81066 11.8107L7.5 13.5M4 5.5C4.82843 5.5 5.5 4.82843 5.5 4C5.5 3.17157 4.82843 2.5 4 2.5C3.17157 2.5 2.5 3.17157 2.5 4C2.5 4.82843 3.17157 5.5 4 5.5ZM7.5 13.5V10.5M7.5 13.5H4.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM11.5 2.5H8.5V5.5M4 5.5V7.43934C4 8.77694 4.43384 10.0785 5.2364 11.1485C5.41191 11.3825 5.60381 11.6038 5.81066 11.8107L7.5 13.5M4 5.5C4.82843 5.5 5.5 4.82843 5.5 4C5.5 3.17157 4.82843 2.5 4 2.5C3.17157 2.5 2.5 3.17157 2.5 4C2.5 4.82843 3.17157 5.5 4 5.5ZM4.5 13.5H7.5V10.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "webhook",
@@ -655,7 +655,7 @@
                 "category": "AI",
                 "title": "AiEdit",
                 "fileName": "AiEditIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.929 9.57079L8.99977 12.5L6.83311 13.2222L7.55533 11.0556L10.5501 8.06076M11.929 9.57079L13.3331 8.16668L11.8887 6.72224L10.5501 8.06076M11.929 9.57079L10.5501 8.06076M6.08317 8.72728L6.95817 6.81819L8.99984 6.00001L6.95817 5.18183L6.08317 3.27274L5.20817 5.18183L3.1665 6.00001L5.20817 6.81819L6.08317 8.72728Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.5501 8.06076L11.8887 6.72224L13.3331 8.16668L11.929 9.57079L8.99977 12.5L6.83311 13.2222L7.55533 11.0556L10.5501 8.06076ZM11.929 9.57079L10.5501 8.06076M6.08317 8.72728L6.95817 6.81819L8.99984 6.00001L6.95817 5.18183L6.08317 3.27274L5.20817 5.18183L3.1665 6.00001L5.20817 6.81819L6.08317 8.72728Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "magic-stop",
@@ -711,7 +711,7 @@
                 "category": "AI",
                 "title": "AiWord",
                 "fileName": "AiWordIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 14L3.28947 11M3.28947 11L5 4.5H6.5L7.86842 11M3.28947 11H7.86842M7.86842 11L8.5 14M11.5 10V14M11.5 7.5L12.25 5.75L14 5L12.25 4.25L11.5 2.5L10.75 4.25L9 5L10.75 5.75L11.5 7.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 14L3.28947 11M8.5 14L7.86842 11L6.5 4.5H5L3.28947 11M3.28947 11H7.86842M11.5 10V14M11.5 7.5L12.25 5.75L14 5L12.25 4.25L11.5 2.5L10.75 4.25L9 5L10.75 5.75L11.5 7.5Z\" stroke=\"black\"/>\n</svg>\n"
               }
             ]
           },
@@ -1069,7 +1069,7 @@
                 "category": "Action",
                 "title": "SaveAs",
                 "fileName": "SaveAsIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 9.5H9.5M9.5 9.5L7.5 11.5M9.5 9.5L7.5 7.5M5.5 2.5V5.5H10.5V2.5M2.5 13.5H13.5V4.5L11.5 2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 9.5H9.5M7.5 7.5L9.5 9.5L7.5 11.5M5.5 2.5V5.5H10.5V2.5M2.5 13.5H13.5V4.5L11.5 2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "rollback",
@@ -1141,7 +1141,7 @@
                 "category": "Action",
                 "title": "InfuseOne",
                 "fileName": "InfuseOneIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 1.5H3.5V14.5H9.5M9 1.5L12.5 5M9 1.5V5H12.5M12.5 5V7.5M14.5 11.5H9M9 11.5L11 9.5M9 11.5L11 13.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 7.5V5L9 1.5H3.5V14.5H9.5M9 1.5V5H12.5M14.5 11.5H9M11 13.5L9 11.5L11 9.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "submit",
@@ -1237,7 +1237,7 @@
                 "category": "Action",
                 "title": "InfuseTwo",
                 "fileName": "InfuseTwoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 3L6.5 9.5M6.5 9.5V5M6.5 9.5H11M13.5504 9.52882V13.5255H2.50098V9.52882\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 3L6.5 9.5M11 9.5H6.5V5M13.5504 9.52882V13.5255H2.50098V9.52882\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "switch",
@@ -1253,7 +1253,7 @@
                 "category": "Action",
                 "title": "ToTop",
                 "fileName": "ToTopIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 12.9999H14M2 13.9999H14M7.97856 13.957L7.97856 2.95703M11.5 6.22849L7.97856 2.70703L4.45708 6.22849\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13H14M2 14H14M7.97856 13.9571L7.97856 2.95709M11.5 6.22856L7.97856 2.70709L4.45708 6.22856\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "to-bottom",
@@ -1349,7 +1349,7 @@
                 "category": "Action",
                 "title": "QuoteTwo",
                 "fileName": "QuoteTwoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3V8.5H12.5M12.5 8.5L9 5.5M12.5 8.5L9 11.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3V8.5H12.5M9 11.5L12.5 8.5L9 5.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "amount-down-two",
@@ -1405,7 +1405,7 @@
                 "category": "Action",
                 "title": "If",
                 "fileName": "IfIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14V7.5M8 7.5L7.73395 7.16744C6.5835 5.72937 5.23993 4.45709 3.74134 3.38667L2.5 2.5M8 7.5L8.26605 7.16744C9.4165 5.72937 10.7601 4.45709 12.2587 3.38667L13.5 2.5M13.5 2.5H10.5M13.5 2.5V5.5M2.5 2.5H5.5M2.5 2.5V5.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14V7.5M8 7.5L7.73395 7.16744C6.5835 5.72937 5.23993 4.45709 3.74134 3.38667L2.5 2.5M8 7.5L8.26605 7.16744C9.4165 5.72937 10.7601 4.45709 12.2587 3.38667L13.5 2.5M13.5 5.5V2.5H10.5M2.5 5.5V2.5H5.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "archive-box",
@@ -1421,7 +1421,7 @@
                 "category": "Action",
                 "title": "ArchiveBoxTwo",
                 "fileName": "ArchiveBoxTwoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 7.5V13.5H2.5V7.5M13.5 7.5L11.5 2.5H4.5L2.5 7.5M13.5 7.5H10.5L9.5 9.5H6.5L5.5 7.5H2.5M6.5 11.5H9.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 7.5L4.5 2.5H11.5L13.5 7.5V13.5H2.5V7.5ZM13.5 7.5H10.5L9.5 9.5H6.5L5.5 7.5H2.5M6.5 11.5H9.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "archive-arrow-down",
@@ -1429,7 +1429,7 @@
                 "category": "Action",
                 "title": "ArchiveArrowDown",
                 "fileName": "ArchiveArrowDownIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 11V7.5M8 7.5L6 9M8 7.5L10 9\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 11V7.5M10 9L8 7.5L6 9\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "archive-delete",
@@ -1445,7 +1445,7 @@
                 "category": "Action",
                 "title": "ArchiveArrowUp",
                 "fileName": "ArchiveArrowUpIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 10.5L6 9M8 10.5L10 9M8 10.5V7\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M10 9L8 10.5L6 9M8 10.5V7\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "drag",
@@ -1556,7 +1556,7 @@
                 "category": "Control",
                 "title": "NodeExpand",
                 "fileName": "NodeExpandIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8.5H8.00001M8.00001 8.5H14M8.00001 8.5V13.5M8.00001 13.5L6.00001 11.5M8.00001 13.5L10 11.5M2.50001 5.5V2.5H13.5V5.5H2.50001Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8.5H8.00001M8.00001 8.5H14M8.00001 8.5V13.5M10 11.5L8.00001 13.5L6.00001 11.5M2.50001 5.5V2.5H13.5V5.5H2.50001Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "list-expand",
@@ -1564,7 +1564,7 @@
                 "category": "Control",
                 "title": "ListExpand",
                 "fileName": "ListExpandIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 13.5V5M11.5 13.5L9 11M11.5 13.5L14 11\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 13.5V5M14 11L11.5 13.5L9 11\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "list-collapse",
@@ -1572,7 +1572,7 @@
                 "category": "Control",
                 "title": "ListCollapse",
                 "fileName": "ListCollapseIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 5V14M11.5 5L9 7.5M11.5 5L14 7.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 5V14M14 7.5L11.5 5L9 7.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "card-expand",
@@ -1580,7 +1580,7 @@
                 "category": "Control",
                 "title": "CardExpand",
                 "fileName": "CardExpandIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 2.5L11.5 14.0001M11.5 2.5L8.99999 5M11.5 2.5L14 5M2.5 13.5001V2.50006H7.5V13.5001H2.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 2.5L11.5 14.0001M14 5L11.5 2.5L8.99999 5M2.5 13.5001V2.50006H7.5V13.5001H2.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "card-collapse",
@@ -1588,7 +1588,7 @@
                 "category": "Control",
                 "title": "CardCollapse",
                 "fileName": "CardCollapseIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 14V2M11.5 14L9 11.5M11.5 14L14 11.5M2.5 13.4999V2.49994H7.5V13.4999H2.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 14V2M14 11.5L11.5 14L9 11.5M2.5 13.4999V2.49994H7.5V13.4999H2.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "view-vr",
@@ -1612,7 +1612,7 @@
                 "category": "Control",
                 "title": "View3d",
                 "fileName": "View3dIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4L3.5 6.5M8 4L12.5 6.5M8 4V1.5M3.5 6.5V10.5M3.5 6.5L8 8.5M3.5 10.5L8 13M3.5 10.5L1 12.5M8 13L12.5 10.5M8 13V8.5M12.5 10.5V6.5M12.5 10.5L15 12.5M12.5 6.5L8 8.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 10.5V6.5L8 4M12.5 10.5V6.5L8 4M8 4V1.5M3.5 6.5L8 8.5M12.5 10.5L8 13L3.5 10.5M3.5 10.5L1 12.5M8 13V8.5M12.5 10.5L15 12.5M12.5 6.5L8 8.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "view-3d-image",
@@ -1620,7 +1620,7 @@
                 "category": "Control",
                 "title": "View3dImage",
                 "fileName": "View3dImageIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 12.5L1.01191 12.3915L0.853274 13.1054L1.57603 12.9942L1.5 12.5ZM6.17531 11.7807L6.25134 12.2749V12.2749L6.17531 11.7807ZM9.82469 11.7807L9.90071 11.2865V11.2865L9.82469 11.7807ZM14.5 12.5L14.424 12.9942L15.1467 13.1054L14.9881 12.3915L14.5 12.5ZM14.0785 10.6032L14.5666 10.4947V10.4947L14.0785 10.6032ZM14.0785 5.39683L14.5666 5.5053V5.5053L14.0785 5.39683ZM14.5 3.5L14.9881 3.60847L15.1467 2.89462L14.424 3.00581L14.5 3.5ZM9.82469 4.21928L9.90071 4.71347V4.71347L9.82469 4.21928ZM6.17531 4.21928L6.09928 4.71346H6.09929L6.17531 4.21928ZM1.5 3.5L1.57603 3.00581L0.853274 2.89462L1.01191 3.60847L1.5 3.5ZM1.92152 5.39683L2.40961 5.28837L1.92152 5.39683ZM1.92152 10.6032L2.40961 10.7116L1.92152 10.6032ZM11 6.50001V6.00001C10.7239 6.00001 10.5 6.22387 10.5 6.50001H11ZM11.01 6.50001H11.51C11.51 6.22387 11.2861 6.00001 11.01 6.00001V6.50001ZM11.01 6.51001V7.01001C11.2861 7.01001 11.51 6.78615 11.51 6.51001H11.01ZM11 6.51001H10.5C10.5 6.78615 10.7239 7.01001 11 7.01001V6.51001ZM5 8.5L5.22361 8.05279L4.96408 7.92302L4.72265 8.08397L5 8.5ZM8 10L7.77639 10.4472L7.98107 10.5496L8.19231 10.4615L8 10ZM1.5 12.5L1.57603 12.9942L6.25134 12.2749L6.17531 11.7807L6.09929 11.2865L1.42397 12.0058L1.5 12.5ZM9.82469 11.7807L9.74866 12.2749L14.424 12.9942L14.5 12.5L14.576 12.0058L9.90071 11.2865L9.82469 11.7807ZM14.5 12.5L14.9881 12.3915L14.5666 10.4947L14.0785 10.6032L13.5904 10.7116L14.0119 12.6085L14.5 12.5ZM14.0785 5.39683L14.5666 5.5053L14.9881 3.60847L14.5 3.5L14.0119 3.39153L13.5904 5.28837L14.0785 5.39683ZM14.5 3.5L14.424 3.00581L9.74866 3.72509L9.82469 4.21928L9.90071 4.71347L14.576 3.99419L14.5 3.5ZM6.17531 4.21928L6.25134 3.72509L1.57603 3.00581L1.5 3.5L1.42397 3.99419L6.09928 4.71346L6.17531 4.21928ZM1.5 3.5L1.01191 3.60847L1.43343 5.5053L1.92152 5.39683L2.40961 5.28837L1.98809 3.39153L1.5 3.5ZM1.92152 10.6032L1.43343 10.4947L1.01191 12.3915L1.5 12.5L1.98809 12.6085L2.40961 10.7116L1.92152 10.6032ZM1.92152 5.39683L1.43343 5.5053C1.79856 7.14839 1.79856 8.85161 1.43343 10.4947L1.92152 10.6032L2.40961 10.7116C2.80649 8.92566 2.80649 7.07434 2.40961 5.28837L1.92152 5.39683ZM9.82469 4.21928L9.74866 3.72509C8.5897 3.90339 7.4103 3.90339 6.25134 3.72509L6.17531 4.21928L6.09929 4.71346C7.35902 4.90727 8.64098 4.90727 9.90071 4.71347L9.82469 4.21928ZM14.0785 10.6032L14.5666 10.4947C14.2014 8.85161 14.2014 7.14839 14.5666 5.5053L14.0785 5.39683L13.5904 5.28837C13.1935 7.07434 13.1935 8.92566 13.5904 10.7116L14.0785 10.6032ZM6.17531 11.7807L6.25134 12.2749C7.4103 12.0966 8.5897 12.0966 9.74866 12.2749L9.82469 11.7807L9.90071 11.2865C8.64098 11.0927 7.35902 11.0927 6.09929 11.2865L6.17531 11.7807ZM11 6.50001V7.00001H11.01V6.50001V6.00001H11V6.50001ZM11.01 6.50001H10.51V6.51001H11.01H11.51V6.50001H11.01ZM11.01 6.51001V6.01001H11V6.51001V7.01001H11.01V6.51001ZM11 6.51001H11.5V6.50001H11H10.5V6.51001H11ZM11.5 6.50001H11V7.00001V7.50001C11.5523 7.50001 12 7.05229 12 6.50001H11.5ZM11 7.00001V6.50001H10.5H10C10 7.05229 10.4477 7.50001 11 7.50001V7.00001ZM10.5 6.50001H11V6.00001V5.50001C10.4477 5.50001 10 5.94772 10 6.50001H10.5ZM11 6.00001V6.50001H11.5H12C12 5.94772 11.5523 5.50001 11 5.50001V6.00001ZM2 10.5L2.27735 10.916L5.27735 8.91603L5 8.5L4.72265 8.08397L1.72265 10.084L2 10.5ZM5 8.5L4.77639 8.94721L7.77639 10.4472L8 10L8.22361 9.55279L5.22361 8.05279L5 8.5ZM8 10L8.19231 10.4615L14.1923 7.96154L14 7.5L13.8077 7.03846L7.80769 9.53846L8 10Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 10.5L5 8.5L8 10L14 7.5M1.5 12.5L6.17531 11.7807C7.38466 11.5947 8.61534 11.5947 9.82469 11.7807L14.5 12.5L14.0785 10.6032C13.6975 8.88863 13.6975 7.11137 14.0785 5.39683L14.5 3.5L9.82469 4.21928C8.61534 4.40533 7.38466 4.40533 6.17531 4.21928L1.5 3.5L1.92152 5.39683C2.30253 7.11137 2.30253 8.88863 1.92152 10.6032L1.5 12.5ZM11 6.50001H11.01V6.51001H11V6.50001ZM11.5 6.50001C11.5 6.77615 11.2762 7.00001 11 7.00001C10.7239 7.00001 10.5 6.77615 10.5 6.50001C10.5 6.22387 10.7239 6.00001 11 6.00001C11.2762 6.00001 11.5 6.22387 11.5 6.50001Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "node-collapse",
@@ -1628,7 +1628,7 @@
                 "category": "Control",
                 "title": "NodeCollapse",
                 "fileName": "NodeCollapseIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 7.5H14M8 7.5V2.5M8 2.5L6 4.5M8 2.5L10 4.5M2.5 13.5H13.5V10.5H2.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 7.5H14M8 7.5V2.5M10 4.5L8 2.5L6 4.5M2.5 13.5H13.5V10.5H2.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "hand",
@@ -1676,7 +1676,7 @@
                 "category": "Control",
                 "title": "Move",
                 "fileName": "MoveIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8H14M2 8L3.875 6.125M2 8L3.875 9.875M14 8L12.125 9.875M14 8L12.125 6.125M8 2V14M8 2L9.875 3.875M8 2L6.125 3.875M8 14L6.125 12.125M8 14L9.875 12.125\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8H14M3.875 9.875L2 8L3.875 6.125M12.125 6.125L14 8L12.125 9.875M8 2V14M6.125 3.875L8 2L9.875 3.875M9.875 12.125L8 14L6.125 12.125\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "pointer",
@@ -1700,7 +1700,7 @@
                 "category": "Control",
                 "title": "SurfaceFront",
                 "fileName": "SurfaceFrontIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5L11.5 2.5H4.5L2.5 5M13.5 5H2.5M13.5 5V6M2.5 5V6M13.5 7V6M13.5 7H2.5M13.5 7V8M2.5 6H13.5M2.5 6V7M2.5 7V8M2.5 8H13.5M2.5 8V9M13.5 8V9M13.5 9H2.5M13.5 9V10M2.5 9V10M2.5 10H13.5M2.5 10V11M13.5 10V11M13.5 11H2.5M13.5 11V11.5M2.5 11V11.5M2.5 11.5H13.5M2.5 11.5V12.5M13.5 11.5V12.5M13.5 12.5V13.5H2.5V12.5M13.5 12.5H2.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 6V5L11.5 2.5H4.5L2.5 5V6M13.5 5H2.5M13.5 7V6M13.5 7H2.5M13.5 7V8M2.5 6H13.5M2.5 6V7M2.5 7V8M2.5 8H13.5M2.5 8V9M13.5 8V9M13.5 9H2.5M13.5 9V10M2.5 9V10M2.5 10H13.5M2.5 10V11M13.5 10V11M13.5 11H2.5M13.5 11V11.5M2.5 11V11.5M2.5 11.5H13.5M2.5 11.5V12.5M13.5 11.5V12.5M13.5 12.5V13.5H2.5V12.5M13.5 12.5H2.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "surface-top",
@@ -1708,7 +1708,7 @@
                 "category": "Control",
                 "title": "SurfaceTop",
                 "fileName": "SurfaceTopIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5V11.5L8 14.5M1.5 4.5L8 1.5L8.5 1.73077M1.5 4.5L2.15868 4.80401M8 14.5L14.5 11.5V4.5M8 14.5V7.5M14.5 4.5L8 7.5M14.5 4.5L13.75 4.15385M8 7.5L7.625 7.32692M2.15868 4.80401L8.5 1.73077M2.15868 4.80401L3 5.19231M8.5 1.73077L9.08333 2M9.08333 2L3 5.19231M9.08333 2L9.82075 2.34035M3 5.19231L3.66667 5.5M3.66667 5.5L9.82075 2.34035M3.66667 5.5L4.25164 5.76999M9.82075 2.34035L10.5 2.65385M10.5 2.65385L4.25164 5.76999M10.5 2.65385L11.25 3M4.25164 5.76999L5 6.11538M5 6.11538L11.25 3M5 6.11538L5.83333 6.5M11.25 3L11.6828 3.19974M11.6828 3.19974L5.83333 6.5M11.6828 3.19974L12.3333 3.5M5.83333 6.5L6.5 6.80769M12.3333 3.5L6.5 6.80769M12.3333 3.5L13 3.80769M6.5 6.80769L7.25 7.15385M7.25 7.15385L13 3.80769M7.25 7.15385L7.625 7.32692M13 3.80769L13.75 4.15385M13.75 4.15385L7.625 7.32692\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 1.73077L8 1.5L1.5 4.5V11.5L8 14.5L14.5 11.5V4.5L13.75 4.15385L13 3.80769M1.5 4.5L2.15868 4.80401M8 14.5V7.5M14.5 4.5L8 7.5M8 7.5L7.625 7.32692M2.15868 4.80401L8.5 1.73077M3.66667 5.5L3 5.19231L2.15868 4.80401M9.82075 2.34035L9.08333 2L8.5 1.73077M9.08333 2L3 5.19231M3.66667 5.5L9.82075 2.34035M5 6.11538L4.25164 5.76999L3.66667 5.5M9.82075 2.34035L10.5 2.65385M10.5 2.65385L4.25164 5.76999M12.3333 3.5L11.6828 3.19974L11.25 3L10.5 2.65385M5 6.11538L11.25 3M6.5 6.80769L5.83333 6.5L5 6.11538M11.6828 3.19974L5.83333 6.5M12.3333 3.5L6.5 6.80769M12.3333 3.5L13 3.80769M6.5 6.80769L7.25 7.15385M7.25 7.15385L13 3.80769M7.25 7.15385L7.625 7.32692M13.75 4.15385L7.625 7.32692\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "model",
@@ -1716,7 +1716,7 @@
                 "category": "Control",
                 "title": "Model",
                 "fileName": "ModelIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14.5L14.5 11.5V4.5M8 14.5L1.5 11.5V4.5M8 14.5V7M14.5 4.5L8 1.5L1.5 4.5M14.5 4.5L8 7M1.5 4.5L8 7\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5L8 1.5L14.5 4.5V11.5L8 14.5L1.5 11.5V4.5ZM8 14.5V7M14.5 4.5L8 7M1.5 4.5L8 7\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "select-matching",
@@ -1732,7 +1732,7 @@
                 "category": "Control",
                 "title": "SurfaceLeft",
                 "fileName": "SurfaceLeftIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14.5L1.5 11.5V11M8 14.5L14.5 11.5V4.5M8 14.5V13.5M14.5 4.5L8 1.5L1.5 4.5M14.5 4.5L8 7.5M1.5 4.5L8 7.5M1.5 4.5V5M8 7.5V8M8 8L1.5 5M8 8V8.5M1.5 5V6M1.5 6L8 8.5M1.5 6V6.5M8 8.5V9.5M8 9.5L1.5 6.5M8 9.5V10.5M1.5 6.5V7.5M1.5 7.5L8 10.5M1.5 7.5V8.5M8 10.5V11M8 11L1.5 8.5M8 11V11.5M1.5 8.5V9M1.5 9L8 11.5M1.5 9V10M8 11.5V12M8 12L1.5 10M8 12V12.5M1.5 10V10.5M1.5 10.5L8 12.5M1.5 10.5V11M8 12.5V13.5M8 13.5L1.5 11\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 5V4.5L8 1.5L14.5 4.5V11.5L8 14.5L1.5 11.5V11M8 14.5V13.5M14.5 4.5L8 7.5M1.5 4.5L8 7.5M8 7.5V8M8 8L1.5 5M8 8V8.5M1.5 5V6M1.5 6L8 8.5M1.5 6V6.5M8 8.5V9.5M8 9.5L1.5 6.5M8 9.5V10.5M1.5 6.5V7.5M1.5 7.5L8 10.5M1.5 7.5V8.5M8 10.5V11M8 11L1.5 8.5M8 11V11.5M1.5 8.5V9M1.5 9L8 11.5M1.5 9V10M8 11.5V12M8 12L1.5 10M8 12V12.5M1.5 10V10.5M1.5 10.5L8 12.5M1.5 10.5V11M8 12.5V13.5M8 13.5L1.5 11\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "surface-right",
@@ -1740,7 +1740,7 @@
                 "category": "Control",
                 "title": "SurfaceRight",
                 "fileName": "SurfaceRightIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5L8 1.5L14.5 4.5M1.5 4.5V11.5L8 14.5M1.5 4.5L8 7.5M8 14.5L14.5 11.5V11.125M8 14.5V14M14.5 4.5L8 7.5M14.5 4.5V5M8 7.5V8M8 8L14.5 5M8 8V8.5M14.5 5V5.5M14.5 5.5L8 8.5M14.5 5.5V6M8 8.5V9M8 9L14.5 6M8 9V9.5M14.5 6V6.5M14.5 6.5L8 9.5M14.5 6.5V7M8 9.5V10M8 10L14.5 7M8 10V10.5M14.5 7V7.5M14.5 7.5L8 10.5M14.5 7.5V8M8 10.5V11M8 11L14.5 8M8 11V11.5M14.5 8V8.5M14.5 8.5L8 11.5M14.5 8.5V9M8 11.5V12M8 12L14.5 9M8 12V12.5M14.5 9V9.5M14.5 9.5L8 12.5M14.5 9.5V10M8 12.5V13M8 13L14.5 10M8 13V13.5M14.5 10V10.75M14.5 10.75L8 13.5M14.5 10.75V11.125M8 13.5V14M8 14L14.5 11.125\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 11.125V11.5L8 14.5L1.5 11.5V4.5L8 1.5L14.5 4.5V5M1.5 4.5L8 7.5M8 14.5V14M14.5 4.5L8 7.5M8 7.5V8M8 8L14.5 5M8 8V8.5M14.5 5V5.5M14.5 5.5L8 8.5M14.5 5.5V6M8 8.5V9M8 9L14.5 6M8 9V9.5M14.5 6V6.5M14.5 6.5L8 9.5M14.5 6.5V7M8 9.5V10M8 10L14.5 7M8 10V10.5M14.5 7V7.5M14.5 7.5L8 10.5M14.5 7.5V8M8 10.5V11M8 11L14.5 8M8 11V11.5M14.5 8V8.5M14.5 8.5L8 11.5M14.5 8.5V9M8 11.5V12M8 12L14.5 9M8 12V12.5M14.5 9V9.5M14.5 9.5L8 12.5M14.5 9.5V10M8 12.5V13M8 13L14.5 10M8 13V13.5M14.5 10V10.75M14.5 10.75L8 13.5M14.5 10.75V11.125M8 13.5V14M8 14L14.5 11.125\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "find",
@@ -1796,7 +1796,7 @@
                 "category": "Control",
                 "title": "BackSquare",
                 "fileName": "BackSquareIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.50016 7.5C12.5 7.5 10.5 11.5 8.50016 11.5H5.50016L5.5 7.5M8.50016 7.5H5.5M8.50016 7.5C9.50016 7.5 11.3928 4.5 8.5 4.5H5.5V7.5M2.5 13.5H13.5V2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 7.5V4.5H8.5C11.3928 4.5 9.50016 7.5 8.50016 7.5C12.5 7.5 10.5 11.5 8.50016 11.5H5.50016L5.5 7.5ZM8.50016 7.5H5.5M2.5 13.5H13.5V2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "left-square",
@@ -1836,7 +1836,7 @@
                 "category": "Control",
                 "title": "AdjustHight",
                 "fileName": "AdjustHightIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 1.5L3 1.5M13 14.5H3M8 7V3M8 3L10 5M8 3L6 5M8 13V9M8 13L6 11M8 13L10 11\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 1.5L3 1.5M13 14.5H3M8 7V3M6 5L8 3L10 5M8 13V9M10 11L8 13L6 11\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "hight-lessen",
@@ -1844,7 +1844,7 @@
                 "category": "Control",
                 "title": "HightLessen",
                 "fileName": "HightLessenIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 7.00002L3 7.00002M13 9.00002L3.00003 9.00002M8.00002 5.50003V1.70709M8.00002 1.70709L10 3.70712M8.00002 1.70709L6.00002 3.70712M7.99999 14V10.5M10.0001 12.5L8.00005 14.5L6.00005 12.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 7.00002L3 7.00002M13 9.00002L3.00003 9.00002M8.00002 5.50003V1.70709M6.00002 3.70712L8.00002 1.70709L10 3.70712M7.99999 14V10.5M10.0001 12.5L8.00005 14.5L6.00005 12.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "adjust-width",
@@ -1852,7 +1852,7 @@
                 "category": "Control",
                 "title": "AdjustWidth",
                 "fileName": "AdjustWidthIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3V13M14.5 3V13M7 8H3M3 8L5 6M3 8L5 10M13 8H9M13 8L11 10M13 8L11 6\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3V13M14.5 3V13M7 8H3M5 10L3 8L5 6M13 8H9M11 6L13 8L11 10\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "vertical-split",
@@ -2052,7 +2052,7 @@
                 "category": "Control",
                 "title": "RotationLeft",
                 "fileName": "RotationLeftIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.10001 3.96856H9.5C11.7091 3.96856 13.5 5.75943 13.5 7.96858V8.02925M7.10001 3.96856L8.59998 2.37537M7.10001 3.96856L8.59998 5.56172M2.50003 7.5268H10.5L10.5 13.5276H2.50005L2.50003 7.5268Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.10001 3.96856H9.5C11.7091 3.96856 13.5 5.75943 13.5 7.96858V8.02925M8.59998 5.56172L7.10001 3.96856L8.59998 2.37537M2.50003 7.5268H10.5L10.5 13.5276H2.50005L2.50003 7.5268Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "rotation-right",
@@ -2060,7 +2060,7 @@
                 "category": "Control",
                 "title": "RotationRight",
                 "fileName": "RotationRightIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.90001 3.96855H6.5C4.29086 3.96855 2.5 5.75941 2.5 7.96855V8.02926M8.90001 3.96855L7.40001 2.37537M8.90001 3.96855L7.40001 5.56172M13.5 7.52681H5.5L5.49998 13.5276H13.5L13.5 7.52681Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.90001 3.96855H6.5C4.29086 3.96855 2.5 5.75941 2.5 7.96855V8.02926M7.40001 5.56172L8.90001 3.96855L7.40001 2.37537M13.5 7.52681H5.5L5.49998 13.5276H13.5L13.5 7.52681Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "one-to-one",
@@ -2100,7 +2100,7 @@
                 "category": "Control",
                 "title": "Clockwise90",
                 "fileName": "Clockwise90Icon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 10.5H5.5V8H8.5V10.5ZM8.5 10.5V13.5H5M2.5 10V7.5C2.5 5.29086 4.29086 3.5 6.5 3.5H11M11 3.5L9 1.5M11 3.5L9 5.5M10.5 13.5H13.5V8H10.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 10.5H5.5V8H8.5V10.5ZM8.5 10.5V13.5H5M2.5 10V7.5C2.5 5.29086 4.29086 3.5 6.5 3.5H11M9 5.5L11 3.5L9 1.5M10.5 13.5H13.5V8H10.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "anticlockwise-90",
@@ -2108,7 +2108,7 @@
                 "category": "Control",
                 "title": "Anticlockwise90",
                 "fileName": "Anticlockwise90Icon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 10.5H2.5V8H5.5V10.5ZM5.5 10.5V13.5H2M13.5 10V7.5C13.5 5.29086 11.7091 3.5 9.5 3.5H4M4 3.5L6 5.5M4 3.5L6 1.5M7.5 13.5H10.5V8H7.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 10.5H2.5V8H5.5V10.5ZM5.5 10.5V13.5H2M13.5 10V7.5C13.5 5.29086 11.7091 3.5 9.5 3.5H4M6 1.5L4 3.5L6 5.5M7.5 13.5H10.5V8H7.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "linecap-butt",
@@ -2164,7 +2164,7 @@
                 "category": "Control",
                 "title": "Exit",
                 "fileName": "ExitIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 8H7.5M7.5 8L9.5 6M7.5 8L9.5 10M13.5 11V13.5C9.20423 13.5 2.5 13.5 2.5 13.5V2.5H9H13.5V5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 8H7.5M9.5 10L7.5 8L9.5 6M13.5 11V13.5C9.20423 13.5 2.5 13.5 2.5 13.5V2.5H9H13.5V5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "sign-out",
@@ -2172,7 +2172,7 @@
                 "category": "Control",
                 "title": "SignOut",
                 "fileName": "SignOutIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 8H13.5M13.5 8L11 5.5M13.5 8L11 10.5M8 13.5C3.70423 13.5 2.5 13.5 2.5 13.5V2.5H8\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 8H13.5M11 10.5L13.5 8L11 5.5M8 13.5C3.70423 13.5 2.5 13.5 2.5 13.5V2.5H8\" stroke=\"black\"/>\n</svg>\n"
               }
             ]
           },
@@ -2243,7 +2243,7 @@
                 "category": "Data",
                 "title": "Measure",
                 "fileName": "MeasureIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.35362 8.85352L5.85362 10.3535M5.85362 7.35352L7.35362 8.85352M8.85362 4.35352L10.3536 5.85352M7.35362 5.85352L8.85362 7.35352M11.182 2.69668L13.3033 4.818C13.4986 5.01326 13.4986 5.32984 13.3033 5.52511L5.52517 13.3033C5.3299 13.4985 5.01332 13.4985 4.81806 13.3033L2.69674 11.182C2.50148 10.9867 2.50148 10.6701 2.69674 10.4749L10.4749 2.69668C10.6702 2.50142 10.9868 2.50142 11.182 2.69668Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.35362 8.85355L5.85362 10.3536M5.85362 7.35355L7.35362 8.85355M8.85362 4.35355L10.3536 5.85355M7.35362 5.85355L8.85362 7.35355M11.182 2.69671L13.3033 4.81803C13.4986 5.01329 13.4986 5.32987 13.3033 5.52514L5.52517 13.3033C5.3299 13.4986 5.01332 13.4986 4.81806 13.3033L2.69674 11.182C2.50148 10.9867 2.50148 10.6701 2.69674 10.4749L10.4749 2.69671C10.6702 2.50145 10.9868 2.50145 11.182 2.69671Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "compiling",
@@ -2331,7 +2331,7 @@
                 "category": "Data",
                 "title": "RadarChart",
                 "fileName": "RadarChartIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 1.5L1.5 6.5M8 1.5L14.5 6.5M8 1.5V5M1.5 6.5L4 14.5M1.5 6.5L4.5 7.5M4 14.5H12M4 14.5L6 11.5M12 14.5L14.5 6.5M12 14.5L9.5 10M14.5 6.5L11 7.5M11 7.5L9.5 10M11 7.5L8 5M9.5 10L6 11.5M6 11.5L4.5 7.5M4.5 7.5L8 5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 14.5L1.5 6.5L8 1.5L14.5 6.5L12 14.5H4ZM8 1.5V5M1.5 6.5L4.5 7.5M4 14.5L6 11.5M12 14.5L9.5 10M14.5 6.5L11 7.5M11 7.5L9.5 10M11 7.5L8 5M9.5 10L6 11.5M6 11.5L4.5 7.5M4.5 7.5L8 5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "data-screen",
@@ -2355,7 +2355,7 @@
                 "category": "Data",
                 "title": "Database",
                 "fileName": "DatabaseIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 7.5V11.5C3.5 12.6046 5.51472 13.5 8 13.5C10.4853 13.5 12.5 12.6046 12.5 11.5V7.5M3.5 7.5V4M3.5 7.5C3.5 8.60457 5.51472 9.5 8 9.5C10.4853 9.5 12.5 8.60457 12.5 7.5M3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4M3.5 4C3.5 5.10457 5.51472 6 8 6C10.4853 6 12.5 5.10457 12.5 4M12.5 4V7.5M10 11.25H10.005V11.255H10V11.25ZM10.25 11.25C10.25 11.3881 10.1381 11.5 10 11.5C9.86194 11.5 9.75001 11.3881 9.75001 11.25C9.75001 11.1119 9.86194 11 10 11C10.1381 11 10.25 11.1119 10.25 11.25ZM10 7.5H10.005V7.505H10V7.5ZM10.25 7.5C10.25 7.63808 10.1381 7.75 10 7.75C9.86194 7.75 9.75001 7.63808 9.75001 7.5C9.75001 7.36193 9.86194 7.25 10 7.25C10.1381 7.25 10.25 7.36193 10.25 7.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 7.5V11.5C3.5 12.6046 5.51472 13.5 8 13.5C10.4853 13.5 12.5 12.6046 12.5 11.5V7.5M3.5 7.5V4M3.5 7.5C3.5 8.60457 5.51472 9.5 8 9.5C10.4853 9.5 12.5 8.60457 12.5 7.5M12.5 4C12.5 5.10457 10.4853 6 8 6C5.51472 6 3.5 5.10457 3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4V7.5M10 11.25H10.005V11.255H10V11.25ZM10.25 11.25C10.25 11.3881 10.1381 11.5 10 11.5C9.86194 11.5 9.75001 11.3881 9.75001 11.25C9.75001 11.1119 9.86194 11 10 11C10.1381 11 10.25 11.1119 10.25 11.25ZM10 7.5H10.005V7.505H10V7.5ZM10.25 7.5C10.25 7.63808 10.1381 7.75 10 7.75C9.86194 7.75 9.75001 7.63808 9.75001 7.5C9.75001 7.36193 9.86194 7.25 10 7.25C10.1381 7.25 10.25 7.36193 10.25 7.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "decimal",
@@ -2426,7 +2426,7 @@
                 "category": "Common",
                 "title": "Faq",
                 "fileName": "FaqIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 6H3.5V8.5M3.5 10V8.5M3.5 8.5H5.5M9 8.5L8.5 6H7.5L7 8.5M9 8.5V10M9 8.5H7M7 10V8.5M11.5 9.5H12.5V6H11V9.5H11.5ZM11.5 9.5L12.5 11M1.5 12.5V3.5H14.5V12.5H1.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 6H3.5V8.5M3.5 10V8.5M3.5 8.5H5.5M9 10V8.5L8.5 6H7.5L7 8.5V10M9 8.5H7M11.5 9.5H12.5V6H11V9.5H11.5ZM11.5 9.5L12.5 11M1.5 12.5V3.5H14.5V12.5H1.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "credit-card",
@@ -2498,7 +2498,7 @@
                 "category": "Common",
                 "title": "PackingBox",
                 "fileName": "PackingBoxIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5835 4.50001L8.00016 1.58334L14.4168 4.50001M1.5835 4.50001L8.00016 7.41668M1.5835 4.50001V10.9167L8.00016 14.4167M8.00016 7.41668L14.4168 4.50001M8.00016 7.41668V14.4167M14.4168 4.50001L14.4167 10.9167L8.00016 14.4167M11.0001 3L5.00012 6V13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00016 14.4167L14.4167 10.9167L14.4168 4.50001L8.00016 1.58334L1.5835 4.50001V10.9167L8.00016 14.4167ZM1.5835 4.50001L8.00016 7.41668M8.00016 7.41668L14.4168 4.50001M8.00016 7.41668V14.4167M11.0001 3L5.00012 6V13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "amount-yuan",
@@ -2586,7 +2586,7 @@
                 "category": "Common",
                 "title": "Bbq",
                 "fileName": "BbqIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.20361 13.7966L4.91323 11.087M10.9647 5.03537C10.2673 4.33787 10.2673 3.20701 10.9647 2.50951C11.6622 1.81202 12.7931 1.81202 13.4906 2.50951C14.1881 3.20701 14.1881 4.33787 13.4906 5.03537C12.7931 5.73286 11.6622 5.73286 10.9647 5.03537ZM10.4596 5.54055V8.2348H7.76535V5.54055H10.4596ZM6.08142 7.56126L8.43889 9.91872L6.33594 12.0217L3.97847 9.66421L6.08142 7.56126Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.20361 13.7965L4.91323 11.0869M10.9647 5.03534C10.2673 4.33784 10.2673 3.20698 10.9647 2.50948C11.6622 1.81198 12.7931 1.81198 13.4906 2.50948C14.1881 3.20698 14.1881 4.33784 13.4906 5.03534C12.7931 5.73283 11.6622 5.73283 10.9647 5.03534ZM10.4596 5.54052V8.23477H7.76535V5.54052H10.4596ZM6.08142 7.56123L8.43889 9.91869L6.33594 12.0216L3.97847 9.66418L6.08142 7.56123Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "camera",
@@ -2714,7 +2714,7 @@
                 "category": "Common",
                 "title": "Pen",
                 "fileName": "PenIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 13.5L6.5 9.5M2.5 13.5L11 12.5L12.5 8.5M2.5 13.5L3.5 5L7.5 3.5M12.5 8.5L7.5 3.5M12.5 8.5L14.5 6.5L9.5 1.5L7.5 3.5M7 8C6.44772 8 6 8.44772 6 9C6 9.55228 6.44772 10 7 10C7.55228 10 8 9.55228 8 9C8 8.44772 7.55228 8 7 8Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 13.5L6.5 9.5M7.5 3.5L3.5 5L2.5 13.5L11 12.5L12.5 8.5M12.5 8.5L7.5 3.5M12.5 8.5L14.5 6.5L9.5 1.5L7.5 3.5M7 8C6.44772 8 6 8.44772 6 9C6 9.55228 6.44772 10 7 10C7.55228 10 8 9.55228 8 9C8 8.44772 7.55228 8 7 8Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "cube",
@@ -2722,7 +2722,7 @@
                 "category": "Common",
                 "title": "Cube",
                 "fileName": "CubeIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 13.5L2.5 11V5.5M8 13.5L13.5 11V5.5M8 13.5V8M2.5 5.5L8 2.5L13.5 5.5M2.5 5.5L8 8M13.5 5.5L8 8\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5.5L8 2.5L2.5 5.5V11L8 13.5L13.5 11V5.5ZM8 13.5V8M2.5 5.5L8 8M13.5 5.5L8 8\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "brain",
@@ -2762,7 +2762,7 @@
                 "category": "Common",
                 "title": "Gift",
                 "fileName": "GiftIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.99996 13.5V8.50003M7.99996 8.50003C7.99996 6.03101 8.64 4.20434 8.92304 3.63137C9.84612 1.76274 12.1538 2.2299 12.1538 3.16422C12.1538 4.56571 8.92304 5.50002 8.92304 5.50002L11 5.50003L13.5 5.50002V8.50003H12.5769M7.99996 8.50003C7.99996 6.03101 7.35992 4.20434 7.07689 3.63137C6.13714 1.72896 3.84612 2.2299 3.84612 3.16422C3.84612 5.03287 7.07689 5.50002 7.07689 5.50002L4.99996 5.50003H2.5V8.50003H3.5M12.5769 8.50003V13.5H3.5V8.50003M12.5769 8.50003C9.10609 8.50003 7.269 8.50003 3.5 8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.99996 13.5V8.50003M3.5 8.50003C7.269 8.50003 9.10609 8.50003 12.5769 8.50003H13.5V5.50002L11 5.50003L8.92304 5.50002C8.92304 5.50002 12.1538 4.56571 12.1538 3.16422C12.1538 2.2299 9.84612 1.76274 8.92304 3.63137C8.64 4.20434 7.99996 6.03101 7.99996 8.50003M7.99996 8.50003C7.99996 6.03101 7.35992 4.20434 7.07689 3.63137C6.13714 1.72896 3.84612 2.2299 3.84612 3.16422C3.84612 5.03287 7.07689 5.50002 7.07689 5.50002L4.99996 5.50003H2.5V8.50003H3.5M12.5769 8.50003V13.5H3.5V8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "label",
@@ -3002,7 +3002,7 @@
                 "category": "Common",
                 "title": "Gather",
                 "fileName": "GatherIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 2.5H13.5V13.5H2.5V2.5H6.5M13.5 9H10C10 10.1046 9.10457 11 8 11C6.89543 11 6 10.1046 6 9H2.5M8 2V7.5M8 7.5L10 5.5M8 7.5L6 5.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 2.5H13.5V13.5H2.5V2.5H6.5M13.5 9H10C10 10.1046 9.10457 11 8 11C6.89543 11 6 10.1046 6 9H2.5M8 2V7.5M6 5.5L8 7.5L10 5.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "puzzle",
@@ -3218,7 +3218,7 @@
                 "category": "Common",
                 "title": "UserLeave",
                 "fileName": "UserLeaveIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 4V7.5M13 7.5L14.5 6M13 7.5L11.5 6M2.5 14V13.5C2.5 11.2909 4.29086 9.5 6.5 9.5H7.5C9.70914 9.5 11.5 11.2909 11.5 13.5V14M9.5 5C9.5 6.38071 8.38071 7.5 7 7.5C5.61929 7.5 4.5 6.38071 4.5 5C4.5 3.61929 5.61929 2.5 7 2.5C8.38071 2.5 9.5 3.61929 9.5 5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 4V7.5M11.5 6L13 7.5L14.5 6M2.5 14V13.5C2.5 11.2909 4.29086 9.5 6.5 9.5H7.5C9.70914 9.5 11.5 11.2909 11.5 13.5V14M9.5 5C9.5 6.38071 8.38071 7.5 7 7.5C5.61929 7.5 4.5 6.38071 4.5 5C4.5 3.61929 5.61929 2.5 7 2.5C8.38071 2.5 9.5 3.61929 9.5 5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "user-all",
@@ -3274,7 +3274,7 @@
                 "category": "Common",
                 "title": "Mail",
                 "fileName": "MailIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5V3.5M1.5 3.5H14.5M1.5 3.5L8 8L14.5 3.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 3.5H1.5V12.5H14.5V3.5ZM1.5 3.5L8 8L14.5 3.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "rocket",
@@ -3330,7 +3330,7 @@
                 "category": "Common",
                 "title": "BookTwo",
                 "fileName": "BookTwoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 3.70833C6.85003 2.67908 5.33143 2.05323 3.66667 2.05323C2.90696 2.05323 2.17769 2.18356 1.5 2.42309V12.7148C2.17769 12.4752 2.90696 12.3449 3.66667 12.3449C5.33143 12.3449 6.85003 12.9707 8 14M8 3.70833C9.14997 2.67908 10.6686 2.05323 12.3333 2.05323C13.093 2.05323 13.8223 2.18356 14.5 2.42309V12.7148C13.8223 12.4752 13.093 12.3449 12.3333 12.3449C10.6686 12.3449 9.14997 12.9707 8 14M8 3.70833V14\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14C9.14997 12.9707 10.6686 12.3449 12.3333 12.3449C13.093 12.3449 13.8223 12.4752 14.5 12.7148V2.42309C13.8223 2.18356 13.093 2.05323 12.3333 2.05323C10.6686 2.05323 9.14997 2.67908 8 3.70833C6.85003 2.67908 5.33143 2.05323 3.66667 2.05323C2.90696 2.05323 2.17769 2.18356 1.5 2.42309V12.7148C2.17769 12.4752 2.90696 12.3449 3.66667 12.3449C5.33143 12.3449 6.85003 12.9707 8 14ZM8 3.70833V14\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "bookmark",
@@ -3418,7 +3418,7 @@
                 "category": "Common",
                 "title": "Clue",
                 "fileName": "ClueIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 2.5V5.5M2.5 2.5H5M2.5 2.5L6.5 7H10.5L10 11M10.75 2.5C9.50736 2.5 8.5 3.50736 8.5 4.75C8.5 5.99264 9.50736 7 10.75 7C11.9926 7 13 5.99264 13 4.75C13 3.50736 11.9926 2.5 10.75 2.5ZM9.75 11C9.05964 11 8.5 11.5596 8.5 12.25C8.5 12.9404 9.05964 13.5 9.75 13.5C10.4404 13.5 11 12.9404 11 12.25C11 11.5596 10.4404 11 9.75 11ZM5.75 7C5.05964 7 4.5 7.55964 4.5 8.25C4.5 8.94036 5.05964 9.5 5.75 9.5C6.44036 9.5 7 8.94036 7 8.25C7 7.55964 6.44036 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 2.5H2.5V5.5M2.5 2.5L6.5 7H10.5L10 11M10.75 2.5C9.50736 2.5 8.5 3.50736 8.5 4.75C8.5 5.99264 9.50736 7 10.75 7C11.9926 7 13 5.99264 13 4.75C13 3.50736 11.9926 2.5 10.75 2.5ZM9.75 11C9.05964 11 8.5 11.5596 8.5 12.25C8.5 12.9404 9.05964 13.5 9.75 13.5C10.4404 13.5 11 12.9404 11 12.25C11 11.5596 10.4404 11 9.75 11ZM5.75 7C5.05964 7 4.5 7.55964 4.5 8.25C4.5 8.94036 5.05964 9.5 5.75 9.5C6.44036 9.5 7 8.94036 7 8.25C7 7.55964 6.44036 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "business-card",
@@ -3450,7 +3450,7 @@
                 "category": "Common",
                 "title": "Male",
                 "fileName": "MaleIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 8L13.5 2.5M13.5 2.5H8.5M13.5 2.5V7.5M5.75 7C7.54493 7 9 8.45507 9 10.25C9 12.0449 7.54493 13.5 5.75 13.5C3.95507 13.5 2.5 12.0449 2.5 10.25C2.5 8.45507 3.95507 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 8L13.5 2.5M13.5 7.5V2.5H8.5M5.75 7C7.54493 7 9 8.45507 9 10.25C9 12.0449 7.54493 13.5 5.75 13.5C3.95507 13.5 2.5 12.0449 2.5 10.25C2.5 8.45507 3.95507 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "female",
@@ -3481,7 +3481,7 @@
                 "category": "Retail",
                 "title": "VipConsume",
                 "fileName": "VipConsumeIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 6L8 10.5L12 6M12 12.5L10.5 11M12 12.5V9M12 12.5L13.5 11M9.5 12L9 12.5L8 13.5L1.5 6.5L5 2.5H11L14.5 6.5L13.5 7.5L13 8\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 6L8 10.5L12 6M13.5 11L12 12.5L10.5 11M12 12.5V9M9.5 12L9 12.5L8 13.5L1.5 6.5L5 2.5H11L14.5 6.5L13.5 7.5L13 8\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "rail",
@@ -3497,7 +3497,7 @@
                 "category": "Retail",
                 "title": "Integral",
                 "fileName": "IntegralIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 13.5H11M11 13.5H12.5V12H9.5V10.5H11M11 13.5V14.5M11 10.5H13M11 10.5V9.5M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V9M3.5 9V6.5M3.5 9C3.5 10.1046 5.51472 11 8 11M3.5 6.5V4M3.5 6.5C3.5 7.60457 5.51472 8.5 8 8.5C10.4853 8.5 12.5 7.60457 12.5 6.5M3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4M3.5 4C3.5 5.10457 5.51472 6 8 6C10.4853 6 12.5 5.10457 12.5 4M12.5 4V6.5M12.5 6.5V9\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 13.5H11M11 13.5H12.5V12H9.5V10.5H11M11 13.5V14.5M11 10.5H13M11 10.5V9.5M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V9M3.5 9V6.5M3.5 9C3.5 10.1046 5.51472 11 8 11M3.5 6.5V4M3.5 6.5C3.5 7.60457 5.51472 8.5 8 8.5C10.4853 8.5 12.5 7.60457 12.5 6.5M12.5 4C12.5 5.10457 10.4853 6 8 6C5.51472 6 3.5 5.10457 3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4V6.5M12.5 6.5V9\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "integral-distribute",
@@ -3505,7 +3505,7 @@
                 "category": "Retail",
                 "title": "IntegralDistribute",
                 "fileName": "IntegralDistributeIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V4M3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4M3.5 4C3.5 5.10457 5.51472 6 8 6C10.4853 6 12.5 5.10457 12.5 4M12.5 4V9M12.5 6.5C12.5 7.60457 10.4853 8.5 8 8.5C5.51472 8.5 3.5 7.60457 3.5 6.5M8 11C5.51472 11 3.5 10.1046 3.5 9M9.00003 10.0001L12.5 13.5001M12.5 13.5001L12.5 10.0001M12.5 13.5001L9.00002 13.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V4M12.5 4C12.5 5.10457 10.4853 6 8 6C5.51472 6 3.5 5.10457 3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4V9M12.5 6.5C12.5 7.60457 10.4853 8.5 8 8.5C5.51472 8.5 3.5 7.60457 3.5 6.5M8 11C5.51472 11 3.5 10.1046 3.5 9M9.00003 10.0001L12.5 13.5001M9.00002 13.5L12.5 13.5001L12.5 10.0001\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "picking",
@@ -3521,7 +3521,7 @@
                 "category": "Retail",
                 "title": "Distribution",
                 "fileName": "DistributionIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12C5 11.1716 4.32843 10.5 3.5 10.5C2.67157 10.5 2 11.1716 2 12C2 12.8284 2.67157 13.5 3.5 13.5C4.32843 13.5 5 12.8284 5 12ZM5 12H10.5M10.5 12C10.5 11.1716 11.1716 10.5 12 10.5C12.8284 10.5 13.5 11.1716 13.5 12M10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12M13.5 12H14.5V6.5M14.5 6.5H9.5V4.5M14.5 6.5L13 4.5H9.5M9.5 4.5V2.5H3M2 5.5H6.5M1 8.5H5.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12C5 11.1716 4.32843 10.5 3.5 10.5C2.67157 10.5 2 11.1716 2 12C2 12.8284 2.67157 13.5 3.5 13.5C4.32843 13.5 5 12.8284 5 12ZM5 12H10.5M10.5 12C10.5 11.1716 11.1716 10.5 12 10.5C12.8284 10.5 13.5 11.1716 13.5 12M10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12M9.5 4.5H13L14.5 6.5V12H13.5M14.5 6.5H9.5V4.5M9.5 4.5V2.5H3M2 5.5H6.5M1 8.5H5.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "goods",
@@ -3561,7 +3561,7 @@
                 "category": "Retail",
                 "title": "Replenishment",
                 "fileName": "ReplenishmentIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5V13.5H13.5V5M2.5 5L5 2.5H11L13.5 5M2.5 5H13.5M5.5 9H10.5M8 6.5V11.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5L11 2.5H5L2.5 5V13.5H13.5V5ZM2.5 5H13.5M5.5 9H10.5M8 6.5V11.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "path",
@@ -3609,7 +3609,7 @@
                 "category": "Retail",
                 "title": "SalesReturn",
                 "fileName": "SalesReturnIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 5V13.5H1.5V5M14.5 5L12 2.5H4L1.5 5M14.5 5H1.5M6 10.5H10C10.5523 10.5 11 10.0523 11 9.5C11 8.94772 10.5523 8.5 10 8.5H5.5L7 7\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 5L4 2.5H12L14.5 5V13.5H1.5V5ZM14.5 5H1.5M6 10.5H10C10.5523 10.5 11 10.0523 11 9.5C11 8.94772 10.5523 8.5 10 8.5H5.5L7 7\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "management-stockout",
@@ -3617,7 +3617,7 @@
                 "category": "Retail",
                 "title": "ManagementStockout",
                 "fileName": "ManagementStockoutIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.58337 4.50004L8.00004 1.58337L14.4167 4.50004M1.58337 4.50004L8.00004 7.41671M1.58337 4.50004V10.9167L8.00004 14.4167M8.00004 7.41671L14.4167 4.50004M8.00004 7.41671V14.4167M14.4167 4.50004L14.4166 10.9167L8.00004 14.4167M10.5 13V9.50003M12.5 12V8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00004 14.4167L14.4166 10.9167L14.4167 4.50004L8.00004 1.58337L1.58337 4.50004V10.9167L8.00004 14.4167ZM1.58337 4.50004L8.00004 7.41671M8.00004 7.41671L14.4167 4.50004M8.00004 7.41671V14.4167M10.5 13V9.50003M12.5 12V8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "shelf-up",
@@ -3625,7 +3625,7 @@
                 "category": "Retail",
                 "title": "ShelfUp",
                 "fileName": "ShelfUpIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5V13.5H2.5V5M13.5 5L11 2.5H5L2.5 5M13.5 5H2.5M6 9.5L8 7.5M8 7.5L10 9.5M8 7.5V12\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5L5 2.5H11L13.5 5V13.5H2.5V5ZM13.5 5H2.5M10 9.5L8 7.5L6 9.5M8 7.5V12\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "shelf-down",
@@ -3633,7 +3633,7 @@
                 "category": "Retail",
                 "title": "ShelfDown",
                 "fileName": "ShelfDownIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5V13.5H2.5L2.5 5M13.5 5L11 2.5H5L2.5 5M13.5 5H2.5M8 7V11.5M8 11.5L10 9.5M8 11.5L6 9.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5L5 2.5H11L13.5 5V13.5H2.5L2.5 5ZM13.5 5H2.5M8 7V11.5M6 9.5L8 11.5L10 9.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "timing-shelf-down",
@@ -3641,7 +3641,7 @@
                 "category": "Retail",
                 "title": "TimingShelfDown",
                 "fileName": "TimingShelfDownIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8H8V4M11.5 9.5V13M11.5 13L13 11.5M11.5 13L10 11.5M7.92206 14.4995C4.36812 14.4578 1.5 11.5638 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5637 1.5 14.4576 4.36793 14.4995 7.9217C14.4998 7.94776 14.5 7.97386 14.5 8M14.5 11.5C14.5 13.1569 13.1569 14.5 11.5 14.5C9.84315 14.5 8.5 13.1569 8.5 11.5C8.5 9.84315 9.84315 8.5 11.5 8.5C13.1569 8.5 14.5 9.84315 14.5 11.5Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8H8V4M11.5 9.5V13M10 11.5L11.5 13L13 11.5M7.92206 14.4995C4.36812 14.4578 1.5 11.5638 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5637 1.5 14.4576 4.36793 14.4995 7.9217C14.4998 7.94776 14.5 7.97386 14.5 8M14.5 11.5C14.5 13.1569 13.1569 14.5 11.5 14.5C9.84315 14.5 8.5 13.1569 8.5 11.5C8.5 9.84315 9.84315 8.5 11.5 8.5C13.1569 8.5 14.5 9.84315 14.5 11.5Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "process-mode",
@@ -3649,7 +3649,7 @@
                 "category": "Retail",
                 "title": "ProcessMode",
                 "fileName": "ProcessModeIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 1.5H3.5V14.5H12.5V5M9 1.5L12.5 5M9 1.5V5H12.5M5 8H11M5 5H7.5M5 11H11\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5L9 1.5H3.5V14.5H12.5V5ZM9 1.5V5H12.5M5 8H11M5 5H7.5M5 11H11\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "goods-search",
@@ -3657,7 +3657,7 @@
                 "category": "Retail",
                 "title": "GoodsSearch",
                 "fileName": "GoodsSearchIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5V13.5H2.5V5M13.5 5L11 2.5H5L2.5 5M13.5 5H2.5M9 10L10.5 11.5M9.5 9C9.5 9.82843 8.82843 10.5 8 10.5C7.17157 10.5 6.5 9.82843 6.5 9C6.5 8.17157 7.17157 7.5 8 7.5C8.82843 7.5 9.5 8.17157 9.5 9Z\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5L5 2.5H11L13.5 5V13.5H2.5V5ZM13.5 5H2.5M9 10L10.5 11.5M9.5 9C9.5 9.82843 8.82843 10.5 8 10.5C7.17157 10.5 6.5 9.82843 6.5 9C6.5 8.17157 7.17157 7.5 8 7.5C8.82843 7.5 9.5 8.17157 9.5 9Z\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "picking-guidance",
@@ -3697,7 +3697,7 @@
                 "category": "Retail",
                 "title": "WarehouseInto",
                 "fileName": "WarehouseIntoIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M1 11H9M9 11L7 9M9 11L7 13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M1 11H9M7 13L9 11L7 9\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "out-of-warehouse",
@@ -3705,7 +3705,7 @@
                 "category": "Retail",
                 "title": "OutOfWarehouse",
                 "fileName": "OutOfWarehouseIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M9.5 11H1.5M1.5 11L3.5 9M1.5 11L3.5 13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M9.5 11H1.5M3.5 13L1.5 11L3.5 9\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "marketplace",
@@ -3721,7 +3721,7 @@
                 "category": "Retail",
                 "title": "Incubator",
                 "fileName": "IncubatorIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 5V13.5H1.5V5M14.5 5H1.5M14.5 5L12 2.5H4L1.5 5M10.5781 7.77125C10.2122 7.30186 9.64133 7 9 7C7.89543 7 7 7.89543 7 9C7 10.1046 7.89543 11 9 11C9.74028 11 10.3866 10.5978 10.7324 10M4.5 7.25H4.505V7.255H4.5V7.25ZM4.75 7.25C4.75 7.38807 4.63807 7.5 4.5 7.5C4.36193 7.5 4.25 7.38807 4.25 7.25C4.25 7.11193 4.36193 7 4.5 7C4.63807 7 4.75 7.11193 4.75 7.25Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 5L4 2.5H12L14.5 5V13.5H1.5V5ZM14.5 5H1.5M10.5781 7.77125C10.2122 7.30186 9.64133 7 9 7C7.89543 7 7 7.89543 7 9C7 10.1046 7.89543 11 9 11C9.74028 11 10.3866 10.5978 10.7324 10M4.5 7.25H4.505V7.255H4.5V7.25ZM4.75 7.25C4.75 7.38807 4.63807 7.5 4.5 7.5C4.36193 7.5 4.25 7.38807 4.25 7.25C4.25 7.11193 4.36193 7 4.5 7C4.63807 7 4.75 7.11193 4.75 7.25Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "toggle-warehouse-x",
@@ -3729,7 +3729,7 @@
                 "category": "Retail",
                 "title": "ToggleWarehouseX",
                 "fileName": "ToggleWarehouseXIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M4.5 12.5L2.5 10.5M4.5 12.5L6.5 10.5M8 9.5L10 7.5M10 7.5L12 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M6.5 10.5L4.5 12.5L2.5 10.5M12 9.5L10 7.5L8 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "toggle-warehouse-y",
@@ -3737,7 +3737,7 @@
                 "category": "Retail",
                 "title": "ToggleWarehouseY",
                 "fileName": "ToggleWarehouseYIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M8 10.5H2M2 10.5L4 12.5M2 10.5L4 8.5M7 8.5H13M13 8.5L11 6.5M13 8.5L11 10.5\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M8 10.5H2M4 8.5L2 10.5L4 12.5M7 8.5H13M11 10.5L13 8.5L11 6.5\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "receipt",
@@ -3896,7 +3896,7 @@
                 "category": "File",
                 "title": "OrderIntegral",
                 "fileName": "OrderIntegralIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 2.5H3.5V14.5H8.5M10.5 2.5H12.5V7.5M9.49995 9.5V13.5C9.49995 13.8333 9.99995 14.5 12 14.5C14 14.5 14.5 13.6667 14.5 13.5L14.5 9.5M9.49995 9.5C9.49993 9 10.5 8.5 12 8.5C13.5 8.5 14.5 9 14.5 9.5M9.49995 9.5C9.49995 9.83333 9.99995 10.5 12 10.5C14 10.5 14.5 9.83333 14.5 9.5M9.49995 11.5C9.49995 11.8333 9.99995 12.5 12 12.5C14 12.5 14.5 11.8333 14.5 11.5M5.5 1.5H10.5L9.875 3.5H6.125L5.5 1.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 2.5H3.5V14.5H8.5M10.5 2.5H12.5V7.5M14.5 9.5C14.5 9 13.5 8.5 12 8.5C10.5 8.5 9.49993 9 9.49995 9.5V13.5C9.49995 13.8333 9.99995 14.5 12 14.5C14 14.5 14.5 13.6667 14.5 13.5L14.5 9.5ZM9.49995 9.5C9.49995 9.83333 9.99995 10.5 12 10.5C14 10.5 14.5 9.83333 14.5 9.5M9.49995 11.5C9.49995 11.8333 9.99995 12.5 12 12.5C14 12.5 14.5 11.8333 14.5 11.5M5.5 1.5H10.5L9.875 3.5H6.125L5.5 1.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "order-abnormal",
@@ -3960,7 +3960,7 @@
                 "category": "File",
                 "title": "Report",
                 "fileName": "ReportIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.5625 1.54547H2.5V12.4546H11.5V5.36365M7.5625 1.54547L11.5 5.36365M7.5625 1.54547V5.36365H11.5M4.5 14.5H13.5V7.50002M4 7.50002H10M4 5.00002H6M4 10H10\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 5.36365L7.5625 1.54547H2.5V12.4546H11.5V5.36365ZM7.5625 1.54547V5.36365H11.5M4.5 14.5H13.5V7.50002M4 7.50002H10M4 5.00002H6M4 10H10\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "contract",
@@ -4040,7 +4040,7 @@
                 "category": "File",
                 "title": "FileImport",
                 "fileName": "FileImportIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 11H7.5M9 9L7 11L9 13M9.5 14.5H3.5V1.5H9M9 1.5V5H12.5M9 1.5L12.5 5M12.5 5V7.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 11H7.5M9 9L7 11L9 13M12.5 7.5V5L9 1.5H3.5V14.5H9.5M9 1.5V5H12.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "file-export",
@@ -4048,7 +4048,7 @@
                 "category": "File",
                 "title": "FileExport",
                 "fileName": "FileExportIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 11.5H13.5M12 13.5L14 11.5L12 9.5M9.5 14.5H3.5V1.5H9M9 1.5V5H12.5M9 1.5L12.5 5M12.5 5V7.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 11.5H13.5M12 13.5L14 11.5L12 9.5M12.5 7.5V5L9 1.5H3.5V14.5H9.5M9 1.5V5H12.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
               },
               {
                 "name": "attachments",
@@ -4080,7 +4080,7 @@
                 "category": "File",
                 "title": "FolderOpen",
                 "fileName": "FolderOpenIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 12.5H13L14.5 7H13M1.5 12.5L4 8H8L9.5 7H13M1.5 12.5V3.5H6.5L8 5H13V7\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 7V5H8L6.5 3.5H1.5V12.5H13L14.5 7H13ZM1.5 12.5L4 8H8L9.5 7H13\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "folder-close",
@@ -4230,7 +4230,7 @@
                 "category": "Navigation",
                 "title": "DoubleArrowLeft",
                 "fileName": "DoubleArrowLeftFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.20718 8.00004L8.35363 4.85359L7.64652 4.14648L3.79297 8.00004L7.64652 11.8536L8.35363 11.1465L5.20718 8.00004ZM8.20718 8.00004L11.3536 4.85359L10.6465 4.14648L6.79297 8.00004L10.6465 11.8536L11.3536 11.1465L8.20718 8.00004Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.20718 8.00001L8.35363 4.85356L7.64652 4.14645L3.79297 8.00001L7.64652 11.8536L8.35363 11.1465L5.20718 8.00001ZM8.20718 8.00001L11.3536 4.85356L10.6465 4.14645L6.79297 8.00001L10.6465 11.8536L11.3536 11.1465L8.20718 8.00001Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "double-arrow-right",
@@ -4238,7 +4238,7 @@
                 "category": "Navigation",
                 "title": "DoubleArrowRight",
                 "fileName": "DoubleArrowRightFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.29293 8.00004L4.14648 4.85359L4.85359 4.14648L8.70714 8.00004L4.85359 11.8536L4.14648 11.1465L7.29293 8.00004ZM10.2929 8.00004L7.14648 4.85359L7.85359 4.14648L11.7071 8.00004L7.85359 11.8536L7.14648 11.1465L10.2929 8.00004Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.29293 8.00001L4.14648 4.85356L4.85359 4.14645L8.70714 8.00001L4.85359 11.8536L4.14648 11.1465L7.29293 8.00001ZM10.2929 8.00001L7.14648 4.85356L7.85359 4.14645L11.7071 8.00001L7.85359 11.8536L7.14648 11.1465L10.2929 8.00001Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "arrow-up",
@@ -4246,7 +4246,7 @@
                 "category": "Navigation",
                 "title": "ArrowUp",
                 "fileName": "ArrowUpFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.97855 2.02142L11.8321 5.87498L11.125 6.58208L8.47855 3.93564L8.47855 12.9785H7.47855L7.47855 3.93564L4.83211 6.58208L4.125 5.87498L7.97855 2.02142Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.97855 2.02145L11.8321 5.87501L11.125 6.58211L8.47855 3.93567L8.47855 12.9786H7.47855L7.47855 3.93567L4.83211 6.58211L4.125 5.87501L7.97855 2.02145Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "circle-arrow-up",
@@ -4270,7 +4270,7 @@
                 "category": "Navigation",
                 "title": "ArrowDown",
                 "fileName": "ArrowDownFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.47855 12.0644L7.47855 3.02148H8.47855L8.47855 12.0644L11.125 9.41793L11.8321 10.125L7.97855 13.9786L4.125 10.125L4.83211 9.41793L7.47855 12.0644Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.47855 12.0643L7.47855 3.02145H8.47855L8.47855 12.0643L11.125 9.4179L11.8321 10.125L7.97855 13.9786L4.125 10.125L4.83211 9.4179L7.47855 12.0643Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "arrow-left",
@@ -4541,7 +4541,7 @@
                 "category": "Notice",
                 "title": "Star",
                 "fileName": "StarFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.99989 1.91016L10.0354 5.85251L13.9734 6.69754L11.2638 9.56607L11.563 13.896L7.99989 11.8672L4.43678 13.896L4.73598 9.56607L2.02637 6.69754L5.96441 5.85251L7.99989 1.91016Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.99989 1.91013L10.0354 5.85248L13.9734 6.69751L11.2638 9.56604L11.563 13.896L7.99989 11.8672L4.43678 13.896L4.73598 9.56604L2.02637 6.69751L5.96441 5.85248L7.99989 1.91013Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "circle-help",
@@ -5296,7 +5296,7 @@
                 "category": "Action",
                 "title": "InfuseTwo",
                 "fileName": "InfuseTwoFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 8.29293L12.6464 2.64648L13.3536 3.35359L7.70711 9.00004H11V10H6.5C6.22386 10 6 9.77618 6 9.50004V5.00004H7V8.29293ZM3.00098 13.0256V9.52885H2.00098V13.5256C2.00098 13.8017 2.22483 14.0256 2.50098 14.0256H13.5504C13.8265 14.0256 14.0504 13.8017 14.0504 13.5256V9.52885H13.0504V13.0256H3.00098Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 8.29287L12.6464 2.64642L13.3536 3.35353L7.70711 8.99998H11V9.99998H6.5C6.22386 9.99998 6 9.77612 6 9.49998V4.99998H7V8.29287ZM3.00098 13.0255V9.52879H2.00098V13.5255C2.00098 13.8016 2.22483 14.0255 2.50098 14.0255H13.5504C13.8265 14.0255 14.0504 13.8016 14.0504 13.5255V9.52879H13.0504V13.0255H3.00098Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "switch",
@@ -5304,7 +5304,7 @@
                 "category": "Action",
                 "title": "Switch",
                 "fileName": "SwitchFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.32925 2.62366L14.3307 6.99995H2V5.99995H11.6693L8.67075 3.37623L9.32925 2.62366ZM1.5 8.99995H14V9.99995H4.5L7.3 12.0999L6.7 12.8999L1.5 8.99995Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.32925 2.62372L14.3307 7.00001H2V6.00001H11.6693L8.67075 3.37629L9.32925 2.62372ZM1.5 9.00001H14V10H4.5L7.3 12.1L6.7 12.9L1.5 9.00001Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "to-top",
@@ -6302,7 +6302,7 @@
                 "category": "Data",
                 "title": "Measure",
                 "fileName": "MeasureFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.1214 2.34313C10.5119 1.9526 11.1451 1.9526 11.5356 2.34313L13.6569 4.46445C14.0474 4.85497 14.0474 5.48813 13.6569 5.87866L5.87872 13.6568C5.4882 14.0474 4.85503 14.0474 4.46451 13.6568L2.34319 11.5355C1.95266 11.145 1.95266 10.5118 2.34319 10.1213L10.1214 2.34313ZM4.33585 9.54285L3.05029 10.8284L5.17161 12.9497L12.9498 5.17155L10.8285 3.05023L9.54295 4.33575L10.7072 5.49997L10.0001 6.20708L8.83585 5.04285L8.04295 5.83575L9.20718 6.99997L8.50007 7.70708L7.33585 6.54285L6.54295 7.33575L7.70718 8.49997L7.00007 9.20708L5.83585 8.04285L5.04295 8.83575L6.20718 9.99997L5.50007 10.7071L4.33585 9.54285Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.1214 2.34316C10.5119 1.95263 11.1451 1.95263 11.5356 2.34316L13.6569 4.46448C14.0474 4.855 14.0474 5.48817 13.6569 5.87869L5.87872 13.6569C5.4882 14.0474 4.85503 14.0474 4.46451 13.6569L2.34319 11.5355C1.95266 11.145 1.95266 10.5119 2.34319 10.1213L10.1214 2.34316ZM4.33585 9.54288L3.05029 10.8284L5.17161 12.9498L12.9498 5.17158L10.8285 3.05026L9.54295 4.33578L10.7072 5.5L10.0001 6.20711L8.83585 5.04288L8.04295 5.83578L9.20718 7L8.50007 7.70711L7.33585 6.54288L6.54295 7.33578L7.70718 8.5L7.00007 9.20711L5.83585 8.04288L5.04295 8.83578L6.20718 10L5.50007 10.7071L4.33585 9.54288Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "compiling",
@@ -6390,7 +6390,7 @@
                 "category": "Data",
                 "title": "RadarChart",
                 "fileName": "RadarChartFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.125 6.95338L8.49991 4.76584V1.27136L14.5111 6.10683L11.125 6.95338Z\" fill=\"black\"/>\n<path d=\"M14.8269 7.05866L11.3221 7.93487L10.083 10L12.6111 14.2135L14.8269 7.05866Z\" fill=\"black\"/>\n<path d=\"M11.9168 15L9.29571 10.6315L6.32546 11.9045L4.11437 15H11.9168Z\" fill=\"black\"/>\n<path d=\"M3.40504 14.2726L5.43821 11.4262L4.12023 7.91155L1.1582 7.08271L3.40504 14.2726Z\" fill=\"black\"/>\n<path d=\"M1.24186 6.06773L4.40547 6.95303L7.49991 4.74272V1.25385L1.24186 6.06773Z\" fill=\"black\"/>\n<path d=\"M6.28422 10.8342L5.10283 7.68382L7.97639 5.63128L10.3508 7.60999L9.15435 9.60414L6.28422 10.8342Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.125 6.95335L8.49991 4.76581V1.27133L14.5111 6.1068L11.125 6.95335Z\" fill=\"black\"/>\n<path d=\"M14.8269 7.05863L11.3221 7.93484L10.083 10L12.6111 14.2135L14.8269 7.05863Z\" fill=\"black\"/>\n<path d=\"M11.9168 15L9.29571 10.6315L6.32546 11.9045L4.11437 15H11.9168Z\" fill=\"black\"/>\n<path d=\"M3.40504 14.2726L5.43821 11.4261L4.12023 7.91152L1.1582 7.08268L3.40504 14.2726Z\" fill=\"black\"/>\n<path d=\"M1.24186 6.0677L4.40547 6.953L7.49991 4.74269V1.25381L1.24186 6.0677Z\" fill=\"black\"/>\n<path d=\"M6.28422 10.8342L5.10283 7.68379L7.97639 5.63125L10.3508 7.60996L9.15435 9.60411L6.28422 10.8342Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "data-screen",
@@ -6645,7 +6645,7 @@
                 "category": "Common",
                 "title": "Bbq",
                 "fileName": "BbqFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.6112 2.15596C11.504 1.2632 12.9514 1.2632 13.8442 2.15596C14.737 3.04872 14.737 4.49616 13.8442 5.38892C13.06 6.17308 11.8479 6.26847 10.9596 5.67507V8.2348C10.9596 8.51094 10.7358 8.7348 10.4596 8.7348H7.96211L8.79248 9.56517C8.98774 9.76043 8.98774 10.077 8.79248 10.2723L6.68953 12.3752C6.59576 12.469 6.46859 12.5217 6.33598 12.5217C6.20337 12.5217 6.07619 12.469 5.98242 12.3752L5.15726 11.5501L2.5572 14.1501L1.8501 13.443L4.45016 10.843L3.62496 10.0178C3.4297 9.8225 3.4297 9.50591 3.62496 9.31065L5.72791 7.20771C5.92317 7.01244 6.23975 7.01244 6.43501 7.20771L7.26539 8.03808V5.54055C7.26539 5.26441 7.48925 5.04055 7.76539 5.04055H10.3251C9.73168 4.15227 9.82706 2.94013 10.6112 2.15596Z\" fill=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.6112 2.15593C11.504 1.26317 12.9514 1.26317 13.8442 2.15593C14.737 3.04868 14.737 4.49613 13.8442 5.38889C13.06 6.17305 11.8479 6.26844 10.9596 5.67504V8.23477C10.9596 8.51091 10.7358 8.73477 10.4596 8.73477H7.96211L8.79248 9.56514C8.98774 9.7604 8.98774 10.077 8.79248 10.2722L6.68953 12.3752C6.59576 12.469 6.46859 12.5216 6.33598 12.5216C6.20337 12.5216 6.07619 12.469 5.98242 12.3752L5.15726 11.55L2.5572 14.1501L1.8501 13.443L4.45016 10.8429L3.62496 10.0177C3.4297 9.82247 3.4297 9.50588 3.62496 9.31062L5.72791 7.20767C5.92317 7.01241 6.23975 7.01241 6.43501 7.20767L7.26539 8.03805V5.54052C7.26539 5.26438 7.48925 5.04052 7.76539 5.04052H10.3251C9.73168 4.15224 9.82706 2.9401 10.6112 2.15593Z\" fill=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "camera",
@@ -7788,7 +7788,7 @@
                 "category": "Retail",
                 "title": "ToggleWarehouseX",
                 "fileName": "ToggleWarehouseXFilledIcon",
-                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M4.5 12.5L2.5 10.5M4.5 12.5L6.5 10.5M8 9.5L10 7.5M10 7.5L12 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
+                "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M6.5 10.5L4.5 12.5L2.5 10.5M12 9.5L10 7.5L8 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
               },
               {
                 "name": "toggle-warehouse-y",
@@ -8161,7 +8161,7 @@
         "category": "Navigation",
         "title": "ArrowDownRight",
         "fileName": "ArrowDownRightIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5L11.5 11.5M11.5 11.5H6.5M11.5 11.5V6.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.5 4.5L11.5 11.5M11.5 6.5V11.5H6.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "arrow-down-right",
@@ -8409,7 +8409,7 @@
         "category": "Navigation",
         "title": "DoubleArrowLeft",
         "fileName": "DoubleArrowLeftFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.20718 8.00004L8.35363 4.85359L7.64652 4.14648L3.79297 8.00004L7.64652 11.8536L8.35363 11.1465L5.20718 8.00004ZM8.20718 8.00004L11.3536 4.85359L10.6465 4.14648L6.79297 8.00004L10.6465 11.8536L11.3536 11.1465L8.20718 8.00004Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5.20718 8.00001L8.35363 4.85356L7.64652 4.14645L3.79297 8.00001L7.64652 11.8536L8.35363 11.1465L5.20718 8.00001ZM8.20718 8.00001L11.3536 4.85356L10.6465 4.14645L6.79297 8.00001L10.6465 11.8536L11.3536 11.1465L8.20718 8.00001Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "double-arrow-right",
@@ -8425,7 +8425,7 @@
         "category": "Navigation",
         "title": "DoubleArrowRight",
         "fileName": "DoubleArrowRightFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.29293 8.00004L4.14648 4.85359L4.85359 4.14648L8.70714 8.00004L4.85359 11.8536L4.14648 11.1465L7.29293 8.00004ZM10.2929 8.00004L7.14648 4.85359L7.85359 4.14648L11.7071 8.00004L7.85359 11.8536L7.14648 11.1465L10.2929 8.00004Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.29293 8.00001L4.14648 4.85356L4.85359 4.14645L8.70714 8.00001L4.85359 11.8536L4.14648 11.1465L7.29293 8.00001ZM10.2929 8.00001L7.14648 4.85356L7.85359 4.14645L11.7071 8.00001L7.85359 11.8536L7.14648 11.1465L10.2929 8.00001Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "arrow-up",
@@ -8433,7 +8433,7 @@
         "category": "Navigation",
         "title": "ArrowUp",
         "fileName": "ArrowUpIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12.9786L7.97852 2.97858M11.4785 6.22858L7.97851 2.72858L4.47852 6.22858\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12.9785L7.97852 2.97855M11.4785 6.22855L7.97851 2.72855L4.47852 6.22855\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "arrow-up",
@@ -8441,7 +8441,7 @@
         "category": "Navigation",
         "title": "ArrowUp",
         "fileName": "ArrowUpFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.97855 2.02142L11.8321 5.87498L11.125 6.58208L8.47855 3.93564L8.47855 12.9785H7.47855L7.47855 3.93564L4.83211 6.58208L4.125 5.87498L7.97855 2.02142Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.97855 2.02145L11.8321 5.87501L11.125 6.58211L8.47855 3.93567L8.47855 12.9786H7.47855L7.47855 3.93567L4.83211 6.58211L4.125 5.87501L7.97855 2.02145Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "circle-arrow-up",
@@ -8449,7 +8449,7 @@
         "category": "Navigation",
         "title": "CircleArrowUp",
         "fileName": "CircleArrowUpIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12L7.97852 4.5M7.97852 4.5L11 7.5M7.97852 4.5L5.00001 7.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 12L7.97852 4.5M5.00001 7.5L7.97852 4.5L11 7.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "circle-arrow-up",
@@ -8465,7 +8465,7 @@
         "category": "Navigation",
         "title": "CircleArrowDown",
         "fileName": "CircleArrowDownIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00001 4L8.00001 11.5M8.00001 11.5L11 8.5M8.00001 11.5L5.00001 8.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00001 4L8.00001 11.5M5.00001 8.5L8.00001 11.5L11 8.5M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "circle-arrow-down",
@@ -8481,7 +8481,7 @@
         "category": "Navigation",
         "title": "ArrowDown",
         "fileName": "ArrowDownIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 3.02148L7.97852 13.0215M11.4785 9.77148L7.97851 13.2715L4.47852 9.77148\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.97852 3.02145L7.97852 13.0215M11.4785 9.77145L7.97851 13.2715L4.47852 9.77145\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "arrow-down",
@@ -8489,7 +8489,7 @@
         "category": "Navigation",
         "title": "ArrowDown",
         "fileName": "ArrowDownFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.47855 12.0644L7.47855 3.02148H8.47855L8.47855 12.0644L11.125 9.41793L11.8321 10.125L7.97855 13.9786L4.125 10.125L4.83211 9.41793L7.47855 12.0644Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.47855 12.0643L7.47855 3.02145H8.47855L8.47855 12.0643L11.125 9.4179L11.8321 10.125L7.97855 13.9786L4.125 10.125L4.83211 9.4179L7.47855 12.0643Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "arrow-left",
@@ -8513,7 +8513,7 @@
         "category": "Navigation",
         "title": "CircleArrowLeft",
         "fileName": "CircleArrowLeftIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0001 8.00001L4.50006 8.00001M4.50006 8.00001L7.50006 11M4.50006 8.00001L7.50006 5.00001M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0001 8.00001L4.50006 8.00001M7.50006 5.00001L4.50006 8.00001L7.50006 11M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "circle-arrow-left",
@@ -8593,7 +8593,7 @@
         "category": "Navigation",
         "title": "CircleArrowRight",
         "fileName": "CircleArrowRightIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8.00001H11.5M11.5 8.00001L8.5 11M11.5 8.00001L8.5 5.00001M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8.00001H11.5M8.5 5.00001L11.5 8.00001L8.5 11M14.5 8C14.5 11.5899 11.5899 14.5 8 14.5C4.41015 14.5 1.5 11.5899 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5899 1.5 14.5 4.41015 14.5 8Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "circle-arrow-right",
@@ -8673,7 +8673,7 @@
         "category": "Navigation",
         "title": "OpenNew",
         "fileName": "OpenNewIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 10.5V4.5M11.5 4.5H5.5M11.5 4.5L4.5 11.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 4.5H11.5V10.5M11.5 4.5L4.5 11.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "open-new",
@@ -9017,7 +9017,7 @@
         "category": "Notice",
         "title": "Star",
         "fileName": "StarFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.99989 1.91016L10.0354 5.85251L13.9734 6.69754L11.2638 9.56607L11.563 13.896L7.99989 11.8672L4.43678 13.896L4.73598 9.56607L2.02637 6.69754L5.96441 5.85251L7.99989 1.91016Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7.99989 1.91013L10.0354 5.85248L13.9734 6.69751L11.2638 9.56604L11.563 13.896L7.99989 11.8672L4.43678 13.896L4.73598 9.56604L2.02637 6.69751L5.96441 5.85248L7.99989 1.91013Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "circle-help",
@@ -9121,7 +9121,7 @@
         "category": "Develop",
         "title": "GitPull",
         "fileName": "GitPullIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 10.5V5M4 10.5C3.17157 10.5 2.5 11.1716 2.5 12C2.5 12.8284 3.17157 13.5 4 13.5C4.82843 13.5 5.5 12.8284 5.5 12C5.5 11.1716 4.82843 10.5 4 10.5ZM4 5C4.82843 5 5.5 4.32843 5.5 3.5C5.5 2.67157 4.82843 2 4 2C3.17157 2 2.5 2.67157 2.5 3.5C2.5 4.32843 3.17157 5 4 5ZM12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM8.5 2.5V5.5M8.5 2.5H11.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 10.5V5M4 10.5C3.17157 10.5 2.5 11.1716 2.5 12C2.5 12.8284 3.17157 13.5 4 13.5C4.82843 13.5 5.5 12.8284 5.5 12C5.5 11.1716 4.82843 10.5 4 10.5ZM4 5C4.82843 5 5.5 4.32843 5.5 3.5C5.5 2.67157 4.82843 2 4 2C3.17157 2 2.5 2.67157 2.5 3.5C2.5 4.32843 3.17157 5 4 5ZM12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM11.5 2.5H8.5V5.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "git-pull",
@@ -9137,7 +9137,7 @@
         "category": "Develop",
         "title": "GitDiff",
         "fileName": "GitDiffIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM8.5 2.5V5.5M8.5 2.5H11.5M4 5.5V7.43934C4 8.77694 4.43384 10.0785 5.2364 11.1485C5.41191 11.3825 5.60381 11.6038 5.81066 11.8107L7.5 13.5M4 5.5C4.82843 5.5 5.5 4.82843 5.5 4C5.5 3.17157 4.82843 2.5 4 2.5C3.17157 2.5 2.5 3.17157 2.5 4C2.5 4.82843 3.17157 5.5 4 5.5ZM7.5 13.5V10.5M7.5 13.5H4.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 10.5V8.56066C12 7.22306 11.5662 5.92155 10.7636 4.85147C10.5881 4.61745 10.3962 4.39619 10.1893 4.18934L8.5 2.5M12 10.5C11.1716 10.5 10.5 11.1716 10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12C13.5 11.1716 12.8284 10.5 12 10.5ZM11.5 2.5H8.5V5.5M4 5.5V7.43934C4 8.77694 4.43384 10.0785 5.2364 11.1485C5.41191 11.3825 5.60381 11.6038 5.81066 11.8107L7.5 13.5M4 5.5C4.82843 5.5 5.5 4.82843 5.5 4C5.5 3.17157 4.82843 2.5 4 2.5C3.17157 2.5 2.5 3.17157 2.5 4C2.5 4.82843 3.17157 5.5 4 5.5ZM4.5 13.5H7.5V10.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "git-diff",
@@ -9313,7 +9313,7 @@
         "category": "AI",
         "title": "AiEdit",
         "fileName": "AiEditIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.929 9.57079L8.99977 12.5L6.83311 13.2222L7.55533 11.0556L10.5501 8.06076M11.929 9.57079L13.3331 8.16668L11.8887 6.72224L10.5501 8.06076M11.929 9.57079L10.5501 8.06076M6.08317 8.72728L6.95817 6.81819L8.99984 6.00001L6.95817 5.18183L6.08317 3.27274L5.20817 5.18183L3.1665 6.00001L5.20817 6.81819L6.08317 8.72728Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.5501 8.06076L11.8887 6.72224L13.3331 8.16668L11.929 9.57079L8.99977 12.5L6.83311 13.2222L7.55533 11.0556L10.5501 8.06076ZM11.929 9.57079L10.5501 8.06076M6.08317 8.72728L6.95817 6.81819L8.99984 6.00001L6.95817 5.18183L6.08317 3.27274L5.20817 5.18183L3.1665 6.00001L5.20817 6.81819L6.08317 8.72728Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "ai-edit",
@@ -9425,7 +9425,7 @@
         "category": "AI",
         "title": "AiWord",
         "fileName": "AiWordIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 14L3.28947 11M3.28947 11L5 4.5H6.5L7.86842 11M3.28947 11H7.86842M7.86842 11L8.5 14M11.5 10V14M11.5 7.5L12.25 5.75L14 5L12.25 4.25L11.5 2.5L10.75 4.25L9 5L10.75 5.75L11.5 7.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 14L3.28947 11M8.5 14L7.86842 11L6.5 4.5H5L3.28947 11M3.28947 11H7.86842M11.5 10V14M11.5 7.5L12.25 5.75L14 5L12.25 4.25L11.5 2.5L10.75 4.25L9 5L10.75 5.75L11.5 7.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "ai-word",
@@ -10113,7 +10113,7 @@
         "category": "Action",
         "title": "SaveAs",
         "fileName": "SaveAsIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 9.5H9.5M9.5 9.5L7.5 11.5M9.5 9.5L7.5 7.5M5.5 2.5V5.5H10.5V2.5M2.5 13.5H13.5V4.5L11.5 2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 9.5H9.5M7.5 7.5L9.5 9.5L7.5 11.5M5.5 2.5V5.5H10.5V2.5M2.5 13.5H13.5V4.5L11.5 2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "save-as",
@@ -10257,7 +10257,7 @@
         "category": "Action",
         "title": "InfuseOne",
         "fileName": "InfuseOneIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 1.5H3.5V14.5H9.5M9 1.5L12.5 5M9 1.5V5H12.5M12.5 5V7.5M14.5 11.5H9M9 11.5L11 9.5M9 11.5L11 13.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 7.5V5L9 1.5H3.5V14.5H9.5M9 1.5V5H12.5M14.5 11.5H9M11 13.5L9 11.5L11 9.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "infuse-one",
@@ -10449,7 +10449,7 @@
         "category": "Action",
         "title": "InfuseTwo",
         "fileName": "InfuseTwoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 3L6.5 9.5M6.5 9.5V5M6.5 9.5H11M13.5504 9.52882V13.5255H2.50098V9.52882\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 3L6.5 9.5M11 9.5H6.5V5M13.5504 9.52882V13.5255H2.50098V9.52882\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "infuse-two",
@@ -10457,7 +10457,7 @@
         "category": "Action",
         "title": "InfuseTwo",
         "fileName": "InfuseTwoFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 8.29293L12.6464 2.64648L13.3536 3.35359L7.70711 9.00004H11V10H6.5C6.22386 10 6 9.77618 6 9.50004V5.00004H7V8.29293ZM3.00098 13.0256V9.52885H2.00098V13.5256C2.00098 13.8017 2.22483 14.0256 2.50098 14.0256H13.5504C13.8265 14.0256 14.0504 13.8017 14.0504 13.5256V9.52885H13.0504V13.0256H3.00098Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M7 8.29287L12.6464 2.64642L13.3536 3.35353L7.70711 8.99998H11V9.99998H6.5C6.22386 9.99998 6 9.77612 6 9.49998V4.99998H7V8.29287ZM3.00098 13.0255V9.52879H2.00098V13.5255C2.00098 13.8016 2.22483 14.0255 2.50098 14.0255H13.5504C13.8265 14.0255 14.0504 13.8016 14.0504 13.5255V9.52879H13.0504V13.0255H3.00098Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "switch",
@@ -10473,7 +10473,7 @@
         "category": "Action",
         "title": "Switch",
         "fileName": "SwitchFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.32925 2.62366L14.3307 6.99995H2V5.99995H11.6693L8.67075 3.37623L9.32925 2.62366ZM1.5 8.99995H14V9.99995H4.5L7.3 12.0999L6.7 12.8999L1.5 8.99995Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9.32925 2.62372L14.3307 7.00001H2V6.00001H11.6693L8.67075 3.37629L9.32925 2.62372ZM1.5 9.00001H14V10H4.5L7.3 12.1L6.7 12.9L1.5 9.00001Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "to-top",
@@ -10481,7 +10481,7 @@
         "category": "Action",
         "title": "ToTop",
         "fileName": "ToTopIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 12.9999H14M2 13.9999H14M7.97856 13.957L7.97856 2.95703M11.5 6.22849L7.97856 2.70703L4.45708 6.22849\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13H14M2 14H14M7.97856 13.9571L7.97856 2.95709M11.5 6.22856L7.97856 2.70709L4.45708 6.22856\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "to-top",
@@ -10673,7 +10673,7 @@
         "category": "Action",
         "title": "QuoteTwo",
         "fileName": "QuoteTwoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3V8.5H12.5M12.5 8.5L9 5.5M12.5 8.5L9 11.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 3V8.5H12.5M9 11.5L12.5 8.5L9 5.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "quote-two",
@@ -10785,7 +10785,7 @@
         "category": "Action",
         "title": "If",
         "fileName": "IfIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14V7.5M8 7.5L7.73395 7.16744C6.5835 5.72937 5.23993 4.45709 3.74134 3.38667L2.5 2.5M8 7.5L8.26605 7.16744C9.4165 5.72937 10.7601 4.45709 12.2587 3.38667L13.5 2.5M13.5 2.5H10.5M13.5 2.5V5.5M2.5 2.5H5.5M2.5 2.5V5.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14V7.5M8 7.5L7.73395 7.16744C6.5835 5.72937 5.23993 4.45709 3.74134 3.38667L2.5 2.5M8 7.5L8.26605 7.16744C9.4165 5.72937 10.7601 4.45709 12.2587 3.38667L13.5 2.5M13.5 5.5V2.5H10.5M2.5 5.5V2.5H5.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "if",
@@ -10817,7 +10817,7 @@
         "category": "Action",
         "title": "ArchiveBoxTwo",
         "fileName": "ArchiveBoxTwoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 7.5V13.5H2.5V7.5M13.5 7.5L11.5 2.5H4.5L2.5 7.5M13.5 7.5H10.5L9.5 9.5H6.5L5.5 7.5H2.5M6.5 11.5H9.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 7.5L4.5 2.5H11.5L13.5 7.5V13.5H2.5V7.5ZM13.5 7.5H10.5L9.5 9.5H6.5L5.5 7.5H2.5M6.5 11.5H9.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "archive-box-two",
@@ -10833,7 +10833,7 @@
         "category": "Action",
         "title": "ArchiveArrowDown",
         "fileName": "ArchiveArrowDownIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 11V7.5M8 7.5L6 9M8 7.5L10 9\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 11V7.5M10 9L8 7.5L6 9\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "archive-arrow-down",
@@ -10865,7 +10865,7 @@
         "category": "Action",
         "title": "ArchiveArrowUp",
         "fileName": "ArchiveArrowUpIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M8 10.5L6 9M8 10.5L10 9M8 10.5V7\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5.5H13.5V3.5H2.5V5.5H3.5M12.5 5.5H3.5M12.5 5.5L12 12.5H4L3.5 5.5M10 9L8 10.5L6 9M8 10.5V7\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "archive-arrow-up",
@@ -11073,7 +11073,7 @@
         "category": "Control",
         "title": "NodeExpand",
         "fileName": "NodeExpandIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8.5H8.00001M8.00001 8.5H14M8.00001 8.5V13.5M8.00001 13.5L6.00001 11.5M8.00001 13.5L10 11.5M2.50001 5.5V2.5H13.5V5.5H2.50001Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8.5H8.00001M8.00001 8.5H14M8.00001 8.5V13.5M10 11.5L8.00001 13.5L6.00001 11.5M2.50001 5.5V2.5H13.5V5.5H2.50001Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "node-expand",
@@ -11089,7 +11089,7 @@
         "category": "Control",
         "title": "ListExpand",
         "fileName": "ListExpandIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 13.5V5M11.5 13.5L9 11M11.5 13.5L14 11\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 13.5V5M14 11L11.5 13.5L9 11\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "list-expand",
@@ -11105,7 +11105,7 @@
         "category": "Control",
         "title": "ListCollapse",
         "fileName": "ListCollapseIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 5V14M11.5 5L9 7.5M11.5 5L14 7.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 13.5H8M2 8H8M2 2.5H14M11.5 5V14M14 7.5L11.5 5L9 7.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "list-collapse",
@@ -11121,7 +11121,7 @@
         "category": "Control",
         "title": "CardExpand",
         "fileName": "CardExpandIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 2.5L11.5 14.0001M11.5 2.5L8.99999 5M11.5 2.5L14 5M2.5 13.5001V2.50006H7.5V13.5001H2.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 2.5L11.5 14.0001M14 5L11.5 2.5L8.99999 5M2.5 13.5001V2.50006H7.5V13.5001H2.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "card-expand",
@@ -11137,7 +11137,7 @@
         "category": "Control",
         "title": "CardCollapse",
         "fileName": "CardCollapseIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 14V2M11.5 14L9 11.5M11.5 14L14 11.5M2.5 13.4999V2.49994H7.5V13.4999H2.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 14V2M14 11.5L11.5 14L9 11.5M2.5 13.4999V2.49994H7.5V13.4999H2.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "card-collapse",
@@ -11185,7 +11185,7 @@
         "category": "Control",
         "title": "View3d",
         "fileName": "View3dIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4L3.5 6.5M8 4L12.5 6.5M8 4V1.5M3.5 6.5V10.5M3.5 6.5L8 8.5M3.5 10.5L8 13M3.5 10.5L1 12.5M8 13L12.5 10.5M8 13V8.5M12.5 10.5V6.5M12.5 10.5L15 12.5M12.5 6.5L8 8.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 10.5V6.5L8 4M12.5 10.5V6.5L8 4M8 4V1.5M3.5 6.5L8 8.5M12.5 10.5L8 13L3.5 10.5M3.5 10.5L1 12.5M8 13V8.5M12.5 10.5L15 12.5M12.5 6.5L8 8.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "view-3d",
@@ -11201,7 +11201,7 @@
         "category": "Control",
         "title": "View3dImage",
         "fileName": "View3dImageIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 12.5L1.01191 12.3915L0.853274 13.1054L1.57603 12.9942L1.5 12.5ZM6.17531 11.7807L6.25134 12.2749V12.2749L6.17531 11.7807ZM9.82469 11.7807L9.90071 11.2865V11.2865L9.82469 11.7807ZM14.5 12.5L14.424 12.9942L15.1467 13.1054L14.9881 12.3915L14.5 12.5ZM14.0785 10.6032L14.5666 10.4947V10.4947L14.0785 10.6032ZM14.0785 5.39683L14.5666 5.5053V5.5053L14.0785 5.39683ZM14.5 3.5L14.9881 3.60847L15.1467 2.89462L14.424 3.00581L14.5 3.5ZM9.82469 4.21928L9.90071 4.71347V4.71347L9.82469 4.21928ZM6.17531 4.21928L6.09928 4.71346H6.09929L6.17531 4.21928ZM1.5 3.5L1.57603 3.00581L0.853274 2.89462L1.01191 3.60847L1.5 3.5ZM1.92152 5.39683L2.40961 5.28837L1.92152 5.39683ZM1.92152 10.6032L2.40961 10.7116L1.92152 10.6032ZM11 6.50001V6.00001C10.7239 6.00001 10.5 6.22387 10.5 6.50001H11ZM11.01 6.50001H11.51C11.51 6.22387 11.2861 6.00001 11.01 6.00001V6.50001ZM11.01 6.51001V7.01001C11.2861 7.01001 11.51 6.78615 11.51 6.51001H11.01ZM11 6.51001H10.5C10.5 6.78615 10.7239 7.01001 11 7.01001V6.51001ZM5 8.5L5.22361 8.05279L4.96408 7.92302L4.72265 8.08397L5 8.5ZM8 10L7.77639 10.4472L7.98107 10.5496L8.19231 10.4615L8 10ZM1.5 12.5L1.57603 12.9942L6.25134 12.2749L6.17531 11.7807L6.09929 11.2865L1.42397 12.0058L1.5 12.5ZM9.82469 11.7807L9.74866 12.2749L14.424 12.9942L14.5 12.5L14.576 12.0058L9.90071 11.2865L9.82469 11.7807ZM14.5 12.5L14.9881 12.3915L14.5666 10.4947L14.0785 10.6032L13.5904 10.7116L14.0119 12.6085L14.5 12.5ZM14.0785 5.39683L14.5666 5.5053L14.9881 3.60847L14.5 3.5L14.0119 3.39153L13.5904 5.28837L14.0785 5.39683ZM14.5 3.5L14.424 3.00581L9.74866 3.72509L9.82469 4.21928L9.90071 4.71347L14.576 3.99419L14.5 3.5ZM6.17531 4.21928L6.25134 3.72509L1.57603 3.00581L1.5 3.5L1.42397 3.99419L6.09928 4.71346L6.17531 4.21928ZM1.5 3.5L1.01191 3.60847L1.43343 5.5053L1.92152 5.39683L2.40961 5.28837L1.98809 3.39153L1.5 3.5ZM1.92152 10.6032L1.43343 10.4947L1.01191 12.3915L1.5 12.5L1.98809 12.6085L2.40961 10.7116L1.92152 10.6032ZM1.92152 5.39683L1.43343 5.5053C1.79856 7.14839 1.79856 8.85161 1.43343 10.4947L1.92152 10.6032L2.40961 10.7116C2.80649 8.92566 2.80649 7.07434 2.40961 5.28837L1.92152 5.39683ZM9.82469 4.21928L9.74866 3.72509C8.5897 3.90339 7.4103 3.90339 6.25134 3.72509L6.17531 4.21928L6.09929 4.71346C7.35902 4.90727 8.64098 4.90727 9.90071 4.71347L9.82469 4.21928ZM14.0785 10.6032L14.5666 10.4947C14.2014 8.85161 14.2014 7.14839 14.5666 5.5053L14.0785 5.39683L13.5904 5.28837C13.1935 7.07434 13.1935 8.92566 13.5904 10.7116L14.0785 10.6032ZM6.17531 11.7807L6.25134 12.2749C7.4103 12.0966 8.5897 12.0966 9.74866 12.2749L9.82469 11.7807L9.90071 11.2865C8.64098 11.0927 7.35902 11.0927 6.09929 11.2865L6.17531 11.7807ZM11 6.50001V7.00001H11.01V6.50001V6.00001H11V6.50001ZM11.01 6.50001H10.51V6.51001H11.01H11.51V6.50001H11.01ZM11.01 6.51001V6.01001H11V6.51001V7.01001H11.01V6.51001ZM11 6.51001H11.5V6.50001H11H10.5V6.51001H11ZM11.5 6.50001H11V7.00001V7.50001C11.5523 7.50001 12 7.05229 12 6.50001H11.5ZM11 7.00001V6.50001H10.5H10C10 7.05229 10.4477 7.50001 11 7.50001V7.00001ZM10.5 6.50001H11V6.00001V5.50001C10.4477 5.50001 10 5.94772 10 6.50001H10.5ZM11 6.00001V6.50001H11.5H12C12 5.94772 11.5523 5.50001 11 5.50001V6.00001ZM2 10.5L2.27735 10.916L5.27735 8.91603L5 8.5L4.72265 8.08397L1.72265 10.084L2 10.5ZM5 8.5L4.77639 8.94721L7.77639 10.4472L8 10L8.22361 9.55279L5.22361 8.05279L5 8.5ZM8 10L8.19231 10.4615L14.1923 7.96154L14 7.5L13.8077 7.03846L7.80769 9.53846L8 10Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 10.5L5 8.5L8 10L14 7.5M1.5 12.5L6.17531 11.7807C7.38466 11.5947 8.61534 11.5947 9.82469 11.7807L14.5 12.5L14.0785 10.6032C13.6975 8.88863 13.6975 7.11137 14.0785 5.39683L14.5 3.5L9.82469 4.21928C8.61534 4.40533 7.38466 4.40533 6.17531 4.21928L1.5 3.5L1.92152 5.39683C2.30253 7.11137 2.30253 8.88863 1.92152 10.6032L1.5 12.5ZM11 6.50001H11.01V6.51001H11V6.50001ZM11.5 6.50001C11.5 6.77615 11.2762 7.00001 11 7.00001C10.7239 7.00001 10.5 6.77615 10.5 6.50001C10.5 6.22387 10.7239 6.00001 11 6.00001C11.2762 6.00001 11.5 6.22387 11.5 6.50001Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "view-3d-image",
@@ -11217,7 +11217,7 @@
         "category": "Control",
         "title": "NodeCollapse",
         "fileName": "NodeCollapseIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 7.5H14M8 7.5V2.5M8 2.5L6 4.5M8 2.5L10 4.5M2.5 13.5H13.5V10.5H2.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 7.5H14M8 7.5V2.5M10 4.5L8 2.5L6 4.5M2.5 13.5H13.5V10.5H2.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "node-collapse",
@@ -11313,7 +11313,7 @@
         "category": "Control",
         "title": "Move",
         "fileName": "MoveIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8H14M2 8L3.875 6.125M2 8L3.875 9.875M14 8L12.125 9.875M14 8L12.125 6.125M8 2V14M8 2L9.875 3.875M8 2L6.125 3.875M8 14L6.125 12.125M8 14L9.875 12.125\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 8H14M3.875 9.875L2 8L3.875 6.125M12.125 6.125L14 8L12.125 9.875M8 2V14M6.125 3.875L8 2L9.875 3.875M9.875 12.125L8 14L6.125 12.125\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "move",
@@ -11361,7 +11361,7 @@
         "category": "Control",
         "title": "SurfaceFront",
         "fileName": "SurfaceFrontIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5L11.5 2.5H4.5L2.5 5M13.5 5H2.5M13.5 5V6M2.5 5V6M13.5 7V6M13.5 7H2.5M13.5 7V8M2.5 6H13.5M2.5 6V7M2.5 7V8M2.5 8H13.5M2.5 8V9M13.5 8V9M13.5 9H2.5M13.5 9V10M2.5 9V10M2.5 10H13.5M2.5 10V11M13.5 10V11M13.5 11H2.5M13.5 11V11.5M2.5 11V11.5M2.5 11.5H13.5M2.5 11.5V12.5M13.5 11.5V12.5M13.5 12.5V13.5H2.5V12.5M13.5 12.5H2.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 6V5L11.5 2.5H4.5L2.5 5V6M13.5 5H2.5M13.5 7V6M13.5 7H2.5M13.5 7V8M2.5 6H13.5M2.5 6V7M2.5 7V8M2.5 8H13.5M2.5 8V9M13.5 8V9M13.5 9H2.5M13.5 9V10M2.5 9V10M2.5 10H13.5M2.5 10V11M13.5 10V11M13.5 11H2.5M13.5 11V11.5M2.5 11V11.5M2.5 11.5H13.5M2.5 11.5V12.5M13.5 11.5V12.5M13.5 12.5V13.5H2.5V12.5M13.5 12.5H2.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "surface-front",
@@ -11377,7 +11377,7 @@
         "category": "Control",
         "title": "SurfaceTop",
         "fileName": "SurfaceTopIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5V11.5L8 14.5M1.5 4.5L8 1.5L8.5 1.73077M1.5 4.5L2.15868 4.80401M8 14.5L14.5 11.5V4.5M8 14.5V7.5M14.5 4.5L8 7.5M14.5 4.5L13.75 4.15385M8 7.5L7.625 7.32692M2.15868 4.80401L8.5 1.73077M2.15868 4.80401L3 5.19231M8.5 1.73077L9.08333 2M9.08333 2L3 5.19231M9.08333 2L9.82075 2.34035M3 5.19231L3.66667 5.5M3.66667 5.5L9.82075 2.34035M3.66667 5.5L4.25164 5.76999M9.82075 2.34035L10.5 2.65385M10.5 2.65385L4.25164 5.76999M10.5 2.65385L11.25 3M4.25164 5.76999L5 6.11538M5 6.11538L11.25 3M5 6.11538L5.83333 6.5M11.25 3L11.6828 3.19974M11.6828 3.19974L5.83333 6.5M11.6828 3.19974L12.3333 3.5M5.83333 6.5L6.5 6.80769M12.3333 3.5L6.5 6.80769M12.3333 3.5L13 3.80769M6.5 6.80769L7.25 7.15385M7.25 7.15385L13 3.80769M7.25 7.15385L7.625 7.32692M13 3.80769L13.75 4.15385M13.75 4.15385L7.625 7.32692\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 1.73077L8 1.5L1.5 4.5V11.5L8 14.5L14.5 11.5V4.5L13.75 4.15385L13 3.80769M1.5 4.5L2.15868 4.80401M8 14.5V7.5M14.5 4.5L8 7.5M8 7.5L7.625 7.32692M2.15868 4.80401L8.5 1.73077M3.66667 5.5L3 5.19231L2.15868 4.80401M9.82075 2.34035L9.08333 2L8.5 1.73077M9.08333 2L3 5.19231M3.66667 5.5L9.82075 2.34035M5 6.11538L4.25164 5.76999L3.66667 5.5M9.82075 2.34035L10.5 2.65385M10.5 2.65385L4.25164 5.76999M12.3333 3.5L11.6828 3.19974L11.25 3L10.5 2.65385M5 6.11538L11.25 3M6.5 6.80769L5.83333 6.5L5 6.11538M11.6828 3.19974L5.83333 6.5M12.3333 3.5L6.5 6.80769M12.3333 3.5L13 3.80769M6.5 6.80769L7.25 7.15385M7.25 7.15385L13 3.80769M7.25 7.15385L7.625 7.32692M13.75 4.15385L7.625 7.32692\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "surface-top",
@@ -11393,7 +11393,7 @@
         "category": "Control",
         "title": "Model",
         "fileName": "ModelIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14.5L14.5 11.5V4.5M8 14.5L1.5 11.5V4.5M8 14.5V7M14.5 4.5L8 1.5L1.5 4.5M14.5 4.5L8 7M1.5 4.5L8 7\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5L8 1.5L14.5 4.5V11.5L8 14.5L1.5 11.5V4.5ZM8 14.5V7M14.5 4.5L8 7M1.5 4.5L8 7\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "model",
@@ -11425,7 +11425,7 @@
         "category": "Control",
         "title": "SurfaceLeft",
         "fileName": "SurfaceLeftIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14.5L1.5 11.5V11M8 14.5L14.5 11.5V4.5M8 14.5V13.5M14.5 4.5L8 1.5L1.5 4.5M14.5 4.5L8 7.5M1.5 4.5L8 7.5M1.5 4.5V5M8 7.5V8M8 8L1.5 5M8 8V8.5M1.5 5V6M1.5 6L8 8.5M1.5 6V6.5M8 8.5V9.5M8 9.5L1.5 6.5M8 9.5V10.5M1.5 6.5V7.5M1.5 7.5L8 10.5M1.5 7.5V8.5M8 10.5V11M8 11L1.5 8.5M8 11V11.5M1.5 8.5V9M1.5 9L8 11.5M1.5 9V10M8 11.5V12M8 12L1.5 10M8 12V12.5M1.5 10V10.5M1.5 10.5L8 12.5M1.5 10.5V11M8 12.5V13.5M8 13.5L1.5 11\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 5V4.5L8 1.5L14.5 4.5V11.5L8 14.5L1.5 11.5V11M8 14.5V13.5M14.5 4.5L8 7.5M1.5 4.5L8 7.5M8 7.5V8M8 8L1.5 5M8 8V8.5M1.5 5V6M1.5 6L8 8.5M1.5 6V6.5M8 8.5V9.5M8 9.5L1.5 6.5M8 9.5V10.5M1.5 6.5V7.5M1.5 7.5L8 10.5M1.5 7.5V8.5M8 10.5V11M8 11L1.5 8.5M8 11V11.5M1.5 8.5V9M1.5 9L8 11.5M1.5 9V10M8 11.5V12M8 12L1.5 10M8 12V12.5M1.5 10V10.5M1.5 10.5L8 12.5M1.5 10.5V11M8 12.5V13.5M8 13.5L1.5 11\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "surface-left",
@@ -11441,7 +11441,7 @@
         "category": "Control",
         "title": "SurfaceRight",
         "fileName": "SurfaceRightIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5L8 1.5L14.5 4.5M1.5 4.5V11.5L8 14.5M1.5 4.5L8 7.5M8 14.5L14.5 11.5V11.125M8 14.5V14M14.5 4.5L8 7.5M14.5 4.5V5M8 7.5V8M8 8L14.5 5M8 8V8.5M14.5 5V5.5M14.5 5.5L8 8.5M14.5 5.5V6M8 8.5V9M8 9L14.5 6M8 9V9.5M14.5 6V6.5M14.5 6.5L8 9.5M14.5 6.5V7M8 9.5V10M8 10L14.5 7M8 10V10.5M14.5 7V7.5M14.5 7.5L8 10.5M14.5 7.5V8M8 10.5V11M8 11L14.5 8M8 11V11.5M14.5 8V8.5M14.5 8.5L8 11.5M14.5 8.5V9M8 11.5V12M8 12L14.5 9M8 12V12.5M14.5 9V9.5M14.5 9.5L8 12.5M14.5 9.5V10M8 12.5V13M8 13L14.5 10M8 13V13.5M14.5 10V10.75M14.5 10.75L8 13.5M14.5 10.75V11.125M8 13.5V14M8 14L14.5 11.125\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 11.125V11.5L8 14.5L1.5 11.5V4.5L8 1.5L14.5 4.5V5M1.5 4.5L8 7.5M8 14.5V14M14.5 4.5L8 7.5M8 7.5V8M8 8L14.5 5M8 8V8.5M14.5 5V5.5M14.5 5.5L8 8.5M14.5 5.5V6M8 8.5V9M8 9L14.5 6M8 9V9.5M14.5 6V6.5M14.5 6.5L8 9.5M14.5 6.5V7M8 9.5V10M8 10L14.5 7M8 10V10.5M14.5 7V7.5M14.5 7.5L8 10.5M14.5 7.5V8M8 10.5V11M8 11L14.5 8M8 11V11.5M14.5 8V8.5M14.5 8.5L8 11.5M14.5 8.5V9M8 11.5V12M8 12L14.5 9M8 12V12.5M14.5 9V9.5M14.5 9.5L8 12.5M14.5 9.5V10M8 12.5V13M8 13L14.5 10M8 13V13.5M14.5 10V10.75M14.5 10.75L8 13.5M14.5 10.75V11.125M8 13.5V14M8 14L14.5 11.125\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "surface-right",
@@ -11553,7 +11553,7 @@
         "category": "Control",
         "title": "BackSquare",
         "fileName": "BackSquareIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.50016 7.5C12.5 7.5 10.5 11.5 8.50016 11.5H5.50016L5.5 7.5M8.50016 7.5H5.5M8.50016 7.5C9.50016 7.5 11.3928 4.5 8.5 4.5H5.5V7.5M2.5 13.5H13.5V2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 7.5V4.5H8.5C11.3928 4.5 9.50016 7.5 8.50016 7.5C12.5 7.5 10.5 11.5 8.50016 11.5H5.50016L5.5 7.5ZM8.50016 7.5H5.5M2.5 13.5H13.5V2.5H2.5V13.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "back-square",
@@ -11633,7 +11633,7 @@
         "category": "Control",
         "title": "AdjustHight",
         "fileName": "AdjustHightIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 1.5L3 1.5M13 14.5H3M8 7V3M8 3L10 5M8 3L6 5M8 13V9M8 13L6 11M8 13L10 11\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 1.5L3 1.5M13 14.5H3M8 7V3M6 5L8 3L10 5M8 13V9M10 11L8 13L6 11\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "adjust-hight",
@@ -11649,7 +11649,7 @@
         "category": "Control",
         "title": "HightLessen",
         "fileName": "HightLessenIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 7.00002L3 7.00002M13 9.00002L3.00003 9.00002M8.00002 5.50003V1.70709M8.00002 1.70709L10 3.70712M8.00002 1.70709L6.00002 3.70712M7.99999 14V10.5M10.0001 12.5L8.00005 14.5L6.00005 12.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 7.00002L3 7.00002M13 9.00002L3.00003 9.00002M8.00002 5.50003V1.70709M6.00002 3.70712L8.00002 1.70709L10 3.70712M7.99999 14V10.5M10.0001 12.5L8.00005 14.5L6.00005 12.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "hight-lessen",
@@ -11665,7 +11665,7 @@
         "category": "Control",
         "title": "AdjustWidth",
         "fileName": "AdjustWidthIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3V13M14.5 3V13M7 8H3M3 8L5 6M3 8L5 10M13 8H9M13 8L11 10M13 8L11 6\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3V13M14.5 3V13M7 8H3M5 10L3 8L5 6M13 8H9M11 6L13 8L11 10\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "adjust-width",
@@ -12065,7 +12065,7 @@
         "category": "Control",
         "title": "RotationLeft",
         "fileName": "RotationLeftIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.10001 3.96856H9.5C11.7091 3.96856 13.5 5.75943 13.5 7.96858V8.02925M7.10001 3.96856L8.59998 2.37537M7.10001 3.96856L8.59998 5.56172M2.50003 7.5268H10.5L10.5 13.5276H2.50005L2.50003 7.5268Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.10001 3.96856H9.5C11.7091 3.96856 13.5 5.75943 13.5 7.96858V8.02925M8.59998 5.56172L7.10001 3.96856L8.59998 2.37537M2.50003 7.5268H10.5L10.5 13.5276H2.50005L2.50003 7.5268Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "rotation-left",
@@ -12081,7 +12081,7 @@
         "category": "Control",
         "title": "RotationRight",
         "fileName": "RotationRightIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.90001 3.96855H6.5C4.29086 3.96855 2.5 5.75941 2.5 7.96855V8.02926M8.90001 3.96855L7.40001 2.37537M8.90001 3.96855L7.40001 5.56172M13.5 7.52681H5.5L5.49998 13.5276H13.5L13.5 7.52681Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.90001 3.96855H6.5C4.29086 3.96855 2.5 5.75941 2.5 7.96855V8.02926M7.40001 5.56172L8.90001 3.96855L7.40001 2.37537M13.5 7.52681H5.5L5.49998 13.5276H13.5L13.5 7.52681Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "rotation-right",
@@ -12161,7 +12161,7 @@
         "category": "Control",
         "title": "Clockwise90",
         "fileName": "Clockwise90Icon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 10.5H5.5V8H8.5V10.5ZM8.5 10.5V13.5H5M2.5 10V7.5C2.5 5.29086 4.29086 3.5 6.5 3.5H11M11 3.5L9 1.5M11 3.5L9 5.5M10.5 13.5H13.5V8H10.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.5 10.5H5.5V8H8.5V10.5ZM8.5 10.5V13.5H5M2.5 10V7.5C2.5 5.29086 4.29086 3.5 6.5 3.5H11M9 5.5L11 3.5L9 1.5M10.5 13.5H13.5V8H10.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "clockwise-90",
@@ -12177,7 +12177,7 @@
         "category": "Control",
         "title": "Anticlockwise90",
         "fileName": "Anticlockwise90Icon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 10.5H2.5V8H5.5V10.5ZM5.5 10.5V13.5H2M13.5 10V7.5C13.5 5.29086 11.7091 3.5 9.5 3.5H4M4 3.5L6 5.5M4 3.5L6 1.5M7.5 13.5H10.5V8H7.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 10.5H2.5V8H5.5V10.5ZM5.5 10.5V13.5H2M13.5 10V7.5C13.5 5.29086 11.7091 3.5 9.5 3.5H4M6 1.5L4 3.5L6 5.5M7.5 13.5H10.5V8H7.5V13.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "anticlockwise-90",
@@ -12289,7 +12289,7 @@
         "category": "Control",
         "title": "Exit",
         "fileName": "ExitIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 8H7.5M7.5 8L9.5 6M7.5 8L9.5 10M13.5 11V13.5C9.20423 13.5 2.5 13.5 2.5 13.5V2.5H9H13.5V5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 8H7.5M9.5 10L7.5 8L9.5 6M13.5 11V13.5C9.20423 13.5 2.5 13.5 2.5 13.5V2.5H9H13.5V5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "exit",
@@ -12305,7 +12305,7 @@
         "category": "Control",
         "title": "SignOut",
         "fileName": "SignOutIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 8H13.5M13.5 8L11 5.5M13.5 8L11 10.5M8 13.5C3.70423 13.5 2.5 13.5 2.5 13.5V2.5H8\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 8H13.5M11 10.5L13.5 8L11 5.5M8 13.5C3.70423 13.5 2.5 13.5 2.5 13.5V2.5H8\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "sign-out",
@@ -12433,7 +12433,7 @@
         "category": "Data",
         "title": "Measure",
         "fileName": "MeasureIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.35362 8.85352L5.85362 10.3535M5.85362 7.35352L7.35362 8.85352M8.85362 4.35352L10.3536 5.85352M7.35362 5.85352L8.85362 7.35352M11.182 2.69668L13.3033 4.818C13.4986 5.01326 13.4986 5.32984 13.3033 5.52511L5.52517 13.3033C5.3299 13.4985 5.01332 13.4985 4.81806 13.3033L2.69674 11.182C2.50148 10.9867 2.50148 10.6701 2.69674 10.4749L10.4749 2.69668C10.6702 2.50142 10.9868 2.50142 11.182 2.69668Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.35362 8.85355L5.85362 10.3536M5.85362 7.35355L7.35362 8.85355M8.85362 4.35355L10.3536 5.85355M7.35362 5.85355L8.85362 7.35355M11.182 2.69671L13.3033 4.81803C13.4986 5.01329 13.4986 5.32987 13.3033 5.52514L5.52517 13.3033C5.3299 13.4986 5.01332 13.4986 4.81806 13.3033L2.69674 11.182C2.50148 10.9867 2.50148 10.6701 2.69674 10.4749L10.4749 2.69671C10.6702 2.50145 10.9868 2.50145 11.182 2.69671Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "measure",
@@ -12441,7 +12441,7 @@
         "category": "Data",
         "title": "Measure",
         "fileName": "MeasureFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.1214 2.34313C10.5119 1.9526 11.1451 1.9526 11.5356 2.34313L13.6569 4.46445C14.0474 4.85497 14.0474 5.48813 13.6569 5.87866L5.87872 13.6568C5.4882 14.0474 4.85503 14.0474 4.46451 13.6568L2.34319 11.5355C1.95266 11.145 1.95266 10.5118 2.34319 10.1213L10.1214 2.34313ZM4.33585 9.54285L3.05029 10.8284L5.17161 12.9497L12.9498 5.17155L10.8285 3.05023L9.54295 4.33575L10.7072 5.49997L10.0001 6.20708L8.83585 5.04285L8.04295 5.83575L9.20718 6.99997L8.50007 7.70708L7.33585 6.54285L6.54295 7.33575L7.70718 8.49997L7.00007 9.20708L5.83585 8.04285L5.04295 8.83575L6.20718 9.99997L5.50007 10.7071L4.33585 9.54285Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.1214 2.34316C10.5119 1.95263 11.1451 1.95263 11.5356 2.34316L13.6569 4.46448C14.0474 4.855 14.0474 5.48817 13.6569 5.87869L5.87872 13.6569C5.4882 14.0474 4.85503 14.0474 4.46451 13.6569L2.34319 11.5355C1.95266 11.145 1.95266 10.5119 2.34319 10.1213L10.1214 2.34316ZM4.33585 9.54288L3.05029 10.8284L5.17161 12.9498L12.9498 5.17158L10.8285 3.05026L9.54295 4.33578L10.7072 5.5L10.0001 6.20711L8.83585 5.04288L8.04295 5.83578L9.20718 7L8.50007 7.70711L7.33585 6.54288L6.54295 7.33578L7.70718 8.5L7.00007 9.20711L5.83585 8.04288L5.04295 8.83578L6.20718 10L5.50007 10.7071L4.33585 9.54288Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "compiling",
@@ -12609,7 +12609,7 @@
         "category": "Data",
         "title": "RadarChart",
         "fileName": "RadarChartIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 1.5L1.5 6.5M8 1.5L14.5 6.5M8 1.5V5M1.5 6.5L4 14.5M1.5 6.5L4.5 7.5M4 14.5H12M4 14.5L6 11.5M12 14.5L14.5 6.5M12 14.5L9.5 10M14.5 6.5L11 7.5M11 7.5L9.5 10M11 7.5L8 5M9.5 10L6 11.5M6 11.5L4.5 7.5M4.5 7.5L8 5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 14.5L1.5 6.5L8 1.5L14.5 6.5L12 14.5H4ZM8 1.5V5M1.5 6.5L4.5 7.5M4 14.5L6 11.5M12 14.5L9.5 10M14.5 6.5L11 7.5M11 7.5L9.5 10M11 7.5L8 5M9.5 10L6 11.5M6 11.5L4.5 7.5M4.5 7.5L8 5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "radar-chart",
@@ -12617,7 +12617,7 @@
         "category": "Data",
         "title": "RadarChart",
         "fileName": "RadarChartFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.125 6.95338L8.49991 4.76584V1.27136L14.5111 6.10683L11.125 6.95338Z\" fill=\"black\"/>\n<path d=\"M14.8269 7.05866L11.3221 7.93487L10.083 10L12.6111 14.2135L14.8269 7.05866Z\" fill=\"black\"/>\n<path d=\"M11.9168 15L9.29571 10.6315L6.32546 11.9045L4.11437 15H11.9168Z\" fill=\"black\"/>\n<path d=\"M3.40504 14.2726L5.43821 11.4262L4.12023 7.91155L1.1582 7.08271L3.40504 14.2726Z\" fill=\"black\"/>\n<path d=\"M1.24186 6.06773L4.40547 6.95303L7.49991 4.74272V1.25385L1.24186 6.06773Z\" fill=\"black\"/>\n<path d=\"M6.28422 10.8342L5.10283 7.68382L7.97639 5.63128L10.3508 7.60999L9.15435 9.60414L6.28422 10.8342Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.125 6.95335L8.49991 4.76581V1.27133L14.5111 6.1068L11.125 6.95335Z\" fill=\"black\"/>\n<path d=\"M14.8269 7.05863L11.3221 7.93484L10.083 10L12.6111 14.2135L14.8269 7.05863Z\" fill=\"black\"/>\n<path d=\"M11.9168 15L9.29571 10.6315L6.32546 11.9045L4.11437 15H11.9168Z\" fill=\"black\"/>\n<path d=\"M3.40504 14.2726L5.43821 11.4261L4.12023 7.91152L1.1582 7.08268L3.40504 14.2726Z\" fill=\"black\"/>\n<path d=\"M1.24186 6.0677L4.40547 6.953L7.49991 4.74269V1.25381L1.24186 6.0677Z\" fill=\"black\"/>\n<path d=\"M6.28422 10.8342L5.10283 7.68379L7.97639 5.63125L10.3508 7.60996L9.15435 9.60411L6.28422 10.8342Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "data-screen",
@@ -12657,7 +12657,7 @@
         "category": "Data",
         "title": "Database",
         "fileName": "DatabaseIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 7.5V11.5C3.5 12.6046 5.51472 13.5 8 13.5C10.4853 13.5 12.5 12.6046 12.5 11.5V7.5M3.5 7.5V4M3.5 7.5C3.5 8.60457 5.51472 9.5 8 9.5C10.4853 9.5 12.5 8.60457 12.5 7.5M3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4M3.5 4C3.5 5.10457 5.51472 6 8 6C10.4853 6 12.5 5.10457 12.5 4M12.5 4V7.5M10 11.25H10.005V11.255H10V11.25ZM10.25 11.25C10.25 11.3881 10.1381 11.5 10 11.5C9.86194 11.5 9.75001 11.3881 9.75001 11.25C9.75001 11.1119 9.86194 11 10 11C10.1381 11 10.25 11.1119 10.25 11.25ZM10 7.5H10.005V7.505H10V7.5ZM10.25 7.5C10.25 7.63808 10.1381 7.75 10 7.75C9.86194 7.75 9.75001 7.63808 9.75001 7.5C9.75001 7.36193 9.86194 7.25 10 7.25C10.1381 7.25 10.25 7.36193 10.25 7.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.5 7.5V11.5C3.5 12.6046 5.51472 13.5 8 13.5C10.4853 13.5 12.5 12.6046 12.5 11.5V7.5M3.5 7.5V4M3.5 7.5C3.5 8.60457 5.51472 9.5 8 9.5C10.4853 9.5 12.5 8.60457 12.5 7.5M12.5 4C12.5 5.10457 10.4853 6 8 6C5.51472 6 3.5 5.10457 3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4V7.5M10 11.25H10.005V11.255H10V11.25ZM10.25 11.25C10.25 11.3881 10.1381 11.5 10 11.5C9.86194 11.5 9.75001 11.3881 9.75001 11.25C9.75001 11.1119 9.86194 11 10 11C10.1381 11 10.25 11.1119 10.25 11.25ZM10 7.5H10.005V7.505H10V7.5ZM10.25 7.5C10.25 7.63808 10.1381 7.75 10 7.75C9.86194 7.75 9.75001 7.63808 9.75001 7.5C9.75001 7.36193 9.86194 7.25 10 7.25C10.1381 7.25 10.25 7.36193 10.25 7.5Z\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
       },
       {
         "name": "database",
@@ -12785,7 +12785,7 @@
         "category": "Common",
         "title": "Faq",
         "fileName": "FaqIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 6H3.5V8.5M3.5 10V8.5M3.5 8.5H5.5M9 8.5L8.5 6H7.5L7 8.5M9 8.5V10M9 8.5H7M7 10V8.5M11.5 9.5H12.5V6H11V9.5H11.5ZM11.5 9.5L12.5 11M1.5 12.5V3.5H14.5V12.5H1.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 6H3.5V8.5M3.5 10V8.5M3.5 8.5H5.5M9 10V8.5L8.5 6H7.5L7 8.5V10M9 8.5H7M11.5 9.5H12.5V6H11V9.5H11.5ZM11.5 9.5L12.5 11M1.5 12.5V3.5H14.5V12.5H1.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "faq",
@@ -12929,7 +12929,7 @@
         "category": "Common",
         "title": "PackingBox",
         "fileName": "PackingBoxIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5835 4.50001L8.00016 1.58334L14.4168 4.50001M1.5835 4.50001L8.00016 7.41668M1.5835 4.50001V10.9167L8.00016 14.4167M8.00016 7.41668L14.4168 4.50001M8.00016 7.41668V14.4167M14.4168 4.50001L14.4167 10.9167L8.00016 14.4167M11.0001 3L5.00012 6V13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00016 14.4167L14.4167 10.9167L14.4168 4.50001L8.00016 1.58334L1.5835 4.50001V10.9167L8.00016 14.4167ZM1.5835 4.50001L8.00016 7.41668M8.00016 7.41668L14.4168 4.50001M8.00016 7.41668V14.4167M11.0001 3L5.00012 6V13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "packing-box",
@@ -13105,7 +13105,7 @@
         "category": "Common",
         "title": "Bbq",
         "fileName": "BbqIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.20361 13.7966L4.91323 11.087M10.9647 5.03537C10.2673 4.33787 10.2673 3.20701 10.9647 2.50951C11.6622 1.81202 12.7931 1.81202 13.4906 2.50951C14.1881 3.20701 14.1881 4.33787 13.4906 5.03537C12.7931 5.73286 11.6622 5.73286 10.9647 5.03537ZM10.4596 5.54055V8.2348H7.76535V5.54055H10.4596ZM6.08142 7.56126L8.43889 9.91872L6.33594 12.0217L3.97847 9.66421L6.08142 7.56126Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.20361 13.7965L4.91323 11.0869M10.9647 5.03534C10.2673 4.33784 10.2673 3.20698 10.9647 2.50948C11.6622 1.81198 12.7931 1.81198 13.4906 2.50948C14.1881 3.20698 14.1881 4.33784 13.4906 5.03534C12.7931 5.73283 11.6622 5.73283 10.9647 5.03534ZM10.4596 5.54052V8.23477H7.76535V5.54052H10.4596ZM6.08142 7.56123L8.43889 9.91869L6.33594 12.0216L3.97847 9.66418L6.08142 7.56123Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "bbq",
@@ -13113,7 +13113,7 @@
         "category": "Common",
         "title": "Bbq",
         "fileName": "BbqFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.6112 2.15596C11.504 1.2632 12.9514 1.2632 13.8442 2.15596C14.737 3.04872 14.737 4.49616 13.8442 5.38892C13.06 6.17308 11.8479 6.26847 10.9596 5.67507V8.2348C10.9596 8.51094 10.7358 8.7348 10.4596 8.7348H7.96211L8.79248 9.56517C8.98774 9.76043 8.98774 10.077 8.79248 10.2723L6.68953 12.3752C6.59576 12.469 6.46859 12.5217 6.33598 12.5217C6.20337 12.5217 6.07619 12.469 5.98242 12.3752L5.15726 11.5501L2.5572 14.1501L1.8501 13.443L4.45016 10.843L3.62496 10.0178C3.4297 9.8225 3.4297 9.50591 3.62496 9.31065L5.72791 7.20771C5.92317 7.01244 6.23975 7.01244 6.43501 7.20771L7.26539 8.03808V5.54055C7.26539 5.26441 7.48925 5.04055 7.76539 5.04055H10.3251C9.73168 4.15227 9.82706 2.94013 10.6112 2.15596Z\" fill=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.6112 2.15593C11.504 1.26317 12.9514 1.26317 13.8442 2.15593C14.737 3.04868 14.737 4.49613 13.8442 5.38889C13.06 6.17305 11.8479 6.26844 10.9596 5.67504V8.23477C10.9596 8.51091 10.7358 8.73477 10.4596 8.73477H7.96211L8.79248 9.56514C8.98774 9.7604 8.98774 10.077 8.79248 10.2722L6.68953 12.3752C6.59576 12.469 6.46859 12.5216 6.33598 12.5216C6.20337 12.5216 6.07619 12.469 5.98242 12.3752L5.15726 11.55L2.5572 14.1501L1.8501 13.443L4.45016 10.8429L3.62496 10.0177C3.4297 9.82247 3.4297 9.50588 3.62496 9.31062L5.72791 7.20767C5.92317 7.01241 6.23975 7.01241 6.43501 7.20767L7.26539 8.03805V5.54052C7.26539 5.26438 7.48925 5.04052 7.76539 5.04052H10.3251C9.73168 4.15224 9.82706 2.9401 10.6112 2.15593Z\" fill=\"black\"/>\n</svg>\n"
       },
       {
         "name": "camera",
@@ -13361,7 +13361,7 @@
         "category": "Common",
         "title": "Pen",
         "fileName": "PenIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 13.5L6.5 9.5M2.5 13.5L11 12.5L12.5 8.5M2.5 13.5L3.5 5L7.5 3.5M12.5 8.5L7.5 3.5M12.5 8.5L14.5 6.5L9.5 1.5L7.5 3.5M7 8C6.44772 8 6 8.44772 6 9C6 9.55228 6.44772 10 7 10C7.55228 10 8 9.55228 8 9C8 8.44772 7.55228 8 7 8Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 13.5L6.5 9.5M7.5 3.5L3.5 5L2.5 13.5L11 12.5L12.5 8.5M12.5 8.5L7.5 3.5M12.5 8.5L14.5 6.5L9.5 1.5L7.5 3.5M7 8C6.44772 8 6 8.44772 6 9C6 9.55228 6.44772 10 7 10C7.55228 10 8 9.55228 8 9C8 8.44772 7.55228 8 7 8Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "pen",
@@ -13377,7 +13377,7 @@
         "category": "Common",
         "title": "Cube",
         "fileName": "CubeIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 13.5L2.5 11V5.5M8 13.5L13.5 11V5.5M8 13.5V8M2.5 5.5L8 2.5L13.5 5.5M2.5 5.5L8 8M13.5 5.5L8 8\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5.5L8 2.5L2.5 5.5V11L8 13.5L13.5 11V5.5ZM8 13.5V8M2.5 5.5L8 8M13.5 5.5L8 8\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "cube",
@@ -13457,7 +13457,7 @@
         "category": "Common",
         "title": "Gift",
         "fileName": "GiftIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.99996 13.5V8.50003M7.99996 8.50003C7.99996 6.03101 8.64 4.20434 8.92304 3.63137C9.84612 1.76274 12.1538 2.2299 12.1538 3.16422C12.1538 4.56571 8.92304 5.50002 8.92304 5.50002L11 5.50003L13.5 5.50002V8.50003H12.5769M7.99996 8.50003C7.99996 6.03101 7.35992 4.20434 7.07689 3.63137C6.13714 1.72896 3.84612 2.2299 3.84612 3.16422C3.84612 5.03287 7.07689 5.50002 7.07689 5.50002L4.99996 5.50003H2.5V8.50003H3.5M12.5769 8.50003V13.5H3.5V8.50003M12.5769 8.50003C9.10609 8.50003 7.269 8.50003 3.5 8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.99996 13.5V8.50003M3.5 8.50003C7.269 8.50003 9.10609 8.50003 12.5769 8.50003H13.5V5.50002L11 5.50003L8.92304 5.50002C8.92304 5.50002 12.1538 4.56571 12.1538 3.16422C12.1538 2.2299 9.84612 1.76274 8.92304 3.63137C8.64 4.20434 7.99996 6.03101 7.99996 8.50003M7.99996 8.50003C7.99996 6.03101 7.35992 4.20434 7.07689 3.63137C6.13714 1.72896 3.84612 2.2299 3.84612 3.16422C3.84612 5.03287 7.07689 5.50002 7.07689 5.50002L4.99996 5.50003H2.5V8.50003H3.5M12.5769 8.50003V13.5H3.5V8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "gift",
@@ -13937,7 +13937,7 @@
         "category": "Common",
         "title": "Gather",
         "fileName": "GatherIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 2.5H13.5V13.5H2.5V2.5H6.5M13.5 9H10C10 10.1046 9.10457 11 8 11C6.89543 11 6 10.1046 6 9H2.5M8 2V7.5M8 7.5L10 5.5M8 7.5L6 5.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.5 2.5H13.5V13.5H2.5V2.5H6.5M13.5 9H10C10 10.1046 9.10457 11 8 11C6.89543 11 6 10.1046 6 9H2.5M8 2V7.5M6 5.5L8 7.5L10 5.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "gather",
@@ -14369,7 +14369,7 @@
         "category": "Common",
         "title": "UserLeave",
         "fileName": "UserLeaveIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 4V7.5M13 7.5L14.5 6M13 7.5L11.5 6M2.5 14V13.5C2.5 11.2909 4.29086 9.5 6.5 9.5H7.5C9.70914 9.5 11.5 11.2909 11.5 13.5V14M9.5 5C9.5 6.38071 8.38071 7.5 7 7.5C5.61929 7.5 4.5 6.38071 4.5 5C4.5 3.61929 5.61929 2.5 7 2.5C8.38071 2.5 9.5 3.61929 9.5 5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 4V7.5M11.5 6L13 7.5L14.5 6M2.5 14V13.5C2.5 11.2909 4.29086 9.5 6.5 9.5H7.5C9.70914 9.5 11.5 11.2909 11.5 13.5V14M9.5 5C9.5 6.38071 8.38071 7.5 7 7.5C5.61929 7.5 4.5 6.38071 4.5 5C4.5 3.61929 5.61929 2.5 7 2.5C8.38071 2.5 9.5 3.61929 9.5 5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "user-leave",
@@ -14481,7 +14481,7 @@
         "category": "Common",
         "title": "Mail",
         "fileName": "MailIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 3.5V12.5H14.5V3.5M1.5 3.5H14.5M1.5 3.5L8 8L14.5 3.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 3.5H1.5V12.5H14.5V3.5ZM1.5 3.5L8 8L14.5 3.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "mail",
@@ -14593,7 +14593,7 @@
         "category": "Common",
         "title": "BookTwo",
         "fileName": "BookTwoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 3.70833C6.85003 2.67908 5.33143 2.05323 3.66667 2.05323C2.90696 2.05323 2.17769 2.18356 1.5 2.42309V12.7148C2.17769 12.4752 2.90696 12.3449 3.66667 12.3449C5.33143 12.3449 6.85003 12.9707 8 14M8 3.70833C9.14997 2.67908 10.6686 2.05323 12.3333 2.05323C13.093 2.05323 13.8223 2.18356 14.5 2.42309V12.7148C13.8223 12.4752 13.093 12.3449 12.3333 12.3449C10.6686 12.3449 9.14997 12.9707 8 14M8 3.70833V14\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 14C9.14997 12.9707 10.6686 12.3449 12.3333 12.3449C13.093 12.3449 13.8223 12.4752 14.5 12.7148V2.42309C13.8223 2.18356 13.093 2.05323 12.3333 2.05323C10.6686 2.05323 9.14997 2.67908 8 3.70833C6.85003 2.67908 5.33143 2.05323 3.66667 2.05323C2.90696 2.05323 2.17769 2.18356 1.5 2.42309V12.7148C2.17769 12.4752 2.90696 12.3449 3.66667 12.3449C5.33143 12.3449 6.85003 12.9707 8 14ZM8 3.70833V14\" stroke=\"black\" stroke-linecap=\"round\"/>\n</svg>\n"
       },
       {
         "name": "book-two",
@@ -14769,7 +14769,7 @@
         "category": "Common",
         "title": "Clue",
         "fileName": "ClueIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 2.5V5.5M2.5 2.5H5M2.5 2.5L6.5 7H10.5L10 11M10.75 2.5C9.50736 2.5 8.5 3.50736 8.5 4.75C8.5 5.99264 9.50736 7 10.75 7C11.9926 7 13 5.99264 13 4.75C13 3.50736 11.9926 2.5 10.75 2.5ZM9.75 11C9.05964 11 8.5 11.5596 8.5 12.25C8.5 12.9404 9.05964 13.5 9.75 13.5C10.4404 13.5 11 12.9404 11 12.25C11 11.5596 10.4404 11 9.75 11ZM5.75 7C5.05964 7 4.5 7.55964 4.5 8.25C4.5 8.94036 5.05964 9.5 5.75 9.5C6.44036 9.5 7 8.94036 7 8.25C7 7.55964 6.44036 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 2.5H2.5V5.5M2.5 2.5L6.5 7H10.5L10 11M10.75 2.5C9.50736 2.5 8.5 3.50736 8.5 4.75C8.5 5.99264 9.50736 7 10.75 7C11.9926 7 13 5.99264 13 4.75C13 3.50736 11.9926 2.5 10.75 2.5ZM9.75 11C9.05964 11 8.5 11.5596 8.5 12.25C8.5 12.9404 9.05964 13.5 9.75 13.5C10.4404 13.5 11 12.9404 11 12.25C11 11.5596 10.4404 11 9.75 11ZM5.75 7C5.05964 7 4.5 7.55964 4.5 8.25C4.5 8.94036 5.05964 9.5 5.75 9.5C6.44036 9.5 7 8.94036 7 8.25C7 7.55964 6.44036 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "clue",
@@ -14833,7 +14833,7 @@
         "category": "Common",
         "title": "Male",
         "fileName": "MaleIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 8L13.5 2.5M13.5 2.5H8.5M13.5 2.5V7.5M5.75 7C7.54493 7 9 8.45507 9 10.25C9 12.0449 7.54493 13.5 5.75 13.5C3.95507 13.5 2.5 12.0449 2.5 10.25C2.5 8.45507 3.95507 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 8L13.5 2.5M13.5 7.5V2.5H8.5M5.75 7C7.54493 7 9 8.45507 9 10.25C9 12.0449 7.54493 13.5 5.75 13.5C3.95507 13.5 2.5 12.0449 2.5 10.25C2.5 8.45507 3.95507 7 5.75 7Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "male",
@@ -14881,7 +14881,7 @@
         "category": "Retail",
         "title": "VipConsume",
         "fileName": "VipConsumeIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 6L8 10.5L12 6M12 12.5L10.5 11M12 12.5V9M12 12.5L13.5 11M9.5 12L9 12.5L8 13.5L1.5 6.5L5 2.5H11L14.5 6.5L13.5 7.5L13 8\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 6L8 10.5L12 6M13.5 11L12 12.5L10.5 11M12 12.5V9M9.5 12L9 12.5L8 13.5L1.5 6.5L5 2.5H11L14.5 6.5L13.5 7.5L13 8\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "vip-consume",
@@ -14913,7 +14913,7 @@
         "category": "Retail",
         "title": "Integral",
         "fileName": "IntegralIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 13.5H11M11 13.5H12.5V12H9.5V10.5H11M11 13.5V14.5M11 10.5H13M11 10.5V9.5M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V9M3.5 9V6.5M3.5 9C3.5 10.1046 5.51472 11 8 11M3.5 6.5V4M3.5 6.5C3.5 7.60457 5.51472 8.5 8 8.5C10.4853 8.5 12.5 7.60457 12.5 6.5M3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4M3.5 4C3.5 5.10457 5.51472 6 8 6C10.4853 6 12.5 5.10457 12.5 4M12.5 4V6.5M12.5 6.5V9\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 13.5H11M11 13.5H12.5V12H9.5V10.5H11M11 13.5V14.5M11 10.5H13M11 10.5V9.5M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V9M3.5 9V6.5M3.5 9C3.5 10.1046 5.51472 11 8 11M3.5 6.5V4M3.5 6.5C3.5 7.60457 5.51472 8.5 8 8.5C10.4853 8.5 12.5 7.60457 12.5 6.5M12.5 4C12.5 5.10457 10.4853 6 8 6C5.51472 6 3.5 5.10457 3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4V6.5M12.5 6.5V9\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "integral",
@@ -14929,7 +14929,7 @@
         "category": "Retail",
         "title": "IntegralDistribute",
         "fileName": "IntegralDistributeIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V4M3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4M3.5 4C3.5 5.10457 5.51472 6 8 6C10.4853 6 12.5 5.10457 12.5 4M12.5 4V9M12.5 6.5C12.5 7.60457 10.4853 8.5 8 8.5C5.51472 8.5 3.5 7.60457 3.5 6.5M8 11C5.51472 11 3.5 10.1046 3.5 9M9.00003 10.0001L12.5 13.5001M12.5 13.5001L12.5 10.0001M12.5 13.5001L9.00002 13.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 13.5C5.51472 13.5 3.5 12.6046 3.5 11.5V4M12.5 4C12.5 5.10457 10.4853 6 8 6C5.51472 6 3.5 5.10457 3.5 4C3.5 4 4 2.5 8 2.5C12 2.5 12.5 4 12.5 4V9M12.5 6.5C12.5 7.60457 10.4853 8.5 8 8.5C5.51472 8.5 3.5 7.60457 3.5 6.5M8 11C5.51472 11 3.5 10.1046 3.5 9M9.00003 10.0001L12.5 13.5001M9.00002 13.5L12.5 13.5001L12.5 10.0001\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "integral-distribute",
@@ -14961,7 +14961,7 @@
         "category": "Retail",
         "title": "Distribution",
         "fileName": "DistributionIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12C5 11.1716 4.32843 10.5 3.5 10.5C2.67157 10.5 2 11.1716 2 12C2 12.8284 2.67157 13.5 3.5 13.5C4.32843 13.5 5 12.8284 5 12ZM5 12H10.5M10.5 12C10.5 11.1716 11.1716 10.5 12 10.5C12.8284 10.5 13.5 11.1716 13.5 12M10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12M13.5 12H14.5V6.5M14.5 6.5H9.5V4.5M14.5 6.5L13 4.5H9.5M9.5 4.5V2.5H3M2 5.5H6.5M1 8.5H5.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12C5 11.1716 4.32843 10.5 3.5 10.5C2.67157 10.5 2 11.1716 2 12C2 12.8284 2.67157 13.5 3.5 13.5C4.32843 13.5 5 12.8284 5 12ZM5 12H10.5M10.5 12C10.5 11.1716 11.1716 10.5 12 10.5C12.8284 10.5 13.5 11.1716 13.5 12M10.5 12C10.5 12.8284 11.1716 13.5 12 13.5C12.8284 13.5 13.5 12.8284 13.5 12M9.5 4.5H13L14.5 6.5V12H13.5M14.5 6.5H9.5V4.5M9.5 4.5V2.5H3M2 5.5H6.5M1 8.5H5.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "distribution",
@@ -15041,7 +15041,7 @@
         "category": "Retail",
         "title": "Replenishment",
         "fileName": "ReplenishmentIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5V13.5H13.5V5M2.5 5L5 2.5H11L13.5 5M2.5 5H13.5M5.5 9H10.5M8 6.5V11.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5L11 2.5H5L2.5 5V13.5H13.5V5ZM2.5 5H13.5M5.5 9H10.5M8 6.5V11.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "replenishment",
@@ -15137,7 +15137,7 @@
         "category": "Retail",
         "title": "SalesReturn",
         "fileName": "SalesReturnIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 5V13.5H1.5V5M14.5 5L12 2.5H4L1.5 5M14.5 5H1.5M6 10.5H10C10.5523 10.5 11 10.0523 11 9.5C11 8.94772 10.5523 8.5 10 8.5H5.5L7 7\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 5L4 2.5H12L14.5 5V13.5H1.5V5ZM14.5 5H1.5M6 10.5H10C10.5523 10.5 11 10.0523 11 9.5C11 8.94772 10.5523 8.5 10 8.5H5.5L7 7\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "sales-return",
@@ -15153,7 +15153,7 @@
         "category": "Retail",
         "title": "ManagementStockout",
         "fileName": "ManagementStockoutIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.58337 4.50004L8.00004 1.58337L14.4167 4.50004M1.58337 4.50004L8.00004 7.41671M1.58337 4.50004V10.9167L8.00004 14.4167M8.00004 7.41671L14.4167 4.50004M8.00004 7.41671V14.4167M14.4167 4.50004L14.4166 10.9167L8.00004 14.4167M10.5 13V9.50003M12.5 12V8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00004 14.4167L14.4166 10.9167L14.4167 4.50004L8.00004 1.58337L1.58337 4.50004V10.9167L8.00004 14.4167ZM1.58337 4.50004L8.00004 7.41671M8.00004 7.41671L14.4167 4.50004M8.00004 7.41671V14.4167M10.5 13V9.50003M12.5 12V8.50003\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "management-stockout",
@@ -15169,7 +15169,7 @@
         "category": "Retail",
         "title": "ShelfUp",
         "fileName": "ShelfUpIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5V13.5H2.5V5M13.5 5L11 2.5H5L2.5 5M13.5 5H2.5M6 9.5L8 7.5M8 7.5L10 9.5M8 7.5V12\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5L5 2.5H11L13.5 5V13.5H2.5V5ZM13.5 5H2.5M10 9.5L8 7.5L6 9.5M8 7.5V12\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "shelf-up",
@@ -15185,7 +15185,7 @@
         "category": "Retail",
         "title": "ShelfDown",
         "fileName": "ShelfDownIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5V13.5H2.5L2.5 5M13.5 5L11 2.5H5L2.5 5M13.5 5H2.5M8 7V11.5M8 11.5L10 9.5M8 11.5L6 9.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5L5 2.5H11L13.5 5V13.5H2.5L2.5 5ZM13.5 5H2.5M8 7V11.5M6 9.5L8 11.5L10 9.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "shelf-down",
@@ -15201,7 +15201,7 @@
         "category": "Retail",
         "title": "TimingShelfDown",
         "fileName": "TimingShelfDownIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8H8V4M11.5 9.5V13M11.5 13L13 11.5M11.5 13L10 11.5M7.92206 14.4995C4.36812 14.4578 1.5 11.5638 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5637 1.5 14.4576 4.36793 14.4995 7.9217C14.4998 7.94776 14.5 7.97386 14.5 8M14.5 11.5C14.5 13.1569 13.1569 14.5 11.5 14.5C9.84315 14.5 8.5 13.1569 8.5 11.5C8.5 9.84315 9.84315 8.5 11.5 8.5C13.1569 8.5 14.5 9.84315 14.5 11.5Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 8H8V4M11.5 9.5V13M10 11.5L11.5 13L13 11.5M7.92206 14.4995C4.36812 14.4578 1.5 11.5638 1.5 8C1.5 4.41015 4.41015 1.5 8 1.5C11.5637 1.5 14.4576 4.36793 14.4995 7.9217C14.4998 7.94776 14.5 7.97386 14.5 8M14.5 11.5C14.5 13.1569 13.1569 14.5 11.5 14.5C9.84315 14.5 8.5 13.1569 8.5 11.5C8.5 9.84315 9.84315 8.5 11.5 8.5C13.1569 8.5 14.5 9.84315 14.5 11.5Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "timing-shelf-down",
@@ -15217,7 +15217,7 @@
         "category": "Retail",
         "title": "ProcessMode",
         "fileName": "ProcessModeIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 1.5H3.5V14.5H12.5V5M9 1.5L12.5 5M9 1.5V5H12.5M5 8H11M5 5H7.5M5 11H11\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.5 5L9 1.5H3.5V14.5H12.5V5ZM9 1.5V5H12.5M5 8H11M5 5H7.5M5 11H11\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "process-mode",
@@ -15233,7 +15233,7 @@
         "category": "Retail",
         "title": "GoodsSearch",
         "fileName": "GoodsSearchIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5 5V13.5H2.5V5M13.5 5L11 2.5H5L2.5 5M13.5 5H2.5M9 10L10.5 11.5M9.5 9C9.5 9.82843 8.82843 10.5 8 10.5C7.17157 10.5 6.5 9.82843 6.5 9C6.5 8.17157 7.17157 7.5 8 7.5C8.82843 7.5 9.5 8.17157 9.5 9Z\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2.5 5L5 2.5H11L13.5 5V13.5H2.5V5ZM13.5 5H2.5M9 10L10.5 11.5M9.5 9C9.5 9.82843 8.82843 10.5 8 10.5C7.17157 10.5 6.5 9.82843 6.5 9C6.5 8.17157 7.17157 7.5 8 7.5C8.82843 7.5 9.5 8.17157 9.5 9Z\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "goods-search",
@@ -15313,7 +15313,7 @@
         "category": "Retail",
         "title": "WarehouseInto",
         "fileName": "WarehouseIntoIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M1 11H9M9 11L7 9M9 11L7 13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M1 11H9M7 13L9 11L7 9\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "warehouse-into",
@@ -15329,7 +15329,7 @@
         "category": "Retail",
         "title": "OutOfWarehouse",
         "fileName": "OutOfWarehouseIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M9.5 11H1.5M1.5 11L3.5 9M1.5 11L3.5 13\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M9.5 11H1.5M3.5 13L1.5 11L3.5 9\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "out-of-warehouse",
@@ -15361,7 +15361,7 @@
         "category": "Retail",
         "title": "Incubator",
         "fileName": "IncubatorIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5 5V13.5H1.5V5M14.5 5H1.5M14.5 5L12 2.5H4L1.5 5M10.5781 7.77125C10.2122 7.30186 9.64133 7 9 7C7.89543 7 7 7.89543 7 9C7 10.1046 7.89543 11 9 11C9.74028 11 10.3866 10.5978 10.7324 10M4.5 7.25H4.505V7.255H4.5V7.25ZM4.75 7.25C4.75 7.38807 4.63807 7.5 4.5 7.5C4.36193 7.5 4.25 7.38807 4.25 7.25C4.25 7.11193 4.36193 7 4.5 7C4.63807 7 4.75 7.11193 4.75 7.25Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 5L4 2.5H12L14.5 5V13.5H1.5V5ZM14.5 5H1.5M10.5781 7.77125C10.2122 7.30186 9.64133 7 9 7C7.89543 7 7 7.89543 7 9C7 10.1046 7.89543 11 9 11C9.74028 11 10.3866 10.5978 10.7324 10M4.5 7.25H4.505V7.255H4.5V7.25ZM4.75 7.25C4.75 7.38807 4.63807 7.5 4.5 7.5C4.36193 7.5 4.25 7.38807 4.25 7.25C4.25 7.11193 4.36193 7 4.5 7C4.63807 7 4.75 7.11193 4.75 7.25Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "incubator",
@@ -15377,7 +15377,7 @@
         "category": "Retail",
         "title": "ToggleWarehouseX",
         "fileName": "ToggleWarehouseXIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M4.5 12.5L2.5 10.5M4.5 12.5L6.5 10.5M8 9.5L10 7.5M10 7.5L12 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M6.5 10.5L4.5 12.5L2.5 10.5M12 9.5L10 7.5L8 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "toggle-warehouse-x",
@@ -15385,7 +15385,7 @@
         "category": "Retail",
         "title": "ToggleWarehouseX",
         "fileName": "ToggleWarehouseXFilledIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M4.5 12.5L2.5 10.5M4.5 12.5L6.5 10.5M8 9.5L10 7.5M10 7.5L12 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M4.5 6.5V12.5M6.5 10.5L4.5 12.5L2.5 10.5M12 9.5L10 7.5L8 9.5M10 7.5V12\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "toggle-warehouse-y",
@@ -15393,7 +15393,7 @@
         "category": "Retail",
         "title": "ToggleWarehouseY",
         "fileName": "ToggleWarehouseYIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M8 10.5H2M2 10.5L4 12.5M2 10.5L4 8.5M7 8.5H13M13 8.5L11 6.5M13 8.5L11 10.5\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 12.5H14.5V5.5L8 3.5L1.5 5.5V8M8 10.5H2M4 8.5L2 10.5L4 12.5M7 8.5H13M11 10.5L13 8.5L11 6.5\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "toggle-warehouse-y",
@@ -15697,7 +15697,7 @@
         "category": "File",
         "title": "OrderIntegral",
         "fileName": "OrderIntegralIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 2.5H3.5V14.5H8.5M10.5 2.5H12.5V7.5M9.49995 9.5V13.5C9.49995 13.8333 9.99995 14.5 12 14.5C14 14.5 14.5 13.6667 14.5 13.5L14.5 9.5M9.49995 9.5C9.49993 9 10.5 8.5 12 8.5C13.5 8.5 14.5 9 14.5 9.5M9.49995 9.5C9.49995 9.83333 9.99995 10.5 12 10.5C14 10.5 14.5 9.83333 14.5 9.5M9.49995 11.5C9.49995 11.8333 9.99995 12.5 12 12.5C14 12.5 14.5 11.8333 14.5 11.5M5.5 1.5H10.5L9.875 3.5H6.125L5.5 1.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.5 2.5H3.5V14.5H8.5M10.5 2.5H12.5V7.5M14.5 9.5C14.5 9 13.5 8.5 12 8.5C10.5 8.5 9.49993 9 9.49995 9.5V13.5C9.49995 13.8333 9.99995 14.5 12 14.5C14 14.5 14.5 13.6667 14.5 13.5L14.5 9.5ZM9.49995 9.5C9.49995 9.83333 9.99995 10.5 12 10.5C14 10.5 14.5 9.83333 14.5 9.5M9.49995 11.5C9.49995 11.8333 9.99995 12.5 12 12.5C14 12.5 14.5 11.8333 14.5 11.5M5.5 1.5H10.5L9.875 3.5H6.125L5.5 1.5Z\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "order-integral",
@@ -15825,7 +15825,7 @@
         "category": "File",
         "title": "Report",
         "fileName": "ReportIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.5625 1.54547H2.5V12.4546H11.5V5.36365M7.5625 1.54547L11.5 5.36365M7.5625 1.54547V5.36365H11.5M4.5 14.5H13.5V7.50002M4 7.50002H10M4 5.00002H6M4 10H10\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5 5.36365L7.5625 1.54547H2.5V12.4546H11.5V5.36365ZM7.5625 1.54547V5.36365H11.5M4.5 14.5H13.5V7.50002M4 7.50002H10M4 5.00002H6M4 10H10\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "report",
@@ -15985,7 +15985,7 @@
         "category": "File",
         "title": "FileImport",
         "fileName": "FileImportIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 11H7.5M9 9L7 11L9 13M9.5 14.5H3.5V1.5H9M9 1.5V5H12.5M9 1.5L12.5 5M12.5 5V7.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 11H7.5M9 9L7 11L9 13M12.5 7.5V5L9 1.5H3.5V14.5H9.5M9 1.5V5H12.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "file-import",
@@ -16001,7 +16001,7 @@
         "category": "File",
         "title": "FileExport",
         "fileName": "FileExportIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 11.5H13.5M12 13.5L14 11.5L12 9.5M9.5 14.5H3.5V1.5H9M9 1.5V5H12.5M9 1.5L12.5 5M12.5 5V7.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 11.5H13.5M12 13.5L14 11.5L12 9.5M12.5 7.5V5L9 1.5H3.5V14.5H9.5M9 1.5V5H12.5\" stroke=\"black\" stroke-linejoin=\"round\"/>\n</svg>\n"
       },
       {
         "name": "file-export",
@@ -16065,7 +16065,7 @@
         "category": "File",
         "title": "FolderOpen",
         "fileName": "FolderOpenIcon",
-        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 12.5H13L14.5 7H13M1.5 12.5L4 8H8L9.5 7H13M1.5 12.5V3.5H6.5L8 5H13V7\" stroke=\"black\"/>\n</svg>\n"
+        "fileContent": "<svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 7V5H8L6.5 3.5H1.5V12.5H13L14.5 7H13ZM1.5 12.5L4 8H8L9.5 7H13\" stroke=\"black\"/>\n</svg>\n"
       },
       {
         "name": "folder-open",
