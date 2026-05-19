@@ -2,6 +2,7 @@
   "name": "@wisdesign/lsicon",
   "version": "0.0.63",
   "description": "Icon sets power by lsicon",
+  "license": "MIT",
   "homepage": "https://www.lsicon.com",
   "repository": {
     "type": "git",
