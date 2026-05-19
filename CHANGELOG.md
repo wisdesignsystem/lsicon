@@ -1,5 +1,11 @@
 # @wisdesign/lsicon
 
+## 0.0.64
+
+### Patch Changes
+
+- [`70b22ee`](https://github.com/wisdesignsystem/lsicon/commit/70b22ee26d5f5df3bc4427d1581c7cf0d632bb6f) Thanks [@leefanv](https://github.com/leefanv)! - Add `license: MIT` field to package.json so npm registry exposes it (fixes the npm license badge).
+
 ## 0.0.63
 
 ### Patch Changes
