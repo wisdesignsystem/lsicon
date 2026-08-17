@@ -1,5 +1,28 @@
 # @wisdesign/lsicon
 
+## 0.0.65
+
+### Patch Changes
+
+- [#135](https://github.com/wisdesignsystem/lsicon/pull/135) [`b9c945b`](https://github.com/wisdesignsystem/lsicon/commit/b9c945b95ab2564178decabd7a8d03290efb1c73) Thanks [@leefanv](https://github.com/leefanv)! - Release new icon version
+
+  🚀 add icons(14):
+
+  - PhoneLockIcon
+  - PhoneLockFilledIcon
+  - PhoneIncomingIcon
+  - PhoneIncomingFilledIcon
+  - PhoneOutgoingIcon
+  - PhoneOutgoingFilledIcon
+  - PhoneBlockIcon
+  - PhoneBlockFilledIcon
+  - PhoneVoiceIcon
+  - PhoneVoiceFilledIcon
+  - PhoneSettingIcon
+  - PhoneSettingFilledIcon
+  - PhoneOffIcon
+  - PhoneOffFilledIcon
+
 ## 0.0.64
 
 ### Patch Changes
